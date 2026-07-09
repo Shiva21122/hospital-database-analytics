@@ -1,0 +1,16 @@
+DepartmentID,DepartmentName,TotalAppointments
+1,Admin,0
+2,Finance,0
+3,HR,0
+4,IT,0
+5,Emergency,0
+6,General,219
+7,Cardiology,81
+8,Pediatric,0
+9,Orthopedic,77
+10,Neurology,78
+11,Obstetrics & Gynaecology,116
+12,Hematology,65
+13,Anesthesiology,99
+14,Radiology,163
+15,Pathology,102

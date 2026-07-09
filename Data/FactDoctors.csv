@@ -1,0 +1,51 @@
+DoctorID,DepartmentID,FirstName,LastName,Specialization,Phonenumber,Email,Availability,FullName
+1,10,Joseph,Vasquez,Neurology,13176361831,matajustin@hanson.net,13:00 - 21:00,Joseph Vasquez
+2,14,Katherine,Smith,Radiology,12844467190,houstonsarah@nelson.com,11:00 - 19:00,Katherine Smith
+3,14,Debra,Roy,Radiology,19662427015,stacy29@gmail.com,11:00 - 19:00,Debra Roy
+4,12,Linda,Griffin,Hematology,16488457171,dawn92@hotmail.com,Unavailable,Linda Griffin
+5,14,Matthew,Duncan,Radiology,15226796808,maryjacobs@nelson.info,Unavailable,Matthew Duncan
+6,9,Stephanie,Mitchell,Orthopedic,13506739548,juliefisher@yahoo.com,Unavailable,Stephanie Mitchell
+7,7,David,Harrell,Cardiology,17484025372,collinhess@hotmail.com,11:00 - 19:00,David Harrell
+8,11,Kenneth,Nichols,Obstetrics & Gynaecology,11874656019,jorge57@yahoo.com,On-Call,Kenneth Nichols
+9,14,Kyle,Murphy,Radiology,12670650594,nicholsrichard@gmail.com,On-Call,Kyle Murphy
+10,10,Derek,Schroeder,Neurology,10068239382,jdixon@yahoo.com,12:00 - 20:00,Derek Schroeder
+11,13,Natalie,Carter,Anesthesiology,14726986724,stricklandwesley@hotmail.com,10:00 - 18:00,Natalie Carter
+12,11,Kristina,Wells,Obstetrics & Gynaecology,10015572979,andersonsherri@hotmail.com,12:00 - 20:00,Kristina Wells
+13,14,David,Dunn,Radiology,17761362174,carsonmatthew@hotmail.com,13:00 - 21:00,David Dunn
+14,11,Daniel,Benton,Obstetrics & Gynaecology,10598464607,ucamacho@hotmail.com,9:00 - 17:00,Daniel Benton
+15,6,Kathleen,Walker,General,17664881103,jennifer77@moreno-brown.com,9:00 - 17:00,Kathleen Walker
+16,12,Daniel,Armstrong,Hematology,12002145567,sarahlopez@thornton.com,13:00 - 21:00,Daniel Armstrong
+17,11,Eric,Austin,Obstetrics & Gynaecology,12445979386,martinkim@wells-hill.com,11:00 - 19:00,Eric Austin
+18,15,Debra,Andrews,Pathology,15025692665,kim58@barnes.info,10:00 - 18:00,Debra Andrews
+19,14,Karen,Smith,Radiology,14153117358,jordanreed@mckee.biz,13:00 - 21:00,Karen Smith
+20,9,Douglas,Perry,Orthopedic,10432780541,morganadam@gmail.com,9:00 - 17:00,Douglas Perry
+21,9,Louis,Martin,Orthopedic,19518765730,hardinmichael@ibarra.info,10:00 - 18:00,Louis Martin
+22,8,Paul,Terry,Pediatric,19960873217,hwilliams@smith-turner.net,On-Call,Paul Terry
+23,9,Cody,Crawford,Orthopedic,14946899716,victoriajackson@yahoo.com,11:00 - 19:00,Cody Crawford
+24,10,Matthew,Russell,Neurology,11951681624,vjones@osborn-pope.biz,12:00 - 20:00,Matthew Russell
+25,12,Matthew,Walker,Hematology,12539060559,zdiaz@wilson.com,9:00 - 17:00,Matthew Walker
+26,7,Mark,Davis,Cardiology,19002616164,kathryn59@erickson.net,13:00 - 21:00,Mark Davis
+27,13,Edward,Rush,Anesthesiology,13517981018,villajimmy@wilson.com,13:00 - 21:00,Edward Rush
+28,14,Johnny,Gonzalez,Radiology,18044695494,juliebryant@yahoo.com,Unavailable,Johnny Gonzalez
+29,15,Louis,Stanley,Pathology,17076061058,edwardskevin@gmail.com,12:00 - 20:00,Louis Stanley
+30,11,Scott,Collins,Obstetrics & Gynaecology,19896604849,xruiz@davidson.com,Unavailable,Scott Collins
+31,6,Melanie,Webb,General,12150589058,keithkeller@gmail.com,13:00 - 21:00,Melanie Webb
+32,14,Marie,Williams,Radiology,17307840221,iwilliams@yahoo.com,9:00 - 17:00,Marie Williams
+33,6,Patricia,Fisher,General,12313635552,melinda57@garcia.com,11:00 - 19:00,Patricia Fisher
+34,7,Mason,Obrien,Cardiology,14508408155,scott18@johnson.com,Unavailable,Mason Obrien
+35,6,Marilyn,Sanchez,General,14450267784,jackieyu@gmail.com,11:00 - 19:00,Marilyn Sanchez
+36,14,Colin,Moore,Radiology,17860353220,umiller@gmail.com,13:00 - 21:00,Colin Moore
+37,6,Charles,Scott,General,16720519798,cyang@hotmail.com,Unavailable,Charles Scott
+38,7,Kevin,Smith,Cardiology,12094931812,davisdaniel@benjamin.com,Unavailable,Kevin Smith
+39,15,Grant,Santiago,Pathology,15185479708,sandovalmichael@hotmail.com,11:00 - 19:00,Grant Santiago
+40,15,Kathryn,Long,Pathology,19952792718,hayestimothy@yahoo.com,Unavailable,Kathryn Long
+41,15,David,Garcia,Pathology,15910025536,maryphillips@campbell.com,9:00 - 17:00,David Garcia
+42,6,Kyle,Mercado,General,13977106548,robert94@thompson.com,13:00 - 21:00,Kyle Mercado
+43,12,Roy,Guzman,Hematology,16650823737,ryanho@moore.com,9:00 - 17:00,Roy Guzman
+44,13,Michele,Kelly,Anesthesiology,15586841924,jonesrebecca@jones.com,12:00 - 20:00,Michele Kelly
+45,13,Michelle,Schneider,Anesthesiology,14844494481,johnsonmichelle@hotmail.com,Unavailable,Michelle Schneider
+46,6,Eugene,Harper,General,15019013117,fisherstacey@olsen.com,9:00 - 17:00,Eugene Harper
+47,7,Jared,Gonzales,Cardiology,16030507593,frobinson@rios.biz,13:00 - 21:00,Jared Gonzales
+48,11,Steven,Clark,Obstetrics & Gynaecology,14368135352,campbellkristy@garcia-keller.net,11:00 - 19:00,Steven Clark
+49,9,Nicholas,Yoder,Orthopedic,10887888234,fuentesannette@gmail.com,Unavailable,Nicholas Yoder
+50,6,David,Harris,General,19662766099,ellisonkimberly@yahoo.com,12:00 - 20:00,David Harris

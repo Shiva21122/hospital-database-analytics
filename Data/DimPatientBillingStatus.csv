@@ -1,0 +1,501 @@
+PatientID,FirstName,LastName,Amount,Status,PaymentDate,PaymentMethod
+1,Benjamin,Ferguson,1106.42,Unpaid,,
+2,Douglas,Marsh,780.06,Unpaid,,
+3,Lee,Gordon,941.01,Unpaid,,
+5,Michael,Cooper,1041.53,Unpaid,,
+6,Alexis,Dominguez,392.53,Unpaid,,
+7,Lori,Smith,1170.47,Unpaid,,
+9,Joshua,Juarez,84.95,Unpaid,,
+10,Ryan,Anderson,141.07,Unpaid,,
+14,Heather,Hall,985.93,Unpaid,,
+16,Olivia,Jackson,890.09,Unpaid,,
+17,Brittany,Stewart,331.36,Unpaid,,
+18,Lynn,Smith,120.51,Unpaid,,
+19,Caroline,Gonzalez,580.28,Unpaid,,
+20,John,Adkins,358.26,Unpaid,,
+21,Veronica,Jones,1148.69,Unpaid,,
+24,Jenny,Garcia,1150.31,Unpaid,,
+27,Jennifer,Foster,1409.33,Unpaid,,
+28,Leslie,Church,594.87,Unpaid,,
+29,Isabella,Clark,1094.19,Unpaid,,
+31,Amy,Williams,292.22,Unpaid,,
+32,Ashley,Evans,1308,Unpaid,,
+35,Joanne,Berry,1064.29,Unpaid,,
+38,Sara,Rodriguez,773.92,Unpaid,,
+39,Mark,Riley,832.39,Unpaid,,
+40,Kara,Russell,610.35,Unpaid,,
+44,Jason,Torres,609.05,Unpaid,,
+46,Steven,Wilson,179.04,Unpaid,,
+47,Sarah,Winters,596.65,Unpaid,,
+48,Walter,Jones,1195.6,Unpaid,,
+49,Kristen,Miles,982.03,Unpaid,,
+52,Samuel,Henderson,959.14,Unpaid,,
+56,Carla,Perez,641.52,Unpaid,,
+58,Kathleen,Burgess,330.91,Unpaid,,
+59,Maria,Johnson,655.6,Unpaid,,
+60,Rhonda,Peterson,226.94,Unpaid,,
+61,Stephen,Villanueva,1188.29,Unpaid,,
+63,Kelly,Christian,1481.57,Unpaid,,
+64,Richard,Smith,1041.94,Unpaid,,
+65,Victor,Scott,864.27,Unpaid,,
+76,Caroline,Smith,854.24,Unpaid,,
+77,Megan,Smith,1250.81,Unpaid,,
+79,John,Martinez,543.42,Unpaid,,
+82,Cindy,Jones,1128.79,Unpaid,,
+83,Michael,Hubbard,285.63,Unpaid,,
+84,Matthew,Lamb,592.98,Unpaid,,
+87,Janet,Smith,1076.99,Unpaid,,
+91,William,Melendez,563.11,Unpaid,,
+95,Anthony,Wolfe,1465.21,Unpaid,,
+96,Deborah,Cobb,67.18,Unpaid,,
+97,Thomas,Smith,367.71,Unpaid,,
+99,Michael,Garcia,779.52,Unpaid,,
+100,Carl,Gross,1273.7,Unpaid,,
+101,Brandon,Coleman,249.76,Unpaid,,
+105,Sonya,Snyder,132.3,Unpaid,,
+106,Sarah,Castillo,172.06,Unpaid,,
+111,Ronald,Stein,121.74,Unpaid,,
+112,Nicholas,Lee,70.29,Unpaid,,
+115,Nathan,Harrell,1078.31,Unpaid,,
+116,Brandi,Mccarthy,1147.34,Unpaid,,
+118,Kelly,Glenn,959.33,Unpaid,,
+121,Rebecca,Munoz,515.45,Unpaid,,
+122,Heather,Johnson,1448.33,Unpaid,,
+125,David,Delgado,365.05,Unpaid,,
+129,Stephanie,Boone,1180.3,Unpaid,,
+130,Jennifer,White,1124.08,Unpaid,,
+134,Sandra,Callahan,193.09,Unpaid,,
+136,Andrew,Lang,843.62,Unpaid,,
+139,Chase,Thompson,1379.82,Unpaid,,
+141,Anthony,Rogers,74.9,Unpaid,,
+143,Russell,Riddle,598.72,Unpaid,,
+147,Guy,Wilson,468,Unpaid,,
+148,James,Nixon,251.95,Unpaid,,
+149,Katherine,Flores,1376.93,Unpaid,,
+150,Joy,Brandt,1038.22,Unpaid,,
+153,Virginia,Johnson,566.47,Unpaid,,
+157,Dennis,Rogers,616.61,Unpaid,,
+158,Lance,Cook,737.15,Unpaid,,
+159,Bryan,Barrett,532.51,Unpaid,,
+160,Pamela,Peterson,528.28,Unpaid,,
+161,Erica,Garza,396.27,Unpaid,,
+163,Teresa,Haley,340.05,Unpaid,,
+164,David,Carlson,732.23,Unpaid,,
+166,Terri,Perez,1230.06,Unpaid,,
+168,Theresa,Barker,829.19,Unpaid,,
+169,Stephanie,Miller,403.4,Unpaid,,
+170,Matthew,Taylor,899.43,Unpaid,,
+171,Leah,Wong,837.32,Unpaid,,
+172,Renee,Santiago,916.73,Unpaid,,
+173,Kevin,Green,429.33,Unpaid,,
+174,Robin,Lawson,710.51,Unpaid,,
+179,Jessica,Munoz,423.07,Unpaid,,
+182,Samantha,Manning,769.56,Unpaid,,
+183,Mitchell,Contreras,663.37,Unpaid,,
+185,Emily,Swanson,251.43,Unpaid,,
+186,Tanya,Mcintosh,877.55,Unpaid,,
+188,Eric,Eaton,378.9,Unpaid,,
+190,Charlene,Fleming,652.3,Unpaid,,
+191,Drew,Herrera,130.57,Unpaid,,
+192,Francisco,Faulkner,983.07,Unpaid,,
+193,Joshua,Jones,1012.94,Unpaid,,
+195,Emily,Holland,1182.47,Unpaid,,
+196,Laura,Jennings,838.21,Unpaid,,
+198,Sarah,Madden,620.44,Unpaid,,
+199,Angela,Jimenez,727.33,Unpaid,,
+200,Brent,Burton,145.35,Unpaid,,
+201,Martin,Burnett,386.35,Unpaid,,
+202,John,Donaldson,1477.19,Unpaid,,
+203,Tracy,Pham,249.78,Unpaid,,
+209,Christopher,Moss,1313.52,Unpaid,,
+211,Kelly,Hernandez,1231.85,Unpaid,,
+213,Kevin,Harvey,1049.13,Unpaid,,
+214,Jessica,Hayes,189.04,Unpaid,,
+215,Julie,Haney,1228.62,Unpaid,,
+216,Teresa,Levine,1281.38,Unpaid,,
+218,Daniel,Miller,1341.85,Unpaid,,
+221,Melissa,Moore,765.46,Unpaid,,
+223,Paul,Rose,664.07,Unpaid,,
+224,Kevin,Martin,412.99,Unpaid,,
+227,Edward,Lopez,355.96,Unpaid,,
+231,Nicholas,Brown,411.33,Unpaid,,
+233,Paul,Maldonado,1025.71,Unpaid,,
+234,Sarah,Love,282.38,Unpaid,,
+239,Christian,Paul,388.4,Unpaid,,
+243,Nicole,Thompson,392.86,Unpaid,,
+244,Andrew,Taylor,516.23,Unpaid,,
+254,Chelsea,Phillips,488.27,Unpaid,,
+255,Michele,Brown,1465.12,Unpaid,,
+257,Melissa,Carter,433.48,Unpaid,,
+258,Mary,Wright,801.97,Unpaid,,
+261,Jason,Giles,406.48,Unpaid,,
+263,Chad,Edwards,1021.29,Unpaid,,
+265,Stacy,Sullivan,1312.05,Unpaid,,
+268,Todd,Fletcher,1395.91,Unpaid,,
+270,Ricky,Brooks,1411.26,Unpaid,,
+271,Richard,Le,1126.22,Unpaid,,
+272,Ronald,Munoz,638.37,Unpaid,,
+273,Jeffrey,Martinez,1312.32,Unpaid,,
+274,Morgan,Waller,859.32,Unpaid,,
+275,Louis,Williams,730.07,Unpaid,,
+276,Crystal,Gray,608.27,Unpaid,,
+277,Lisa,Vaughan,1355.57,Unpaid,,
+279,Elizabeth,Bentley,969.93,Unpaid,,
+280,Michael,Newman,914.7,Unpaid,,
+283,Chad,Taylor,336.29,Unpaid,,
+286,Debbie,Adkins,135.71,Unpaid,,
+288,Laura,Russo,461.13,Unpaid,,
+289,David,Pruitt,676.42,Unpaid,,
+292,Matthew,Wise,464.66,Unpaid,,
+294,Keith,Johns,765.75,Unpaid,,
+296,Monica,Campbell,760.81,Unpaid,,
+298,Jacob,Rodriguez,671.7,Unpaid,,
+303,Andrea,Gonzalez,181.22,Unpaid,,
+304,Kevin,Edwards,1459.1,Unpaid,,
+306,Elizabeth,Long,193.25,Unpaid,,
+307,William,Brown,854.34,Unpaid,,
+308,Ashley,Davis,324.92,Unpaid,,
+309,Timothy,Bell,602.37,Unpaid,,
+310,Jessica,Cochran,1337.28,Unpaid,,
+312,Jacob,Haynes,1104.57,Unpaid,,
+314,Matthew,Robinson,95.38,Unpaid,,
+315,Amy,Smith,555,Unpaid,,
+319,Martha,Phillips,876.95,Unpaid,,
+322,Justin,Gutierrez,1050.5,Unpaid,,
+324,Nicholas,Barry,1471.06,Unpaid,,
+327,Adam,Henson,521.77,Unpaid,,
+329,Jean,Gonzalez,1125.22,Unpaid,,
+330,Donald,Henderson,579.47,Unpaid,,
+331,Kristi,Johnson,850.82,Unpaid,,
+332,Juan,Krause,519.32,Unpaid,,
+333,Andrew,Gordon,440.46,Unpaid,,
+335,Brian,Mccoy,649.78,Unpaid,,
+337,William,Brown,1231.92,Unpaid,,
+338,Kimberly,Burns,1306.52,Unpaid,,
+339,Lisa,Castaneda,1479.36,Unpaid,,
+340,Nathaniel,Fletcher,1350.97,Unpaid,,
+342,Amanda,Ruiz,630.76,Unpaid,,
+344,Erica,Thompson,362.75,Unpaid,,
+345,Stephen,Booth,864.39,Unpaid,,
+346,Patrick,Brown,271.2,Unpaid,,
+348,Dylan,Johnston,1028.25,Unpaid,,
+351,Timothy,James,143.41,Unpaid,,
+353,Sheri,Smith,568.35,Unpaid,,
+359,Barbara,Murphy,1377.17,Unpaid,,
+361,Christine,Anthony,1297.88,Unpaid,,
+363,Thomas,Williams,713.21,Unpaid,,
+369,Johnny,Mccarthy,1341.49,Unpaid,,
+370,Stephen,Reese,654.38,Unpaid,,
+371,Lisa,Campbell,1373.61,Unpaid,,
+375,Jillian,Patton,1147.84,Unpaid,,
+379,Patricia,Shields,1476.29,Unpaid,,
+380,Debra,Tucker,520.23,Unpaid,,
+383,Anthony,Vincent,953.3,Unpaid,,
+384,Jessica,West,1109.79,Unpaid,,
+386,Sierra,Patterson,1302.25,Unpaid,,
+387,Amanda,Mack,1414.63,Unpaid,,
+390,Trevor,Knight,179.26,Unpaid,,
+391,Melissa,Farley,948.19,Unpaid,,
+393,Robert,Mcgrath,130.92,Unpaid,,
+395,Jamie,Fischer,511.58,Unpaid,,
+396,Jeff,Johnston,374.45,Unpaid,,
+398,Steven,Davis,501.43,Unpaid,,
+399,Lisa,Lozano,776.91,Unpaid,,
+400,William,Wolfe,1140.34,Unpaid,,
+402,Michelle,James,234.71,Unpaid,,
+404,Matthew,Williams,1193.93,Unpaid,,
+405,Bryan,Thornton,1377.04,Unpaid,,
+406,Veronica,Harrison,344.68,Unpaid,,
+408,Karla,Davis,981.59,Unpaid,,
+409,Curtis,Silva,559.74,Unpaid,,
+411,Bridget,Floyd,739.97,Unpaid,,
+413,Alan,Miller,938.38,Unpaid,,
+417,Monica,Cox,822.56,Unpaid,,
+420,Nicole,Riddle,923.02,Unpaid,,
+422,Laura,Andrade,1236.32,Unpaid,,
+423,Melissa,Buck,1244.9,Unpaid,,
+425,Edward,Gordon,1034.3,Unpaid,,
+427,April,Brooks,508.95,Unpaid,,
+429,Bruce,Stewart,246.04,Unpaid,,
+430,Thomas,Perez,1259.87,Unpaid,,
+435,Ricardo,Roberts,1235.44,Unpaid,,
+438,Melinda,Barr,136.44,Unpaid,,
+442,Melissa,George,892.75,Unpaid,,
+444,Mark,Duke,1321.28,Unpaid,,
+445,Amanda,Walter,1009.83,Unpaid,,
+446,Megan,Phelps,1149.23,Unpaid,,
+447,Zachary,Greene,1085.18,Unpaid,,
+450,Christina,Peterson,1200.22,Unpaid,,
+451,Sean,Jackson,1283.27,Unpaid,,
+453,Taylor,Bush,958.67,Unpaid,,
+458,Darrell,Guerrero,526.65,Unpaid,,
+459,James,Barnes,284.72,Unpaid,,
+461,Brian,Garcia,1267.08,Unpaid,,
+462,Kyle,Henry,965.17,Unpaid,,
+464,Mariah,Hudson,394.77,Unpaid,,
+467,Austin,Thompson,327.17,Unpaid,,
+468,Debra,Park,1381.66,Unpaid,,
+470,Hunter,Greene,345.37,Unpaid,,
+472,Victor,Blair,818.14,Unpaid,,
+476,Brandon,Williams,253.25,Unpaid,,
+477,Nathaniel,Murray,818.59,Unpaid,,
+478,Mario,Sanders,1393.26,Unpaid,,
+483,Caitlin,Fisher,1133.09,Unpaid,,
+485,Catherine,Gonzalez,404.69,Unpaid,,
+486,Karen,Bryant,371.19,Unpaid,,
+488,Jacob,Golden,100.85,Unpaid,,
+490,Ryan,Fuller,1439.48,Unpaid,,
+491,John,Bryan,348.12,Unpaid,,
+492,Alexandra,Adams,741.51,Unpaid,,
+493,Brian,Freeman,767.89,Unpaid,,
+495,Lisa,Roberts,1499.66,Unpaid,,
+496,Andrew,Miles,1341.97,Unpaid,,
+498,John,Henderson,716.3,Unpaid,,
+499,Bonnie,Nielsen,323.66,Unpaid,,
+11,Erika,Dunn,324.01,Paid,14-Dec-24,Insurance
+12,Eduardo,Atkins,1238.87,Paid,19-Mar-25,Insurance
+23,Robert,Anderson,435.43,Paid,21-Oct-24,Insurance
+25,Chad,Chan,501.31,Paid,10-Dec-24,Insurance
+33,Danielle,Boyd,768.56,Paid,21-Feb-25,Insurance
+34,Jennifer,Gonzales,265.92,Paid,23-Dec-24,Insurance
+36,Michael,Kelly,618.5,Paid,14-Nov-24,Insurance
+37,John,Reynolds,558.57,Paid,06-Oct-24,Insurance
+50,Katelyn,Huynh,270.64,Paid,08-Feb-25,Insurance
+54,Michael,Clark,995.76,Paid,27-Oct-24,Insurance
+55,Michael,Harris,636.89,Paid,28-Mar-25,Insurance
+68,Michelle,Hernandez,272.86,Paid,14-Feb-25,Insurance
+74,Mark,Robertson,1019.82,Paid,25-Nov-24,Insurance
+94,Brett,Martinez,1057.16,Paid,03-Dec-24,Insurance
+98,Corey,Murray,1369.81,Paid,26-Jan-25,Insurance
+109,Joann,Brown,242.01,Paid,09-Mar-25,Insurance
+119,Kristy,Wiley,51.48,Paid,02-Jan-25,Insurance
+120,William,Diaz,1234.46,Paid,23-Oct-24,Insurance
+124,Sherri,Mcpherson,1410.01,Paid,23-Oct-24,Insurance
+132,James,Wagner,1238.15,Paid,19-Nov-24,Insurance
+133,Matthew,Carrillo,1421.54,Paid,28-Dec-24,Insurance
+142,Deborah,Williams,1179.45,Paid,17-Nov-24,Insurance
+144,Victoria,Morse,266.3,Paid,20-Feb-25,Insurance
+156,Tyler,White,946.09,Paid,19-Nov-24,Insurance
+165,Jessica,Roy,87.56,Paid,03-Nov-24,Insurance
+175,Michele,Edwards,916.24,Paid,18-Nov-24,Insurance
+178,Bailey,Cole,780.61,Paid,15-Oct-24,Insurance
+208,Ashley,Shelton,153.9,Paid,18-Jan-25,Insurance
+212,Bernard,Miles,180.3,Paid,19-Nov-24,Insurance
+220,Andrew,Weaver,417.91,Paid,04-Jan-25,Insurance
+222,Dustin,Smith,1444.74,Paid,05-Feb-25,Insurance
+225,Frederick,Davis,903.88,Paid,03-Jan-25,Insurance
+237,Thomas,Brown,1294.44,Paid,30-Mar-25,Insurance
+250,Jonathan,Richardson,905.43,Paid,09-Dec-24,Insurance
+260,Jennifer,Martin,1395.25,Paid,12-Nov-24,Insurance
+264,Claudia,Lee,274.26,Paid,06-Feb-25,Insurance
+267,Nicole,Long,150.21,Paid,01-Oct-24,Insurance
+281,Ashley,Reynolds,565.95,Paid,28-Feb-25,Insurance
+285,Mariah,Carter,61.96,Paid,01-Dec-24,Insurance
+295,Elizabeth,Fields,280.9,Paid,06-Jan-25,Insurance
+305,Richard,Jones,845.28,Paid,24-Jan-25,Insurance
+311,Kristine,Pena,174.82,Paid,03-Nov-24,Insurance
+313,Anthony,Kelley,760.7,Paid,25-Jan-25,Insurance
+326,Michael,Black,301.08,Paid,04-Dec-24,Insurance
+334,Lindsay,Brown,867.18,Paid,14-Nov-24,Insurance
+336,Susan,Mejia,1426.41,Paid,05-Oct-24,Insurance
+341,Robert,Bentley,1201.17,Paid,12-Mar-25,Insurance
+349,Cathy,Brown,1401.77,Paid,13-Oct-24,Insurance
+355,Joshua,White,357.29,Paid,02-Oct-24,Insurance
+356,Nicholas,Barajas,1404.16,Paid,14-Feb-25,Insurance
+365,Curtis,Baker,1381.35,Paid,22-Dec-24,Insurance
+368,Thomas,Sweeney,108,Paid,16-Oct-24,Insurance
+392,Amber,Shaw,1075.2,Paid,28-Feb-25,Insurance
+397,Susan,Rodriguez,1322.52,Paid,06-Nov-24,Insurance
+403,Megan,Johnson,661.93,Paid,30-Dec-24,Insurance
+412,Isaac,Jimenez,416.12,Paid,08-Oct-24,Insurance
+419,Emily,Lloyd,978.61,Paid,26-Mar-25,Insurance
+426,Lisa,Lee,177.44,Paid,25-Oct-24,Insurance
+431,Nicole,Maldonado,538.96,Paid,02-Nov-24,Insurance
+433,Susan,Thomas,77.11,Paid,04-Mar-25,Insurance
+437,Kimberly,Martinez,110.59,Paid,14-Dec-24,Insurance
+441,Jared,Deleon,178.3,Paid,08-Oct-24,Insurance
+449,Sean,Reyes,127.96,Paid,15-Oct-24,Insurance
+469,Thomas,Jones,844.35,Paid,02-Dec-24,Insurance
+474,William,Stevens,297.04,Paid,26-Mar-25,Insurance
+8,Steven,Lee,1303.87,Paid,09-Mar-25,Debit Card
+15,Benjamin,Sharp,436.35,Paid,30-Sep-24,Debit Card
+26,Richard,Smith,990.81,Paid,17-Oct-24,Debit Card
+42,Cassandra,Miller,431.21,Paid,09-Mar-25,Debit Card
+57,Brian,Hamilton,80.58,Paid,26-Nov-24,Debit Card
+69,Kristi,Larsen,569.23,Paid,29-Dec-24,Debit Card
+70,Ashley,Simpson,177.58,Paid,26-Jan-25,Debit Card
+71,Alexander,Weber,1371.95,Paid,23-Oct-24,Debit Card
+78,Daniel,Randall,1424.85,Paid,24-Nov-24,Debit Card
+90,Jamie,Castro,1411.96,Paid,06-Feb-25,Debit Card
+110,Emily,Martinez,1406.01,Paid,02-Jan-25,Debit Card
+123,Erik,Lewis,225.62,Paid,27-Dec-24,Debit Card
+127,Nicole,Lopez,749.06,Paid,05-Nov-24,Debit Card
+137,Christopher,Norman,552.05,Paid,18-Jan-25,Debit Card
+138,Wendy,Wilson,865.43,Paid,16-Dec-24,Debit Card
+140,John,Jackson,1194.77,Paid,15-Oct-24,Debit Card
+145,Philip,Larson,676.85,Paid,16-Nov-24,Debit Card
+187,Stephanie,Harris,59.73,Paid,29-Jan-25,Debit Card
+189,Michael,Ramos,127.6,Paid,29-Mar-25,Debit Card
+194,Kimberly,Gonzalez,937.27,Paid,01-Oct-24,Debit Card
+197,Christopher,Martin,682.4,Paid,13-Mar-25,Debit Card
+207,John,Salazar,431.31,Paid,13-Jan-25,Debit Card
+210,Rebecca,Roberts,1407.72,Paid,06-Mar-25,Debit Card
+219,Alexandria,Duncan,457.09,Paid,10-Jan-25,Debit Card
+226,John,Mitchell,204.47,Paid,21-Feb-25,Debit Card
+228,Amy,Hobbs,1487.73,Paid,23-Jan-25,Debit Card
+229,Brandon,Shepard,341.02,Paid,04-Dec-24,Debit Card
+232,Amy,Newman,516.36,Paid,30-Oct-24,Debit Card
+238,Dana,Joseph,448.67,Paid,27-Dec-24,Debit Card
+240,David,Martinez,530.81,Paid,29-Oct-24,Debit Card
+241,Randy,Brown,331.23,Paid,19-Nov-24,Debit Card
+242,Charles,Bowen,969.96,Paid,11-Jan-25,Debit Card
+262,Alan,Castillo,533.2,Paid,20-Jan-25,Debit Card
+266,Melanie,Fuentes,655.62,Paid,16-Nov-24,Debit Card
+282,Rebecca,Huynh,643.76,Paid,09-Dec-24,Debit Card
+297,Jim,Miller,579.23,Paid,29-Mar-25,Debit Card
+299,Anita,Bennett,1146.72,Paid,11-Mar-25,Debit Card
+317,Terry,Castillo,1065.95,Paid,13-Feb-25,Debit Card
+321,Brandy,Porter,899.17,Paid,09-Dec-24,Debit Card
+343,Heather,Moore,908.31,Paid,30-Mar-25,Debit Card
+347,Rickey,Smith,1354.29,Paid,29-Dec-24,Debit Card
+364,Nathan,Nelson,331.08,Paid,26-Feb-25,Debit Card
+367,Katelyn,Perez,342.35,Paid,15-Dec-24,Debit Card
+372,Ann,Moore,625.09,Paid,14-Dec-24,Debit Card
+373,Tina,Walker,112.52,Paid,19-Dec-24,Debit Card
+376,Austin,Bates,983.54,Paid,06-Feb-25,Debit Card
+381,Megan,Holden,299.39,Paid,31-Jan-25,Debit Card
+388,Joshua,Castaneda,1002.6,Paid,22-Nov-24,Debit Card
+415,Kathy,Weaver,539.77,Paid,12-Feb-25,Debit Card
+418,Martin,Kaufman,1284.45,Paid,08-Nov-24,Debit Card
+424,Jeff,Hubbard,1028.95,Paid,27-Oct-24,Debit Card
+434,Keith,Hull,629.55,Paid,20-Oct-24,Debit Card
+436,Mark,Perry,1440.24,Paid,06-Jan-25,Debit Card
+440,Joshua,Prince,751.89,Paid,03-Oct-24,Debit Card
+443,Janet,Tucker,932.69,Paid,17-Dec-24,Debit Card
+448,Felicia,Obrien,1436.49,Paid,03-Dec-24,Debit Card
+452,Jonathan,Carter,953.41,Paid,31-Dec-24,Debit Card
+456,Jessica,Miller,476.73,Paid,24-Mar-25,Debit Card
+460,Jason,Wilson,1066.35,Paid,24-Nov-24,Debit Card
+463,Daniel,Hayes,355.64,Paid,15-Jan-25,Debit Card
+475,Kimberly,Dominguez,927.52,Paid,15-Jan-25,Debit Card
+479,Alicia,Clarke,1106,Paid,07-Nov-24,Debit Card
+480,Mary,Coleman,840.94,Paid,27-Feb-25,Debit Card
+487,Linda,Gutierrez,767.96,Paid,13-Oct-24,Debit Card
+497,Marilyn,Steele,187.27,Paid,12-Oct-24,Debit Card
+500,Robert,Wilson,946.55,Paid,13-Nov-24,Debit Card
+13,Jennifer,Lee,879.53,Paid,17-Jan-25,Credit Card
+22,Sarah,Bradley,108.86,Paid,04-Jan-25,Credit Card
+30,David,Pierce,643.48,Paid,28-Jan-25,Credit Card
+45,Charlene,Buchanan,1364.59,Paid,13-Oct-24,Credit Card
+62,Jim,Brown,759.83,Paid,11-Feb-25,Credit Card
+72,Patricia,Hardy,162.67,Paid,03-Dec-24,Credit Card
+73,Marcus,Medina,1112.69,Paid,18-Oct-24,Credit Card
+75,Michael,Dickson,1087.74,Paid,20-Mar-25,Credit Card
+80,Edward,Davis,1242.28,Paid,13-Nov-24,Credit Card
+102,Joseph,Jones,958.14,Paid,01-Nov-24,Credit Card
+103,Christopher,Wise,153.29,Paid,04-Dec-24,Credit Card
+104,Bethany,Hobbs,1033.91,Paid,14-Jan-25,Credit Card
+108,Kurt,Leonard,256.27,Paid,08-Jan-25,Credit Card
+117,Robert,Haas,187.89,Paid,04-Jan-25,Credit Card
+126,Cynthia,Stephens,1173.47,Paid,10-Mar-25,Credit Card
+128,Ryan,Grimes,822.04,Paid,06-Mar-25,Credit Card
+131,Tim,Jackson,983.09,Paid,10-Jan-25,Credit Card
+135,Sarah,Andrews,646.35,Paid,07-Jan-25,Credit Card
+146,Jeremiah,Mcclure,846.48,Paid,19-Mar-25,Credit Card
+152,Lori,Gonzales,564.62,Paid,16-Oct-24,Credit Card
+154,Jamie,Davis,945.34,Paid,05-Oct-24,Credit Card
+155,Kimberly,Wilson,978.16,Paid,13-Mar-25,Credit Card
+167,Kevin,Russell,741.9,Paid,10-Nov-24,Credit Card
+177,Sarah,Cordova,1157.52,Paid,26-Feb-25,Credit Card
+204,Martin,Alexander,355.21,Paid,05-Dec-24,Credit Card
+206,Daniel,Roach,1192.82,Paid,27-Oct-24,Credit Card
+217,Brandon,Humphrey,313.61,Paid,05-Nov-24,Credit Card
+230,Timothy,Cochran,393.79,Paid,03-Feb-25,Credit Card
+236,Chelsea,Patrick,236.15,Paid,19-Nov-24,Credit Card
+247,Tonya,Lin,647.97,Paid,06-Nov-24,Credit Card
+248,Timothy,Wheeler,266.28,Paid,25-Feb-25,Credit Card
+249,Wanda,Robbins,819.64,Paid,16-Feb-25,Credit Card
+251,Lisa,Atkins,1000.5,Paid,08-Mar-25,Credit Card
+259,Lance,Weeks,985.03,Paid,07-Feb-25,Credit Card
+278,Michelle,Johnson,124.83,Paid,19-Oct-24,Credit Card
+290,Nicholas,Swanson,683.83,Paid,28-Dec-24,Credit Card
+293,Monica,Taylor,355.26,Paid,15-Dec-24,Credit Card
+301,Adam,Tyler,953.77,Paid,21-Mar-25,Credit Card
+302,Brooke,Clark,478.38,Paid,20-Oct-24,Credit Card
+316,Anthony,Moore,1482.85,Paid,13-Dec-24,Credit Card
+320,Patrick,Perez,1482.29,Paid,04-Jan-25,Credit Card
+323,Sharon,Brown,353.1,Paid,28-Mar-25,Credit Card
+328,Brian,Park,681.3,Paid,30-Sep-24,Credit Card
+352,Craig,Walter,584.27,Paid,23-Oct-24,Credit Card
+354,Megan,Martinez,303.39,Paid,28-Mar-25,Credit Card
+357,Anthony,Hays,354.22,Paid,19-Dec-24,Credit Card
+358,Randy,Patterson,332.92,Paid,28-Dec-24,Credit Card
+374,Shannon,Frost,1412.24,Paid,05-Mar-25,Credit Card
+382,Kathryn,Burke,1157.11,Paid,12-Jan-25,Credit Card
+385,Jason,Lara,784.23,Paid,05-Jan-25,Credit Card
+389,Luis,Harris,1072.49,Paid,28-Mar-25,Credit Card
+394,Jason,Wells,72.05,Paid,22-Mar-25,Credit Card
+401,Jennifer,Klein,134.68,Paid,14-Mar-25,Credit Card
+407,Brittany,Little,1262.38,Paid,17-Jan-25,Credit Card
+414,Monique,Jennings,709.65,Paid,28-Oct-24,Credit Card
+428,Robert,Smith,276.34,Paid,24-Nov-24,Credit Card
+432,Edwin,Smith,1212.59,Paid,22-Mar-25,Credit Card
+439,Susan,Grant,1333.22,Paid,23-Nov-24,Credit Card
+454,Zachary,Malone,459.15,Paid,11-Mar-25,Credit Card
+455,Sue,Ross,1370.87,Paid,10-Jan-25,Credit Card
+465,Michaela,Cole,465.83,Paid,07-Dec-24,Credit Card
+466,Rodney,Mclaughlin,721.72,Paid,03-Mar-25,Credit Card
+484,Sandra,Lee,1235.51,Paid,14-Dec-24,Credit Card
+489,Christian,Barnes,1348.82,Paid,22-Oct-24,Credit Card
+4,Micheal,Young,649.11,Paid,17-Jan-25,Cash
+41,Christine,Bailey,353.91,Paid,17-Dec-24,Cash
+43,Kathleen,Weber,73.57,Paid,09-Oct-24,Cash
+51,Anna,Hopkins,331.06,Paid,07-Nov-24,Cash
+53,Gina,Meyer,1222.43,Paid,04-Nov-24,Cash
+66,Francisco,Pearson,1320.4,Paid,05-Nov-24,Cash
+67,Donald,Thomas,1459.56,Paid,16-Dec-24,Cash
+81,Thomas,Harris,958.45,Paid,29-Mar-25,Cash
+85,Elaine,Flores,254.77,Paid,09-Oct-24,Cash
+86,Katherine,Dixon,241.66,Paid,02-Oct-24,Cash
+88,Cindy,Watkins,1257.15,Paid,24-Jan-25,Cash
+89,James,Freeman,310.62,Paid,16-Feb-25,Cash
+92,Joshua,Chapman,633.75,Paid,07-Nov-24,Cash
+93,Brooke,Gibson,121.6,Paid,05-Nov-24,Cash
+107,April,Riley,536.83,Paid,30-Mar-25,Cash
+113,Brian,Jacobson,475.87,Paid,16-Feb-25,Cash
+114,Omar,Martinez,757.93,Paid,22-Feb-25,Cash
+151,James,Smith,1305.72,Paid,04-Dec-24,Cash
+162,George,Fox,1380.22,Paid,23-Feb-25,Cash
+176,Gina,Castillo,460.04,Paid,23-Nov-24,Cash
+180,Carol,Martinez,779.02,Paid,08-Nov-24,Cash
+181,Shane,Valencia,66.69,Paid,29-Oct-24,Cash
+184,Gail,Conway,304.91,Paid,15-Feb-25,Cash
+205,Kelly,Morales,296.5,Paid,12-Mar-25,Cash
+235,Emma,Beck,1142.9,Paid,31-Dec-24,Cash
+245,Rebecca,Bell,556.36,Paid,20-Feb-25,Cash
+246,Stacy,Williams,891.12,Paid,30-Dec-24,Cash
+252,Jared,Perez,1439.77,Paid,20-Mar-25,Cash
+253,Angela,Contreras,468.16,Paid,21-Jan-25,Cash
+256,Stephanie,Michael,1217.06,Paid,02-Feb-25,Cash
+269,Kayla,Young,1351.09,Paid,03-Dec-24,Cash
+284,Keith,Burgess,350.58,Paid,25-Oct-24,Cash
+287,Heather,Wilkins,1299.13,Paid,15-Nov-24,Cash
+291,Brian,Martinez,352.69,Paid,16-Oct-24,Cash
+300,Michele,Brown,117.85,Paid,02-Mar-25,Cash
+318,Lauren,Harrison,799.04,Paid,10-Mar-25,Cash
+325,Meghan,Barnes,271.28,Paid,22-Dec-24,Cash
+350,Hannah,Franklin,1150.89,Paid,30-Oct-24,Cash
+360,Eric,Stephens,89.62,Paid,09-Dec-24,Cash
+362,Ronnie,Khan,1061.22,Paid,27-Oct-24,Cash
+366,Amanda,Arnold,661.03,Paid,23-Jan-25,Cash
+377,Megan,Wolfe,1000.79,Paid,11-Dec-24,Cash
+378,Evelyn,Johnson,886.68,Paid,30-Sep-24,Cash
+410,Seth,Anderson,563.2,Paid,20-Nov-24,Cash
+416,Brian,Schmidt,1447.09,Paid,15-Jan-25,Cash
+421,Jay,Morris,1319.01,Paid,02-Jan-25,Cash
+457,Christopher,Warren,1486.38,Paid,04-Feb-25,Cash
+471,Nicole,Gibson,273.48,Paid,24-Mar-25,Cash
+473,Jeremy,Rogers,337.79,Paid,25-Jan-25,Cash
+481,Marvin,Burnett,306.35,Paid,15-Mar-25,Cash
+482,Joshua,Bowman,1195.59,Paid,21-Jan-25,Cash
+494,Linda,Bell,417.84,Paid,11-Jan-25,Cash

@@ -1,0 +1,902 @@
+RecordID,PatientID,Diagnosis,TreatmentPlan,VisitDate,DoctorID,Prescription,MonthYear
+13,326,Anemia,Iron supplements,13-Jun-24,50,Anemia - Iron supplements,Jun 2024
+17,450,Anemia,Iron supplements,14-Aug-24,25,Anemia - Iron supplements,Aug 2024
+18,244,Anemia,Iron supplements,04-Feb-25,16,Anemia - Iron supplements,Feb 2025
+26,150,Anemia,Iron supplements,13-Apr-24,16,Anemia - Iron supplements,Apr 2024
+51,207,Anemia,Iron supplements,12-Mar-25,25,Anemia - Iron supplements,Mar 2025
+62,134,Anemia,Iron supplements,28-Jan-25,35,Anemia - Iron supplements,Jan 2025
+68,71,Anemia,Iron supplements,11-Jan-25,25,Anemia - Iron supplements,Jan 2025
+108,498,Anemia,Iron supplements,03-Jan-25,43,Anemia - Iron supplements,Jan 2025
+118,158,Anemia,Iron supplements,12-Jul-24,29,Anemia - Iron supplements,Jul 2024
+121,316,Anemia,Iron supplements,19-Oct-24,43,Anemia - Iron supplements,Oct 2024
+122,238,Anemia,Iron supplements,26-Feb-25,16,Anemia - Iron supplements,Feb 2025
+128,66,Anemia,Iron supplements,08-Jan-25,16,Anemia - Iron supplements,Jan 2025
+135,478,Anemia,Iron supplements,21-Mar-25,16,Anemia - Iron supplements,Mar 2025
+137,421,Anemia,Iron supplements,02-Feb-25,15,Anemia - Iron supplements,Feb 2025
+154,456,Anemia,Iron supplements,13-Oct-24,43,Anemia - Iron supplements,Oct 2024
+175,254,Anemia,Iron supplements,04-Jun-24,16,Anemia - Iron supplements,Jun 2024
+180,336,Anemia,Iron supplements,18-Aug-24,43,Anemia - Iron supplements,Aug 2024
+182,167,Anemia,Iron supplements,27-May-24,43,Anemia - Iron supplements,May 2024
+193,480,Anemia,Iron supplements,20-May-25,43,Anemia - Iron supplements,May 2025
+223,264,Anemia,Iron supplements,09-Jul-24,46,Anemia - Iron supplements,Jul 2024
+259,351,Anemia,Iron supplements,02-Aug-24,35,Anemia - Iron supplements,Aug 2024
+262,466,Anemia,Iron supplements,24-Feb-25,16,Anemia - Iron supplements,Feb 2025
+271,102,Anemia,Iron supplements,07-Jan-25,43,Anemia - Iron supplements,Jan 2025
+278,330,Anemia,Iron supplements,11-Jul-24,43,Anemia - Iron supplements,Jul 2024
+279,385,Anemia,Iron supplements,12-Oct-24,43,Anemia - Iron supplements,Oct 2024
+283,317,Anemia,Iron supplements,13-Dec-24,2,Anemia - Iron supplements,Dec 2024
+288,165,Anemia,Iron supplements,07-Mar-25,16,Anemia - Iron supplements,Mar 2025
+296,234,Anemia,Iron supplements,25-Jan-25,36,Anemia - Iron supplements,Jan 2025
+328,235,Anemia,Iron supplements,08-Apr-25,16,Anemia - Iron supplements,Apr 2025
+338,381,Anemia,Iron supplements,19-Nov-24,2,Anemia - Iron supplements,Nov 2024
+342,211,Anemia,Iron supplements,31-Aug-24,16,Anemia - Iron supplements,Aug 2024
+346,131,Anemia,Iron supplements,12-Oct-24,16,Anemia - Iron supplements,Oct 2024
+349,24,Anemia,Iron supplements,20-May-25,43,Anemia - Iron supplements,May 2025
+383,346,Anemia,Iron supplements,14-May-25,16,Anemia - Iron supplements,May 2025
+393,182,Anemia,Iron supplements,20-Jun-24,16,Anemia - Iron supplements,Jun 2024
+399,73,Anemia,Iron supplements,27-Jun-25,16,Anemia - Iron supplements,Jun 2025
+401,57,Anemia,Iron supplements,19-Oct-24,16,Anemia - Iron supplements,Oct 2024
+408,210,Anemia,Iron supplements,16-Mar-25,43,Anemia - Iron supplements,Mar 2025
+410,116,Anemia,Iron supplements,06-Oct-24,32,Anemia - Iron supplements,Oct 2024
+413,396,Anemia,Iron supplements,15-Nov-24,25,Anemia - Iron supplements,Nov 2024
+414,249,Anemia,Iron supplements,26-Dec-24,43,Anemia - Iron supplements,Dec 2024
+431,67,Anemia,Iron supplements,01-Dec-24,41,Anemia - Iron supplements,Dec 2024
+438,111,Anemia,Iron supplements,11-Mar-25,16,Anemia - Iron supplements,Mar 2025
+455,142,Anemia,Iron supplements,07-Apr-25,43,Anemia - Iron supplements,Apr 2025
+458,159,Anemia,Iron supplements,30-Oct-24,16,Anemia - Iron supplements,Oct 2024
+471,272,Anemia,Iron supplements,07-Oct-24,16,Anemia - Iron supplements,Oct 2024
+476,474,Anemia,Iron supplements,07-Dec-24,25,Anemia - Iron supplements,Dec 2024
+478,318,Anemia,Iron supplements,03-Nov-24,43,Anemia - Iron supplements,Nov 2024
+505,199,Anemia,Iron supplements,27-Jul-24,43,Anemia - Iron supplements,Jul 2024
+513,233,Anemia,Iron supplements,26-Jan-25,16,Anemia - Iron supplements,Jan 2025
+517,207,Anemia,Iron supplements,18-May-25,41,Anemia - Iron supplements,May 2025
+527,390,Anemia,Iron supplements,16-Nov-24,25,Anemia - Iron supplements,Nov 2024
+531,157,Anemia,Iron supplements,24-Oct-24,3,Anemia - Iron supplements,Oct 2024
+574,424,Anemia,Iron supplements,12-Aug-24,29,Anemia - Iron supplements,Aug 2024
+580,401,Anemia,Iron supplements,19-Apr-25,25,Anemia - Iron supplements,Apr 2025
+589,42,Anemia,Iron supplements,27-Sep-24,16,Anemia - Iron supplements,Sep 2024
+604,160,Anemia,Iron supplements,23-Oct-24,2,Anemia - Iron supplements,Oct 2024
+609,201,Anemia,Iron supplements,12-Mar-25,43,Anemia - Iron supplements,Mar 2025
+630,390,Anemia,Iron supplements,02-Dec-24,43,Anemia - Iron supplements,Dec 2024
+631,442,Anemia,Iron supplements,08-Oct-24,43,Anemia - Iron supplements,Oct 2024
+644,320,Anemia,Iron supplements,12-Apr-25,39,Anemia - Iron supplements,Apr 2025
+647,278,Anemia,Iron supplements,10-Sep-24,43,Anemia - Iron supplements,Sep 2024
+651,478,Anemia,Iron supplements,14-Jun-25,29,Anemia - Iron supplements,Jun 2025
+658,273,Anemia,Iron supplements,01-Jan-25,16,Anemia - Iron supplements,Jan 2025
+664,497,Anemia,Iron supplements,24-May-24,16,Anemia - Iron supplements,May 2024
+671,204,Anemia,Iron supplements,24-Nov-24,43,Anemia - Iron supplements,Nov 2024
+676,47,Anemia,Iron supplements,24-Nov-24,16,Anemia - Iron supplements,Nov 2024
+684,391,Anemia,Iron supplements,19-Dec-24,43,Anemia - Iron supplements,Dec 2024
+691,183,Anemia,Iron supplements,12-Aug-25,41,Anemia - Iron supplements,Aug 2025
+694,382,Anemia,Iron supplements,19-Nov-24,33,Anemia - Iron supplements,Nov 2024
+695,201,Anemia,Iron supplements,18-Apr-25,16,Anemia - Iron supplements,Apr 2025
+701,348,Anemia,Iron supplements,08-Jan-25,16,Anemia - Iron supplements,Jan 2025
+722,489,Anemia,Iron supplements,10-Feb-25,25,Anemia - Iron supplements,Feb 2025
+726,297,Anemia,Iron supplements,08-Aug-24,42,Anemia - Iron supplements,Aug 2024
+733,25,Anemia,Iron supplements,22-Oct-24,50,Anemia - Iron supplements,Oct 2024
+739,70,Anemia,Iron supplements,20-Aug-24,43,Anemia - Iron supplements,Aug 2024
+748,32,Anemia,Iron supplements,30-Sep-24,16,Anemia - Iron supplements,Sep 2024
+762,264,Anemia,Iron supplements,14-Sep-24,19,Anemia - Iron supplements,Sep 2024
+770,210,Anemia,Iron supplements,25-Jul-25,32,Anemia - Iron supplements,Jul 2025
+787,215,Anemia,Iron supplements,12-Dec-24,43,Anemia - Iron supplements,Dec 2024
+797,117,Anemia,Iron supplements,08-Jul-25,25,Anemia - Iron supplements,Jul 2025
+826,305,Anemia,Iron supplements,22-Mar-25,16,Anemia - Iron supplements,Mar 2025
+827,144,Anemia,Iron supplements,03-Jan-25,25,Anemia - Iron supplements,Jan 2025
+833,261,Anemia,Iron supplements,29-Jun-25,35,Anemia - Iron supplements,Jun 2025
+837,478,Anemia,Iron supplements,25-Aug-25,43,Anemia - Iron supplements,Aug 2025
+854,34,Anemia,Iron supplements,23-Jan-25,16,Anemia - Iron supplements,Jan 2025
+868,380,Anemia,Iron supplements,10-Apr-25,15,Anemia - Iron supplements,Apr 2025
+873,458,Anemia,Iron supplements,26-Aug-24,29,Anemia - Iron supplements,Aug 2024
+881,19,Anemia,Iron supplements,18-Sep-25,25,Anemia - Iron supplements,Sep 2025
+895,373,Anemia,Iron supplements,18-Jun-24,43,Anemia - Iron supplements,Jun 2024
+896,129,Anemia,Iron supplements,01-May-24,43,Anemia - Iron supplements,May 2024
+3,40,Menopause,Hormone therapy,04-May-24,36,Menopause - Hormone therapy,May 2024
+12,498,Menopause,Hormone therapy,19-Nov-24,12,Menopause - Hormone therapy,Nov 2024
+14,203,Menopause,Hormone therapy,23-Sep-24,41,Menopause - Hormone therapy,Sep 2024
+21,60,Menopause,Hormone therapy,21-Feb-25,17,Menopause - Hormone therapy,Feb 2025
+29,15,Menopause,Hormone therapy,15-Jul-24,48,Menopause - Hormone therapy,Jul 2024
+39,255,Menopause,Hormone therapy,14-Aug-24,17,Menopause - Hormone therapy,Aug 2024
+42,274,Menopause,Hormone therapy,16-Feb-25,39,Menopause - Hormone therapy,Feb 2025
+81,249,Menopause,Hormone therapy,28-Sep-24,17,Menopause - Hormone therapy,Sep 2024
+83,492,Menopause,Hormone therapy,25-Feb-25,29,Menopause - Hormone therapy,Feb 2025
+109,249,Menopause,Hormone therapy,20-Oct-24,17,Menopause - Hormone therapy,Oct 2024
+156,220,Menopause,Hormone therapy,01-Aug-24,31,Menopause - Hormone therapy,Aug 2024
+170,403,Menopause,Hormone therapy,14-Sep-24,35,Menopause - Hormone therapy,Sep 2024
+172,186,Menopause,Hormone therapy,12-Aug-24,29,Menopause - Hormone therapy,Aug 2024
+174,116,Menopause,Hormone therapy,11-Sep-24,15,Menopause - Hormone therapy,Sep 2024
+176,344,Menopause,Hormone therapy,02-Aug-24,17,Menopause - Hormone therapy,Aug 2024
+213,60,Menopause,Hormone therapy,23-May-25,14,Menopause - Hormone therapy,May 2025
+220,410,Menopause,Hormone therapy,14-Jan-25,17,Menopause - Hormone therapy,Jan 2025
+221,465,Menopause,Hormone therapy,22-Jul-24,12,Menopause - Hormone therapy,Jul 2024
+228,150,Menopause,Hormone therapy,23-Jul-24,42,Menopause - Hormone therapy,Jul 2024
+237,183,Menopause,Hormone therapy,06-Feb-25,48,Menopause - Hormone therapy,Feb 2025
+238,335,Menopause,Hormone therapy,23-Jan-25,14,Menopause - Hormone therapy,Jan 2025
+241,127,Menopause,Hormone therapy,25-Jan-25,12,Menopause - Hormone therapy,Jan 2025
+253,434,Menopause,Hormone therapy,07-May-24,12,Menopause - Hormone therapy,May 2024
+260,396,Menopause,Hormone therapy,09-Oct-24,48,Menopause - Hormone therapy,Oct 2024
+266,13,Menopause,Hormone therapy,14-Apr-25,31,Menopause - Hormone therapy,Apr 2025
+297,96,Menopause,Hormone therapy,15-Dec-24,17,Menopause - Hormone therapy,Dec 2024
+301,122,Menopause,Hormone therapy,26-Mar-25,48,Menopause - Hormone therapy,Mar 2025
+312,299,Menopause,Hormone therapy,28-Dec-24,14,Menopause - Hormone therapy,Dec 2024
+314,210,Menopause,Hormone therapy,07-Jan-25,17,Menopause - Hormone therapy,Jan 2025
+316,469,Menopause,Hormone therapy,10-Aug-24,14,Menopause - Hormone therapy,Aug 2024
+317,32,Menopause,Hormone therapy,19-Apr-24,12,Menopause - Hormone therapy,Apr 2024
+332,324,Menopause,Hormone therapy,13-Dec-24,14,Menopause - Hormone therapy,Dec 2024
+339,366,Menopause,Hormone therapy,28-Jul-24,14,Menopause - Hormone therapy,Jul 2024
+352,25,Menopause,Hormone therapy,09-Jun-24,48,Menopause - Hormone therapy,Jun 2024
+357,366,Menopause,Hormone therapy,25-Aug-24,48,Menopause - Hormone therapy,Aug 2024
+365,96,Menopause,Hormone therapy,25-Mar-25,39,Menopause - Hormone therapy,Mar 2025
+375,363,Menopause,Hormone therapy,17-Mar-25,12,Menopause - Hormone therapy,Mar 2025
+386,488,Menopause,Hormone therapy,27-Aug-24,14,Menopause - Hormone therapy,Aug 2024
+403,458,Menopause,Hormone therapy,18-Jun-24,48,Menopause - Hormone therapy,Jun 2024
+418,130,Menopause,Hormone therapy,26-Nov-24,48,Menopause - Hormone therapy,Nov 2024
+420,476,Menopause,Hormone therapy,25-Jun-24,13,Menopause - Hormone therapy,Jun 2024
+422,464,Menopause,Hormone therapy,10-Feb-25,48,Menopause - Hormone therapy,Feb 2025
+425,378,Menopause,Hormone therapy,23-Oct-24,14,Menopause - Hormone therapy,Oct 2024
+433,85,Menopause,Hormone therapy,08-Nov-24,48,Menopause - Hormone therapy,Nov 2024
+434,1,Menopause,Hormone therapy,16-Nov-24,31,Menopause - Hormone therapy,Nov 2024
+449,414,Menopause,Hormone therapy,14-Jul-24,14,Menopause - Hormone therapy,Jul 2024
+467,38,Menopause,Hormone therapy,08-Feb-25,31,Menopause - Hormone therapy,Feb 2025
+481,480,Menopause,Hormone therapy,05-Sep-25,14,Menopause - Hormone therapy,Sep 2025
+483,285,Menopause,Hormone therapy,26-Oct-24,12,Menopause - Hormone therapy,Oct 2024
+515,348,Menopause,Hormone therapy,14-Nov-24,12,Menopause - Hormone therapy,Nov 2024
+516,234,Menopause,Hormone therapy,14-May-25,48,Menopause - Hormone therapy,May 2025
+521,94,Menopause,Hormone therapy,09-Dec-24,14,Menopause - Hormone therapy,Dec 2024
+537,446,Menopause,Hormone therapy,30-Oct-24,12,Menopause - Hormone therapy,Oct 2024
+540,288,Menopause,Hormone therapy,10-Oct-24,18,Menopause - Hormone therapy,Oct 2024
+583,104,Menopause,Hormone therapy,18-Jun-25,48,Menopause - Hormone therapy,Jun 2025
+596,226,Menopause,Hormone therapy,16-Apr-25,12,Menopause - Hormone therapy,Apr 2025
+610,146,Menopause,Hormone therapy,04-Apr-25,12,Menopause - Hormone therapy,Apr 2025
+618,262,Menopause,Hormone therapy,22-May-24,39,Menopause - Hormone therapy,May 2024
+622,252,Menopause,Hormone therapy,10-Jul-24,46,Menopause - Hormone therapy,Jul 2024
+625,272,Menopause,Hormone therapy,05-Jan-25,17,Menopause - Hormone therapy,Jan 2025
+627,417,Menopause,Hormone therapy,06-Jul-24,14,Menopause - Hormone therapy,Jul 2024
+629,401,Menopause,Hormone therapy,11-Sep-25,48,Menopause - Hormone therapy,Sep 2025
+639,320,Menopause,Hormone therapy,14-Jan-25,48,Menopause - Hormone therapy,Jan 2025
+653,401,Menopause,Hormone therapy,24-Nov-25,2,Menopause - Hormone therapy,Nov 2025
+662,329,Menopause,Hormone therapy,10-Nov-24,41,Menopause - Hormone therapy,Nov 2024
+677,408,Menopause,Hormone therapy,10-Oct-24,48,Menopause - Hormone therapy,Oct 2024
+682,325,Menopause,Hormone therapy,11-Nov-24,35,Menopause - Hormone therapy,Nov 2024
+689,494,Menopause,Hormone therapy,17-Oct-24,14,Menopause - Hormone therapy,Oct 2024
+698,432,Menopause,Hormone therapy,08-Aug-24,15,Menopause - Hormone therapy,Aug 2024
+721,128,Menopause,Hormone therapy,14-Aug-24,13,Menopause - Hormone therapy,Aug 2024
+723,485,Menopause,Hormone therapy,25-Jan-25,36,Menopause - Hormone therapy,Jan 2025
+734,392,Menopause,Hormone therapy,02-Jun-25,36,Menopause - Hormone therapy,Jun 2025
+736,347,Menopause,Hormone therapy,25-Apr-24,41,Menopause - Hormone therapy,Apr 2024
+737,176,Menopause,Hormone therapy,25-Aug-24,32,Menopause - Hormone therapy,Aug 2024
+746,57,Menopause,Hormone therapy,15-Dec-24,14,Menopause - Hormone therapy,Dec 2024
+774,229,Menopause,Hormone therapy,20-Sep-24,17,Menopause - Hormone therapy,Sep 2024
+801,283,Menopause,Hormone therapy,16-Feb-25,48,Menopause - Hormone therapy,Feb 2025
+809,102,Menopause,Hormone therapy,19-Oct-25,14,Menopause - Hormone therapy,Oct 2025
+825,228,Menopause,Hormone therapy,28-May-25,12,Menopause - Hormone therapy,May 2025
+828,85,Menopause,Hormone therapy,22-Jan-25,29,Menopause - Hormone therapy,Jan 2025
+864,53,Menopause,Hormone therapy,25-May-24,17,Menopause - Hormone therapy,May 2024
+875,1,Menopause,Hormone therapy,12-Jun-25,14,Menopause - Hormone therapy,Jun 2025
+880,13,Menopause,Hormone therapy,14-Jun-25,17,Menopause - Hormone therapy,Jun 2025
+890,192,Menopause,Hormone therapy,29-Jul-24,48,Menopause - Hormone therapy,Jul 2024
+894,156,Menopause,Hormone therapy,07-Jun-25,48,Menopause - Hormone therapy,Jun 2025
+899,91,Menopause,Hormone therapy,26-Jan-25,13,Menopause - Hormone therapy,Jan 2025
+1,424,Arthritis,Physical therapy and NSAIDs,16-Apr-24,7,Arthritis - Physical therapy and NSAIDs,Apr 2024
+6,97,Arthritis,Physical therapy and NSAIDs,15-Jan-25,21,Arthritis - Physical therapy and NSAIDs,Jan 2025
+24,455,Arthritis,Physical therapy and NSAIDs,12-Sep-24,20,Arthritis - Physical therapy and NSAIDs,Sep 2024
+54,111,Arthritis,Physical therapy and NSAIDs,17-Dec-24,41,Arthritis - Physical therapy and NSAIDs,Dec 2024
+56,404,Arthritis,Physical therapy and NSAIDs,15-Apr-24,47,Arthritis - Physical therapy and NSAIDs,Apr 2024
+61,483,Arthritis,Physical therapy and NSAIDs,24-Aug-24,20,Arthritis - Physical therapy and NSAIDs,Aug 2024
+65,478,Arthritis,Physical therapy and NSAIDs,17-Feb-25,21,Arthritis - Physical therapy and NSAIDs,Feb 2025
+67,345,Arthritis,Physical therapy and NSAIDs,22-Oct-24,26,Arthritis - Physical therapy and NSAIDs,Oct 2024
+69,137,Arthritis,Physical therapy and NSAIDs,29-Nov-24,31,Arthritis - Physical therapy and NSAIDs,Nov 2024
+77,298,Arthritis,Physical therapy and NSAIDs,27-Sep-24,50,Arthritis - Physical therapy and NSAIDs,Sep 2024
+78,376,Arthritis,Physical therapy and NSAIDs,29-Aug-24,29,Arthritis - Physical therapy and NSAIDs,Aug 2024
+91,433,Arthritis,Physical therapy and NSAIDs,06-Mar-25,21,Arthritis - Physical therapy and NSAIDs,Mar 2025
+101,383,Arthritis,Physical therapy and NSAIDs,10-Jan-25,20,Arthritis - Physical therapy and NSAIDs,Jan 2025
+126,235,Arthritis,Physical therapy and NSAIDs,27-Nov-24,47,Arthritis - Physical therapy and NSAIDs,Nov 2024
+146,84,Arthritis,Physical therapy and NSAIDs,10-Jan-25,47,Arthritis - Physical therapy and NSAIDs,Jan 2025
+150,136,Arthritis,Physical therapy and NSAIDs,15-Jul-24,21,Arthritis - Physical therapy and NSAIDs,Jul 2024
+153,401,Arthritis,Physical therapy and NSAIDs,04-Mar-25,31,Arthritis - Physical therapy and NSAIDs,Mar 2025
+186,15,Arthritis,Physical therapy and NSAIDs,04-Oct-24,21,Arthritis - Physical therapy and NSAIDs,Oct 2024
+205,104,Arthritis,Physical therapy and NSAIDs,04-Dec-24,20,Arthritis - Physical therapy and NSAIDs,Dec 2024
+207,391,Arthritis,Physical therapy and NSAIDs,12-Oct-24,32,Arthritis - Physical therapy and NSAIDs,Oct 2024
+218,390,Arthritis,Physical therapy and NSAIDs,28-Sep-24,47,Arthritis - Physical therapy and NSAIDs,Sep 2024
+236,142,Arthritis,Physical therapy and NSAIDs,10-Jan-25,20,Arthritis - Physical therapy and NSAIDs,Jan 2025
+242,73,Arthritis,Physical therapy and NSAIDs,14-Jan-25,7,Arthritis - Physical therapy and NSAIDs,Jan 2025
+256,362,Arthritis,Physical therapy and NSAIDs,01-Mar-25,7,Arthritis - Physical therapy and NSAIDs,Mar 2025
+267,166,Arthritis,Physical therapy and NSAIDs,09-Oct-24,47,Arthritis - Physical therapy and NSAIDs,Oct 2024
+292,292,Arthritis,Physical therapy and NSAIDs,01-Jan-25,13,Arthritis - Physical therapy and NSAIDs,Jan 2025
+306,402,Arthritis,Physical therapy and NSAIDs,29-Apr-24,47,Arthritis - Physical therapy and NSAIDs,Apr 2024
+318,235,Arthritis,Physical therapy and NSAIDs,05-Feb-25,21,Arthritis - Physical therapy and NSAIDs,Feb 2025
+322,250,Arthritis,Physical therapy and NSAIDs,30-Oct-24,47,Arthritis - Physical therapy and NSAIDs,Oct 2024
+325,73,Arthritis,Physical therapy and NSAIDs,09-Apr-25,23,Arthritis - Physical therapy and NSAIDs,Apr 2025
+329,337,Arthritis,Physical therapy and NSAIDs,10-Jun-24,47,Arthritis - Physical therapy and NSAIDs,Jun 2024
+330,490,Arthritis,Physical therapy and NSAIDs,16-May-24,47,Arthritis - Physical therapy and NSAIDs,May 2024
+336,489,Arthritis,Physical therapy and NSAIDs,24-Nov-24,13,Arthritis - Physical therapy and NSAIDs,Nov 2024
+341,39,Arthritis,Physical therapy and NSAIDs,26-May-24,35,Arthritis - Physical therapy and NSAIDs,May 2024
+344,272,Arthritis,Physical therapy and NSAIDs,24-Aug-24,20,Arthritis - Physical therapy and NSAIDs,Aug 2024
+361,401,Arthritis,Physical therapy and NSAIDs,24-Mar-25,36,Arthritis - Physical therapy and NSAIDs,Mar 2025
+363,426,Arthritis,Physical therapy and NSAIDs,22-Dec-24,26,Arthritis - Physical therapy and NSAIDs,Dec 2024
+364,349,Arthritis,Physical therapy and NSAIDs,20-Mar-25,21,Arthritis - Physical therapy and NSAIDs,Mar 2025
+368,375,Arthritis,Physical therapy and NSAIDs,18-Jun-24,31,Arthritis - Physical therapy and NSAIDs,Jun 2024
+373,425,Arthritis,Physical therapy and NSAIDs,05-Jun-24,26,Arthritis - Physical therapy and NSAIDs,Jun 2024
+391,154,Arthritis,Physical therapy and NSAIDs,09-Aug-24,35,Arthritis - Physical therapy and NSAIDs,Aug 2024
+406,209,Arthritis,Physical therapy and NSAIDs,16-Jan-25,21,Arthritis - Physical therapy and NSAIDs,Jan 2025
+445,269,Arthritis,Physical therapy and NSAIDs,07-Nov-24,21,Arthritis - Physical therapy and NSAIDs,Nov 2024
+452,184,Arthritis,Physical therapy and NSAIDs,20-Nov-24,23,Arthritis - Physical therapy and NSAIDs,Nov 2024
+453,467,Arthritis,Physical therapy and NSAIDs,05-Jun-24,20,Arthritis - Physical therapy and NSAIDs,Jun 2024
+459,403,Arthritis,Physical therapy and NSAIDs,31-Oct-24,50,Arthritis - Physical therapy and NSAIDs,Oct 2024
+465,307,Arthritis,Physical therapy and NSAIDs,28-Mar-25,7,Arthritis - Physical therapy and NSAIDs,Mar 2025
+466,294,Arthritis,Physical therapy and NSAIDs,11-Mar-25,20,Arthritis - Physical therapy and NSAIDs,Mar 2025
+493,399,Arthritis,Physical therapy and NSAIDs,29-Dec-24,21,Arthritis - Physical therapy and NSAIDs,Dec 2024
+496,135,Arthritis,Physical therapy and NSAIDs,31-Mar-25,47,Arthritis - Physical therapy and NSAIDs,Mar 2025
+501,477,Arthritis,Physical therapy and NSAIDs,12-Apr-24,47,Arthritis - Physical therapy and NSAIDs,Apr 2024
+507,290,Arthritis,Physical therapy and NSAIDs,26-Apr-25,23,Arthritis - Physical therapy and NSAIDs,Apr 2025
+536,207,Arthritis,Physical therapy and NSAIDs,15-Jun-25,21,Arthritis - Physical therapy and NSAIDs,Jun 2025
+557,309,Arthritis,Physical therapy and NSAIDs,11-Jul-24,42,Arthritis - Physical therapy and NSAIDs,Jul 2024
+579,455,Arthritis,Physical therapy and NSAIDs,11-Feb-25,23,Arthritis - Physical therapy and NSAIDs,Feb 2025
+606,145,Arthritis,Physical therapy and NSAIDs,25-Jul-24,7,Arthritis - Physical therapy and NSAIDs,Jul 2024
+613,401,Arthritis,Physical therapy and NSAIDs,28-Jun-25,41,Arthritis - Physical therapy and NSAIDs,Jun 2025
+626,1,Arthritis,Physical therapy and NSAIDs,03-Jan-25,47,Arthritis - Physical therapy and NSAIDs,Jan 2025
+650,136,Arthritis,Physical therapy and NSAIDs,11-Sep-24,13,Arthritis - Physical therapy and NSAIDs,Sep 2024
+659,271,Arthritis,Physical therapy and NSAIDs,03-Aug-24,21,Arthritis - Physical therapy and NSAIDs,Aug 2024
+674,33,Arthritis,Physical therapy and NSAIDs,02-Feb-25,21,Arthritis - Physical therapy and NSAIDs,Feb 2025
+717,36,Arthritis,Physical therapy and NSAIDs,05-Apr-25,7,Arthritis - Physical therapy and NSAIDs,Apr 2025
+725,469,Arthritis,Physical therapy and NSAIDs,12-Dec-24,7,Arthritis - Physical therapy and NSAIDs,Dec 2024
+729,273,Arthritis,Physical therapy and NSAIDs,06-Mar-25,23,Arthritis - Physical therapy and NSAIDs,Mar 2025
+771,134,Arthritis,Physical therapy and NSAIDs,20-Sep-25,21,Arthritis - Physical therapy and NSAIDs,Sep 2025
+775,474,Arthritis,Physical therapy and NSAIDs,27-Jan-25,23,Arthritis - Physical therapy and NSAIDs,Jan 2025
+780,15,Arthritis,Physical therapy and NSAIDs,26-Feb-25,26,Arthritis - Physical therapy and NSAIDs,Feb 2025
+783,259,Arthritis,Physical therapy and NSAIDs,14-Jun-24,20,Arthritis - Physical therapy and NSAIDs,Jun 2024
+799,281,Arthritis,Physical therapy and NSAIDs,07-Jun-24,21,Arthritis - Physical therapy and NSAIDs,Jun 2024
+803,169,Arthritis,Physical therapy and NSAIDs,06-Apr-25,35,Arthritis - Physical therapy and NSAIDs,Apr 2025
+818,175,Arthritis,Physical therapy and NSAIDs,22-Apr-25,23,Arthritis - Physical therapy and NSAIDs,Apr 2025
+832,299,Arthritis,Physical therapy and NSAIDs,01-Jul-25,20,Arthritis - Physical therapy and NSAIDs,Jul 2025
+843,365,Arthritis,Physical therapy and NSAIDs,03-May-25,20,Arthritis - Physical therapy and NSAIDs,May 2025
+862,55,Arthritis,Physical therapy and NSAIDs,20-Feb-25,47,Arthritis - Physical therapy and NSAIDs,Feb 2025
+878,161,Arthritis,Physical therapy and NSAIDs,20-Sep-24,20,Arthritis - Physical therapy and NSAIDs,Sep 2024
+879,235,Arthritis,Physical therapy and NSAIDs,15-Jun-25,23,Arthritis - Physical therapy and NSAIDs,Jun 2025
+882,6,Arthritis,Physical therapy and NSAIDs,18-Sep-24,19,Arthritis - Physical therapy and NSAIDs,Sep 2024
+883,92,Arthritis,Physical therapy and NSAIDs,06-Jun-25,23,Arthritis - Physical therapy and NSAIDs,Jun 2025
+892,112,Arthritis,Physical therapy and NSAIDs,07-Sep-24,21,Arthritis - Physical therapy and NSAIDs,Sep 2024
+898,30,Arthritis,Physical therapy and NSAIDs,27-Sep-24,36,Arthritis - Physical therapy and NSAIDs,Sep 2024
+9,87,Hypothyroidism,Thyroid hormone replacement,11-Oct-24,46,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+11,153,Hypothyroidism,Thyroid hormone replacement,04-Apr-24,14,Hypothyroidism - Thyroid hormone replacement,Apr 2024
+15,292,Hypothyroidism,Thyroid hormone replacement,19-Aug-24,12,Hypothyroidism - Thyroid hormone replacement,Aug 2024
+40,292,Hypothyroidism,Thyroid hormone replacement,18-Oct-24,12,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+73,203,Hypothyroidism,Thyroid hormone replacement,23-Oct-24,48,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+92,172,Hypothyroidism,Thyroid hormone replacement,19-Sep-24,31,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+132,236,Hypothyroidism,Thyroid hormone replacement,23-Jul-24,17,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+149,459,Hypothyroidism,Thyroid hormone replacement,21-Feb-25,12,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+155,52,Hypothyroidism,Thyroid hormone replacement,07-Oct-24,14,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+177,244,Hypothyroidism,Thyroid hormone replacement,03-Apr-25,32,Hypothyroidism - Thyroid hormone replacement,Apr 2025
+178,272,Hypothyroidism,Thyroid hormone replacement,21-Jul-24,48,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+189,431,Hypothyroidism,Thyroid hormone replacement,11-Apr-25,17,Hypothyroidism - Thyroid hormone replacement,Apr 2025
+209,334,Hypothyroidism,Thyroid hormone replacement,12-Apr-24,39,Hypothyroidism - Thyroid hormone replacement,Apr 2024
+210,193,Hypothyroidism,Thyroid hormone replacement,05-Aug-24,48,Hypothyroidism - Thyroid hormone replacement,Aug 2024
+214,406,Hypothyroidism,Thyroid hormone replacement,07-Nov-24,12,Hypothyroidism - Thyroid hormone replacement,Nov 2024
+219,13,Hypothyroidism,Thyroid hormone replacement,28-Jan-25,48,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+244,92,Hypothyroidism,Thyroid hormone replacement,26-Feb-25,12,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+263,413,Hypothyroidism,Thyroid hormone replacement,13-Jul-24,17,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+269,157,Hypothyroidism,Thyroid hormone replacement,12-Aug-24,33,Hypothyroidism - Thyroid hormone replacement,Aug 2024
+276,258,Hypothyroidism,Thyroid hormone replacement,04-Jan-25,12,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+305,43,Hypothyroidism,Thyroid hormone replacement,16-Jul-24,17,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+323,85,Hypothyroidism,Thyroid hormone replacement,22-Aug-24,12,Hypothyroidism - Thyroid hormone replacement,Aug 2024
+340,95,Hypothyroidism,Thyroid hormone replacement,29-Apr-25,14,Hypothyroidism - Thyroid hormone replacement,Apr 2025
+348,409,Hypothyroidism,Thyroid hormone replacement,18-Jul-24,3,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+354,12,Hypothyroidism,Thyroid hormone replacement,16-Mar-25,17,Hypothyroidism - Thyroid hormone replacement,Mar 2025
+356,393,Hypothyroidism,Thyroid hormone replacement,06-Jul-24,12,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+358,273,Hypothyroidism,Thyroid hormone replacement,07-Nov-24,12,Hypothyroidism - Thyroid hormone replacement,Nov 2024
+366,392,Hypothyroidism,Thyroid hormone replacement,16-Oct-24,14,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+389,146,Hypothyroidism,Thyroid hormone replacement,17-Feb-25,12,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+392,498,Hypothyroidism,Thyroid hormone replacement,17-Apr-25,46,Hypothyroidism - Thyroid hormone replacement,Apr 2025
+398,83,Hypothyroidism,Thyroid hormone replacement,01-Jul-24,14,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+407,265,Hypothyroidism,Thyroid hormone replacement,17-Sep-24,14,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+416,219,Hypothyroidism,Thyroid hormone replacement,19-Jul-24,14,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+427,294,Hypothyroidism,Thyroid hormone replacement,15-Dec-24,14,Hypothyroidism - Thyroid hormone replacement,Dec 2024
+432,68,Hypothyroidism,Thyroid hormone replacement,23-Apr-25,48,Hypothyroidism - Thyroid hormone replacement,Apr 2025
+447,324,Hypothyroidism,Thyroid hormone replacement,14-Jan-25,15,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+450,487,Hypothyroidism,Thyroid hormone replacement,25-Jan-25,17,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+460,104,Hypothyroidism,Thyroid hormone replacement,26-Jan-25,33,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+495,396,Hypothyroidism,Thyroid hormone replacement,01-Feb-25,17,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+512,446,Hypothyroidism,Thyroid hormone replacement,01-Sep-24,48,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+518,442,Hypothyroidism,Thyroid hormone replacement,24-Aug-24,48,Hypothyroidism - Thyroid hormone replacement,Aug 2024
+528,224,Hypothyroidism,Thyroid hormone replacement,24-Apr-24,48,Hypothyroidism - Thyroid hormone replacement,Apr 2024
+529,39,Hypothyroidism,Thyroid hormone replacement,28-Sep-24,35,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+530,212,Hypothyroidism,Thyroid hormone replacement,24-Jan-25,32,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+546,205,Hypothyroidism,Thyroid hormone replacement,24-Oct-24,17,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+549,180,Hypothyroidism,Thyroid hormone replacement,16-May-25,17,Hypothyroidism - Thyroid hormone replacement,May 2025
+552,159,Hypothyroidism,Thyroid hormone replacement,22-Jan-25,14,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+556,467,Hypothyroidism,Thyroid hormone replacement,07-Aug-24,48,Hypothyroidism - Thyroid hormone replacement,Aug 2024
+559,88,Hypothyroidism,Thyroid hormone replacement,05-Sep-24,14,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+568,19,Hypothyroidism,Thyroid hormone replacement,11-Feb-25,29,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+576,295,Hypothyroidism,Thyroid hormone replacement,16-Nov-24,14,Hypothyroidism - Thyroid hormone replacement,Nov 2024
+590,306,Hypothyroidism,Thyroid hormone replacement,04-May-25,14,Hypothyroidism - Thyroid hormone replacement,May 2025
+593,232,Hypothyroidism,Thyroid hormone replacement,26-Oct-24,17,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+605,279,Hypothyroidism,Thyroid hormone replacement,17-Nov-24,12,Hypothyroidism - Thyroid hormone replacement,Nov 2024
+616,106,Hypothyroidism,Thyroid hormone replacement,23-Jun-24,17,Hypothyroidism - Thyroid hormone replacement,Jun 2024
+619,232,Hypothyroidism,Thyroid hormone replacement,11-Jan-25,14,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+620,496,Hypothyroidism,Thyroid hormone replacement,27-Aug-24,48,Hypothyroidism - Thyroid hormone replacement,Aug 2024
+634,394,Hypothyroidism,Thyroid hormone replacement,15-Jun-24,12,Hypothyroidism - Thyroid hormone replacement,Jun 2024
+638,329,Hypothyroidism,Thyroid hormone replacement,14-Sep-24,35,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+640,213,Hypothyroidism,Thyroid hormone replacement,28-Mar-25,48,Hypothyroidism - Thyroid hormone replacement,Mar 2025
+661,134,Hypothyroidism,Thyroid hormone replacement,08-Aug-25,2,Hypothyroidism - Thyroid hormone replacement,Aug 2025
+675,145,Hypothyroidism,Thyroid hormone replacement,15-Feb-25,14,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+678,471,Hypothyroidism,Thyroid hormone replacement,13-Jun-24,42,Hypothyroidism - Thyroid hormone replacement,Jun 2024
+690,169,Hypothyroidism,Thyroid hormone replacement,07-Mar-25,31,Hypothyroidism - Thyroid hormone replacement,Mar 2025
+706,220,Hypothyroidism,Thyroid hormone replacement,22-Feb-25,12,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+708,471,Hypothyroidism,Thyroid hormone replacement,22-Jul-24,2,Hypothyroidism - Thyroid hormone replacement,Jul 2024
+754,72,Hypothyroidism,Thyroid hormone replacement,01-Nov-24,17,Hypothyroidism - Thyroid hormone replacement,Nov 2024
+755,152,Hypothyroidism,Thyroid hormone replacement,28-Sep-24,48,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+761,456,Hypothyroidism,Thyroid hormone replacement,07-Dec-24,18,Hypothyroidism - Thyroid hormone replacement,Dec 2024
+765,88,Hypothyroidism,Thyroid hormone replacement,22-Sep-24,48,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+796,464,Hypothyroidism,Thyroid hormone replacement,13-Apr-25,12,Hypothyroidism - Thyroid hormone replacement,Apr 2025
+821,331,Hypothyroidism,Thyroid hormone replacement,14-Jan-25,14,Hypothyroidism - Thyroid hormone replacement,Jan 2025
+824,37,Hypothyroidism,Thyroid hormone replacement,31-Dec-24,14,Hypothyroidism - Thyroid hormone replacement,Dec 2024
+831,79,Hypothyroidism,Thyroid hormone replacement,12-Sep-24,12,Hypothyroidism - Thyroid hormone replacement,Sep 2024
+866,203,Hypothyroidism,Thyroid hormone replacement,07-Feb-25,18,Hypothyroidism - Thyroid hormone replacement,Feb 2025
+869,437,Hypothyroidism,Thyroid hormone replacement,12-Oct-24,17,Hypothyroidism - Thyroid hormone replacement,Oct 2024
+893,8,Hypothyroidism,Thyroid hormone replacement,31-May-25,48,Hypothyroidism - Thyroid hormone replacement,May 2025
+2,326,Chronic Kidney Disease,Dialysis and medication,05-May-24,31,Chronic Kidney Disease - Dialysis and medication,May 2024
+22,431,Chronic Kidney Disease,Dialysis and medication,22-Feb-25,46,Chronic Kidney Disease - Dialysis and medication,Feb 2025
+43,379,Chronic Kidney Disease,Dialysis and medication,03-Sep-24,29,Chronic Kidney Disease - Dialysis and medication,Sep 2024
+79,144,Chronic Kidney Disease,Dialysis and medication,06-Oct-24,20,Chronic Kidney Disease - Dialysis and medication,Oct 2024
+87,89,Chronic Kidney Disease,Dialysis and medication,09-Nov-24,20,Chronic Kidney Disease - Dialysis and medication,Nov 2024
+88,197,Chronic Kidney Disease,Dialysis and medication,01-Apr-24,21,Chronic Kidney Disease - Dialysis and medication,Apr 2024
+95,396,Chronic Kidney Disease,Dialysis and medication,20-Sep-24,21,Chronic Kidney Disease - Dialysis and medication,Sep 2024
+97,82,Chronic Kidney Disease,Dialysis and medication,20-Feb-25,21,Chronic Kidney Disease - Dialysis and medication,Feb 2025
+113,332,Chronic Kidney Disease,Dialysis and medication,10-Oct-24,3,Chronic Kidney Disease - Dialysis and medication,Oct 2024
+129,481,Chronic Kidney Disease,Dialysis and medication,24-Sep-24,50,Chronic Kidney Disease - Dialysis and medication,Sep 2024
+136,483,Chronic Kidney Disease,Dialysis and medication,20-Nov-24,23,Chronic Kidney Disease - Dialysis and medication,Nov 2024
+144,48,Chronic Kidney Disease,Dialysis and medication,10-Aug-24,23,Chronic Kidney Disease - Dialysis and medication,Aug 2024
+183,195,Chronic Kidney Disease,Dialysis and medication,05-May-24,21,Chronic Kidney Disease - Dialysis and medication,May 2024
+184,299,Chronic Kidney Disease,Dialysis and medication,19-Nov-24,20,Chronic Kidney Disease - Dialysis and medication,Nov 2024
+190,474,Chronic Kidney Disease,Dialysis and medication,24-Aug-24,21,Chronic Kidney Disease - Dialysis and medication,Aug 2024
+199,228,Chronic Kidney Disease,Dialysis and medication,20-Mar-25,23,Chronic Kidney Disease - Dialysis and medication,Mar 2025
+203,387,Chronic Kidney Disease,Dialysis and medication,02-Sep-24,23,Chronic Kidney Disease - Dialysis and medication,Sep 2024
+216,28,Chronic Kidney Disease,Dialysis and medication,27-Oct-24,19,Chronic Kidney Disease - Dialysis and medication,Oct 2024
+224,69,Chronic Kidney Disease,Dialysis and medication,18-May-25,23,Chronic Kidney Disease - Dialysis and medication,May 2025
+245,65,Chronic Kidney Disease,Dialysis and medication,16-Feb-25,36,Chronic Kidney Disease - Dialysis and medication,Feb 2025
+248,68,Chronic Kidney Disease,Dialysis and medication,10-Feb-25,20,Chronic Kidney Disease - Dialysis and medication,Feb 2025
+274,195,Chronic Kidney Disease,Dialysis and medication,27-Jun-24,20,Chronic Kidney Disease - Dialysis and medication,Jun 2024
+275,31,Chronic Kidney Disease,Dialysis and medication,10-Jun-24,21,Chronic Kidney Disease - Dialysis and medication,Jun 2024
+284,332,Chronic Kidney Disease,Dialysis and medication,21-Dec-24,23,Chronic Kidney Disease - Dialysis and medication,Dec 2024
+295,8,Chronic Kidney Disease,Dialysis and medication,26-Jan-25,23,Chronic Kidney Disease - Dialysis and medication,Jan 2025
+304,402,Chronic Kidney Disease,Dialysis and medication,31-Mar-24,35,Chronic Kidney Disease - Dialysis and medication,Mar 2024
+347,474,Chronic Kidney Disease,Dialysis and medication,13-Oct-24,23,Chronic Kidney Disease - Dialysis and medication,Oct 2024
+377,368,Chronic Kidney Disease,Dialysis and medication,09-May-24,21,Chronic Kidney Disease - Dialysis and medication,May 2024
+378,40,Chronic Kidney Disease,Dialysis and medication,25-Jun-24,21,Chronic Kidney Disease - Dialysis and medication,Jun 2024
+385,17,Chronic Kidney Disease,Dialysis and medication,21-Mar-25,2,Chronic Kidney Disease - Dialysis and medication,Mar 2025
+395,64,Chronic Kidney Disease,Dialysis and medication,25-Apr-24,21,Chronic Kidney Disease - Dialysis and medication,Apr 2024
+412,209,Chronic Kidney Disease,Dialysis and medication,05-Mar-25,23,Chronic Kidney Disease - Dialysis and medication,Mar 2025
+424,39,Chronic Kidney Disease,Dialysis and medication,08-Jul-24,13,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+429,486,Chronic Kidney Disease,Dialysis and medication,11-Jan-25,2,Chronic Kidney Disease - Dialysis and medication,Jan 2025
+436,321,Chronic Kidney Disease,Dialysis and medication,29-Jul-24,50,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+440,174,Chronic Kidney Disease,Dialysis and medication,13-Apr-25,36,Chronic Kidney Disease - Dialysis and medication,Apr 2025
+443,409,Chronic Kidney Disease,Dialysis and medication,08-Sep-24,35,Chronic Kidney Disease - Dialysis and medication,Sep 2024
+451,170,Chronic Kidney Disease,Dialysis and medication,09-Jul-24,36,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+464,82,Chronic Kidney Disease,Dialysis and medication,05-Apr-25,18,Chronic Kidney Disease - Dialysis and medication,Apr 2025
+473,292,Chronic Kidney Disease,Dialysis and medication,14-May-25,33,Chronic Kidney Disease - Dialysis and medication,May 2025
+487,288,Chronic Kidney Disease,Dialysis and medication,14-Jul-24,29,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+489,321,Chronic Kidney Disease,Dialysis and medication,10-Sep-24,21,Chronic Kidney Disease - Dialysis and medication,Sep 2024
+490,2,Chronic Kidney Disease,Dialysis and medication,31-Mar-25,23,Chronic Kidney Disease - Dialysis and medication,Mar 2025
+539,191,Chronic Kidney Disease,Dialysis and medication,28-Dec-24,15,Chronic Kidney Disease - Dialysis and medication,Dec 2024
+565,102,Chronic Kidney Disease,Dialysis and medication,02-Apr-25,15,Chronic Kidney Disease - Dialysis and medication,Apr 2025
+566,102,Chronic Kidney Disease,Dialysis and medication,19-Jun-25,29,Chronic Kidney Disease - Dialysis and medication,Jun 2025
+570,177,Chronic Kidney Disease,Dialysis and medication,27-May-25,23,Chronic Kidney Disease - Dialysis and medication,May 2025
+612,16,Chronic Kidney Disease,Dialysis and medication,18-Jul-24,13,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+614,337,Chronic Kidney Disease,Dialysis and medication,15-Jul-24,20,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+621,458,Chronic Kidney Disease,Dialysis and medication,06-Jul-24,21,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+636,121,Chronic Kidney Disease,Dialysis and medication,04-Apr-25,20,Chronic Kidney Disease - Dialysis and medication,Apr 2025
+637,274,Chronic Kidney Disease,Dialysis and medication,03-May-25,20,Chronic Kidney Disease - Dialysis and medication,May 2025
+663,395,Chronic Kidney Disease,Dialysis and medication,06-May-24,23,Chronic Kidney Disease - Dialysis and medication,May 2024
+665,198,Chronic Kidney Disease,Dialysis and medication,25-Dec-24,41,Chronic Kidney Disease - Dialysis and medication,Dec 2024
+668,80,Chronic Kidney Disease,Dialysis and medication,19-Dec-24,33,Chronic Kidney Disease - Dialysis and medication,Dec 2024
+730,145,Chronic Kidney Disease,Dialysis and medication,24-Apr-25,20,Chronic Kidney Disease - Dialysis and medication,Apr 2025
+745,290,Chronic Kidney Disease,Dialysis and medication,14-May-25,23,Chronic Kidney Disease - Dialysis and medication,May 2025
+766,452,Chronic Kidney Disease,Dialysis and medication,31-Oct-24,23,Chronic Kidney Disease - Dialysis and medication,Oct 2024
+768,239,Chronic Kidney Disease,Dialysis and medication,30-Jul-24,20,Chronic Kidney Disease - Dialysis and medication,Jul 2024
+773,210,Chronic Kidney Disease,Dialysis and medication,26-Aug-25,20,Chronic Kidney Disease - Dialysis and medication,Aug 2025
+785,434,Chronic Kidney Disease,Dialysis and medication,23-Aug-24,21,Chronic Kidney Disease - Dialysis and medication,Aug 2024
+798,270,Chronic Kidney Disease,Dialysis and medication,13-Jan-25,23,Chronic Kidney Disease - Dialysis and medication,Jan 2025
+802,99,Chronic Kidney Disease,Dialysis and medication,06-Aug-24,21,Chronic Kidney Disease - Dialysis and medication,Aug 2024
+846,145,Chronic Kidney Disease,Dialysis and medication,11-Jun-25,35,Chronic Kidney Disease - Dialysis and medication,Jun 2025
+859,40,Chronic Kidney Disease,Dialysis and medication,04-Sep-24,23,Chronic Kidney Disease - Dialysis and medication,Sep 2024
+887,142,Chronic Kidney Disease,Dialysis and medication,03-Jul-25,31,Chronic Kidney Disease - Dialysis and medication,Jul 2025
+19,293,Migraine,Pain management and rest,13-Jun-24,2,Migraine - Pain management and rest,Jun 2024
+25,265,Migraine,Pain management and rest,12-Apr-24,10,Migraine - Pain management and rest,Apr 2024
+28,480,Migraine,Pain management and rest,15-Mar-25,24,Migraine - Pain management and rest,Mar 2025
+38,424,Migraine,Pain management and rest,05-May-24,24,Migraine - Pain management and rest,May 2024
+50,83,Migraine,Pain management and rest,16-May-24,1,Migraine - Pain management and rest,May 2024
+59,208,Migraine,Pain management and rest,27-May-24,1,Migraine - Pain management and rest,May 2024
+98,104,Migraine,Pain management and rest,26-Sep-24,13,Migraine - Pain management and rest,Sep 2024
+100,317,Migraine,Pain management and rest,14-Oct-24,10,Migraine - Pain management and rest,Oct 2024
+116,303,Migraine,Pain management and rest,02-Jan-25,10,Migraine - Pain management and rest,Jan 2025
+147,91,Migraine,Pain management and rest,26-Jul-24,10,Migraine - Pain management and rest,Jul 2024
+168,439,Migraine,Pain management and rest,28-Jul-24,10,Migraine - Pain management and rest,Jul 2024
+173,489,Migraine,Pain management and rest,13-Sep-24,31,Migraine - Pain management and rest,Sep 2024
+185,280,Migraine,Pain management and rest,31-Jan-25,18,Migraine - Pain management and rest,Jan 2025
+200,480,Migraine,Pain management and rest,17-Jun-25,24,Migraine - Pain management and rest,Jun 2025
+201,493,Migraine,Pain management and rest,04-Jan-25,10,Migraine - Pain management and rest,Jan 2025
+211,356,Migraine,Pain management and rest,13-Mar-25,24,Migraine - Pain management and rest,Mar 2025
+215,328,Migraine,Pain management and rest,19-Oct-24,36,Migraine - Pain management and rest,Oct 2024
+240,94,Migraine,Pain management and rest,05-Jul-24,10,Migraine - Pain management and rest,Jul 2024
+246,498,Migraine,Pain management and rest,13-Feb-25,1,Migraine - Pain management and rest,Feb 2025
+251,429,Migraine,Pain management and rest,20-Oct-24,24,Migraine - Pain management and rest,Oct 2024
+252,156,Migraine,Pain management and rest,16-Mar-25,24,Migraine - Pain management and rest,Mar 2025
+255,412,Migraine,Pain management and rest,06-Jul-24,29,Migraine - Pain management and rest,Jul 2024
+307,204,Migraine,Pain management and rest,26-Aug-24,36,Migraine - Pain management and rest,Aug 2024
+334,453,Migraine,Pain management and rest,15-Jan-25,24,Migraine - Pain management and rest,Jan 2025
+360,94,Migraine,Pain management and rest,30-Sep-24,10,Migraine - Pain management and rest,Sep 2024
+362,121,Migraine,Pain management and rest,14-Nov-24,15,Migraine - Pain management and rest,Nov 2024
+379,340,Migraine,Pain management and rest,12-Sep-24,10,Migraine - Pain management and rest,Sep 2024
+382,336,Migraine,Pain management and rest,24-Oct-24,24,Migraine - Pain management and rest,Oct 2024
+421,121,Migraine,Pain management and rest,04-Feb-25,24,Migraine - Pain management and rest,Feb 2025
+423,433,Migraine,Pain management and rest,05-May-25,13,Migraine - Pain management and rest,May 2025
+444,162,Migraine,Pain management and rest,18-Oct-24,13,Migraine - Pain management and rest,Oct 2024
+462,338,Migraine,Pain management and rest,23-Aug-24,24,Migraine - Pain management and rest,Aug 2024
+468,50,Migraine,Pain management and rest,01-Aug-24,31,Migraine - Pain management and rest,Aug 2024
+472,138,Migraine,Pain management and rest,30-Nov-24,1,Migraine - Pain management and rest,Nov 2024
+488,424,Migraine,Pain management and rest,13-Jul-24,46,Migraine - Pain management and rest,Jul 2024
+497,382,Migraine,Pain management and rest,02-Oct-24,1,Migraine - Pain management and rest,Oct 2024
+520,472,Migraine,Pain management and rest,04-Feb-25,36,Migraine - Pain management and rest,Feb 2025
+525,367,Migraine,Pain management and rest,06-Mar-25,10,Migraine - Pain management and rest,Mar 2025
+547,136,Migraine,Pain management and rest,10-Aug-24,13,Migraine - Pain management and rest,Aug 2024
+551,292,Migraine,Pain management and rest,04-Oct-25,10,Migraine - Pain management and rest,Oct 2025
+585,17,Migraine,Pain management and rest,06-Jun-25,1,Migraine - Pain management and rest,Jun 2025
+607,321,Migraine,Pain management and rest,19-Oct-24,1,Migraine - Pain management and rest,Oct 2024
+633,127,Migraine,Pain management and rest,03-Apr-25,24,Migraine - Pain management and rest,Apr 2025
+642,491,Migraine,Pain management and rest,20-Nov-24,1,Migraine - Pain management and rest,Nov 2024
+648,100,Migraine,Pain management and rest,02-Mar-25,1,Migraine - Pain management and rest,Mar 2025
+654,375,Migraine,Pain management and rest,26-Jul-24,24,Migraine - Pain management and rest,Jul 2024
+673,418,Migraine,Pain management and rest,31-Mar-25,1,Migraine - Pain management and rest,Mar 2025
+681,77,Migraine,Pain management and rest,12-Oct-24,10,Migraine - Pain management and rest,Oct 2024
+692,75,Migraine,Pain management and rest,13-May-25,46,Migraine - Pain management and rest,May 2025
+704,94,Migraine,Pain management and rest,11-Jan-25,35,Migraine - Pain management and rest,Jan 2025
+705,96,Migraine,Pain management and rest,12-Jun-25,46,Migraine - Pain management and rest,Jun 2025
+710,465,Migraine,Pain management and rest,16-Oct-24,1,Migraine - Pain management and rest,Oct 2024
+716,177,Migraine,Pain management and rest,06-Jul-25,24,Migraine - Pain management and rest,Jul 2025
+719,239,Migraine,Pain management and rest,06-May-24,1,Migraine - Pain management and rest,May 2024
+750,446,Migraine,Pain management and rest,17-Jan-25,35,Migraine - Pain management and rest,Jan 2025
+752,318,Migraine,Pain management and rest,05-Mar-25,41,Migraine - Pain management and rest,Mar 2025
+753,450,Migraine,Pain management and rest,02-Dec-24,1,Migraine - Pain management and rest,Dec 2024
+769,371,Migraine,Pain management and rest,12-Sep-24,24,Migraine - Pain management and rest,Sep 2024
+782,5,Migraine,Pain management and rest,26-Nov-24,50,Migraine - Pain management and rest,Nov 2024
+805,4,Migraine,Pain management and rest,18-Mar-25,1,Migraine - Pain management and rest,Mar 2025
+812,253,Migraine,Pain management and rest,21-Jan-25,1,Migraine - Pain management and rest,Jan 2025
+842,161,Migraine,Pain management and rest,07-Jul-24,1,Migraine - Pain management and rest,Jul 2024
+861,112,Migraine,Pain management and rest,12-Jul-24,42,Migraine - Pain management and rest,Jul 2024
+871,301,Migraine,Pain management and rest,21-Jun-24,24,Migraine - Pain management and rest,Jun 2024
+877,270,Migraine,Pain management and rest,30-Mar-25,46,Migraine - Pain management and rest,Mar 2025
+897,443,Migraine,Pain management and rest,01-Aug-24,15,Migraine - Pain management and rest,Aug 2024
+4,149,Epilepsy,Anti-epileptic drugs,07-Jul-24,3,Epilepsy - Anti-epileptic drugs,Jul 2024
+5,108,Hypertension,Lifestyle changes with medication,21-Nov-24,47,Hypertension - Lifestyle changes with medication,Nov 2024
+7,411,Depression,CBT and SSRIs,13-Mar-25,13,Depression - CBT and SSRIs,Mar 2025
+8,35,Type 2 Diabetes,Daily insulin therapy,23-Sep-24,2,Type 2 Diabetes - Daily insulin therapy,Sep 2024
+10,146,Epilepsy,Anti-epileptic drugs,31-Dec-24,42,Epilepsy - Anti-epileptic drugs,Dec 2024
+16,496,Epilepsy,Anti-epileptic drugs,11-Jun-24,24,Epilepsy - Anti-epileptic drugs,Jun 2024
+20,98,Coronary Artery Disease,Statins and lifestyle change,11-Jun-24,26,Coronary Artery Disease - Statins and lifestyle change,Jun 2024
+23,358,Coronary Artery Disease,Statins and lifestyle change,08-Sep-24,35,Coronary Artery Disease - Statins and lifestyle change,Sep 2024
+27,483,Epilepsy,Anti-epileptic drugs,12-Jul-24,18,Epilepsy - Anti-epileptic drugs,Jul 2024
+30,328,Otitis Media,Antibiotic ear drops,04-Sep-24,13,Otitis Media - Antibiotic ear drops,Sep 2024
+31,185,Acute Bronchitis,7-day antibiotic course,20-Mar-25,15,Acute Bronchitis - 7-day antibiotic course,Mar 2025
+32,159,Pneumonia,Antibiotics and rest,08-Jul-24,3,Pneumonia - Antibiotics and rest,Jul 2024
+33,95,Hypertension,Lifestyle changes with medication,16-Mar-25,2,Hypertension - Lifestyle changes with medication,Mar 2025
+34,171,Stroke,Blood thinners and rehab,25-Sep-24,29,Stroke - Blood thinners and rehab,Sep 2024
+35,357,Hypertension,Lifestyle changes with medication,17-Feb-25,15,Hypertension - Lifestyle changes with medication,Feb 2025
+36,274,Asthma,Use of inhalers,24-Nov-24,50,Asthma - Use of inhalers,Nov 2024
+37,69,Otitis Media,Antibiotic ear drops,23-Mar-25,31,Otitis Media - Antibiotic ear drops,Mar 2025
+41,478,Epilepsy,Anti-epileptic drugs,26-Nov-24,24,Epilepsy - Anti-epileptic drugs,Nov 2024
+44,441,COPD,Bronchodilators,29-Jun-24,41,COPD - Bronchodilators,Jun 2024
+45,391,Hypertension,Lifestyle changes with medication,22-Sep-24,33,Hypertension - Lifestyle changes with medication,Sep 2024
+46,28,Hyperlipidemia,Cholesterol-lowering agents,25-Aug-24,7,Hyperlipidemia - Cholesterol-lowering agents,Aug 2024
+47,6,Pneumonia,Antibiotics and rest,04-Apr-24,2,Pneumonia - Antibiotics and rest,Apr 2024
+48,37,Depression,CBT and SSRIs,25-Jul-24,50,Depression - CBT and SSRIs,Jul 2024
+49,284,COPD,Bronchodilators,03-Mar-25,32,COPD - Bronchodilators,Mar 2025
+52,2,Epilepsy,Anti-epileptic drugs,23-Jan-25,24,Epilepsy - Anti-epileptic drugs,Jan 2025
+53,75,Sinusitis,Decongestants,02-Mar-25,50,Sinusitis - Decongestants,Mar 2025
+55,499,Hypertension,Lifestyle changes with medication,13-Mar-25,47,Hypertension - Lifestyle changes with medication,Mar 2025
+57,159,Coronary Artery Disease,Statins and lifestyle change,23-Sep-24,7,Coronary Artery Disease - Statins and lifestyle change,Sep 2024
+58,116,Sinusitis,Decongestants,10-Aug-24,19,Sinusitis - Decongestants,Aug 2024
+60,472,Asthma,Use of inhalers,08-Dec-24,13,Asthma - Use of inhalers,Dec 2024
+63,108,Epilepsy,Anti-epileptic drugs,17-Apr-25,24,Epilepsy - Anti-epileptic drugs,Apr 2025
+64,338,Hypertension,Lifestyle changes with medication,07-Jul-24,7,Hypertension - Lifestyle changes with medication,Jul 2024
+66,461,Hyperlipidemia,Cholesterol-lowering agents,29-Sep-24,36,Hyperlipidemia - Cholesterol-lowering agents,Sep 2024
+70,63,GERD,Antacids and dietary changes,09-Aug-24,31,GERD - Antacids and dietary changes,Aug 2024
+71,29,Pneumonia,Antibiotics and rest,26-Jul-24,3,Pneumonia - Antibiotics and rest,Jul 2024
+72,73,Stroke,Blood thinners and rehab,26-Dec-24,13,Stroke - Blood thinners and rehab,Dec 2024
+74,265,Hyperlipidemia,Cholesterol-lowering agents,20-Jun-24,41,Hyperlipidemia - Cholesterol-lowering agents,Jun 2024
+75,462,Type 2 Diabetes,Daily insulin therapy,22-Feb-25,36,Type 2 Diabetes - Daily insulin therapy,Feb 2025
+76,260,Epilepsy,Anti-epileptic drugs,20-Feb-25,24,Epilepsy - Anti-epileptic drugs,Feb 2025
+80,375,Type 2 Diabetes,Daily insulin therapy,26-Apr-24,35,Type 2 Diabetes - Daily insulin therapy,Apr 2024
+82,354,Hypertension,Lifestyle changes with medication,11-Jan-25,47,Hypertension - Lifestyle changes with medication,Jan 2025
+84,86,Epilepsy,Anti-epileptic drugs,31-Aug-24,39,Epilepsy - Anti-epileptic drugs,Aug 2024
+85,96,Asthma,Use of inhalers,17-Sep-24,42,Asthma - Use of inhalers,Sep 2024
+86,139,Otitis Media,Antibiotic ear drops,24-Jun-24,3,Otitis Media - Antibiotic ear drops,Jun 2024
+89,427,Type 2 Diabetes,Daily insulin therapy,03-Aug-24,42,Type 2 Diabetes - Daily insulin therapy,Aug 2024
+90,381,Epilepsy,Anti-epileptic drugs,13-Jun-24,33,Epilepsy - Anti-epileptic drugs,Jun 2024
+93,156,Pneumonia,Antibiotics and rest,04-Feb-25,41,Pneumonia - Antibiotics and rest,Feb 2025
+94,284,Hypertension,Lifestyle changes with medication,23-Apr-25,47,Hypertension - Lifestyle changes with medication,Apr 2025
+96,309,Stroke,Blood thinners and rehab,05-Jun-24,33,Stroke - Blood thinners and rehab,Jun 2024
+99,187,Hypertension,Lifestyle changes with medication,23-Dec-24,3,Hypertension - Lifestyle changes with medication,Dec 2024
+102,92,Asthma,Use of inhalers,28-Jan-25,35,Asthma - Use of inhalers,Jan 2025
+103,128,Coronary Artery Disease,Statins and lifestyle change,07-Jun-24,47,Coronary Artery Disease - Statins and lifestyle change,Jun 2024
+104,50,Epilepsy,Anti-epileptic drugs,05-Apr-24,10,Epilepsy - Anti-epileptic drugs,Apr 2024
+105,160,Otitis Media,Antibiotic ear drops,05-Jul-24,46,Otitis Media - Antibiotic ear drops,Jul 2024
+106,44,Hypertension,Lifestyle changes with medication,23-May-24,33,Hypertension - Lifestyle changes with medication,May 2024
+107,55,Sinusitis,Decongestants,29-Jan-25,46,Sinusitis - Decongestants,Jan 2025
+110,69,Coronary Artery Disease,Statins and lifestyle change,24-Apr-25,47,Coronary Artery Disease - Statins and lifestyle change,Apr 2025
+111,77,Depression,CBT and SSRIs,16-May-24,35,Depression - CBT and SSRIs,May 2024
+112,332,Epilepsy,Anti-epileptic drugs,21-Jul-24,24,Epilepsy - Anti-epileptic drugs,Jul 2024
+114,485,Coronary Artery Disease,Statins and lifestyle change,28-Sep-24,15,Coronary Artery Disease - Statins and lifestyle change,Sep 2024
+115,146,Stroke,Blood thinners and rehab,19-Jan-25,42,Stroke - Blood thinners and rehab,Jan 2025
+117,117,Acute Bronchitis,7-day antibiotic course,11-Dec-24,29,Acute Bronchitis - 7-day antibiotic course,Dec 2024
+119,418,Type 2 Diabetes,Daily insulin therapy,02-Jan-25,2,Type 2 Diabetes - Daily insulin therapy,Jan 2025
+120,385,GERD,Antacids and dietary changes,20-Jul-24,36,GERD - Antacids and dietary changes,Jul 2024
+123,150,COPD,Bronchodilators,13-Jun-24,32,COPD - Bronchodilators,Jun 2024
+124,383,Hypertension,Lifestyle changes with medication,20-Mar-25,47,Hypertension - Lifestyle changes with medication,Mar 2025
+125,1,Type 2 Diabetes,Daily insulin therapy,04-Sep-24,31,Type 2 Diabetes - Daily insulin therapy,Sep 2024
+127,29,Otitis Media,Antibiotic ear drops,04-Sep-24,35,Otitis Media - Antibiotic ear drops,Sep 2024
+130,293,Epilepsy,Anti-epileptic drugs,25-Aug-24,1,Epilepsy - Anti-epileptic drugs,Aug 2024
+131,174,GERD,Antacids and dietary changes,02-Feb-25,18,GERD - Antacids and dietary changes,Feb 2025
+133,12,Stroke,Blood thinners and rehab,12-Jan-25,46,Stroke - Blood thinners and rehab,Jan 2025
+134,486,Asthma,Use of inhalers,28-Nov-24,36,Asthma - Use of inhalers,Nov 2024
+138,36,Hypertension,Lifestyle changes with medication,09-Feb-25,47,Hypertension - Lifestyle changes with medication,Feb 2025
+139,229,Pneumonia,Antibiotics and rest,12-Jun-24,32,Pneumonia - Antibiotics and rest,Jun 2024
+140,461,Coronary Artery Disease,Statins and lifestyle change,06-Nov-24,26,Coronary Artery Disease - Statins and lifestyle change,Nov 2024
+141,37,Hyperlipidemia,Cholesterol-lowering agents,05-Oct-24,42,Hyperlipidemia - Cholesterol-lowering agents,Oct 2024
+142,216,Hyperlipidemia,Cholesterol-lowering agents,01-Jan-25,7,Hyperlipidemia - Cholesterol-lowering agents,Jan 2025
+143,330,Hyperlipidemia,Cholesterol-lowering agents,24-May-24,15,Hyperlipidemia - Cholesterol-lowering agents,May 2024
+145,362,Acute Bronchitis,7-day antibiotic course,17-Jan-25,35,Acute Bronchitis - 7-day antibiotic course,Jan 2025
+148,403,Asthma,Use of inhalers,16-Jun-24,39,Asthma - Use of inhalers,Jun 2024
+151,464,Hyperlipidemia,Cholesterol-lowering agents,24-Dec-24,26,Hyperlipidemia - Cholesterol-lowering agents,Dec 2024
+152,412,Coronary Artery Disease,Statins and lifestyle change,11-Jun-24,26,Coronary Artery Disease - Statins and lifestyle change,Jun 2024
+157,435,Depression,CBT and SSRIs,09-May-24,50,Depression - CBT and SSRIs,May 2024
+158,222,Depression,CBT and SSRIs,21-Nov-24,33,Depression - CBT and SSRIs,Nov 2024
+159,160,Epilepsy,Anti-epileptic drugs,19-Aug-24,1,Epilepsy - Anti-epileptic drugs,Aug 2024
+160,282,Hyperlipidemia,Cholesterol-lowering agents,18-Jan-25,7,Hyperlipidemia - Cholesterol-lowering agents,Jan 2025
+161,140,Asthma,Use of inhalers,21-Mar-25,13,Asthma - Use of inhalers,Mar 2025
+162,165,Pneumonia,Antibiotics and rest,06-Jan-25,32,Pneumonia - Antibiotics and rest,Jan 2025
+163,199,Coronary Artery Disease,Statins and lifestyle change,19-Jun-24,26,Coronary Artery Disease - Statins and lifestyle change,Jun 2024
+164,346,Asthma,Use of inhalers,29-Oct-24,15,Asthma - Use of inhalers,Oct 2024
+165,489,Acute Bronchitis,7-day antibiotic course,30-Jul-24,2,Acute Bronchitis - 7-day antibiotic course,Jul 2024
+166,456,Asthma,Use of inhalers,15-Nov-24,3,Asthma - Use of inhalers,Nov 2024
+167,400,Hyperlipidemia,Cholesterol-lowering agents,21-May-24,26,Hyperlipidemia - Cholesterol-lowering agents,May 2024
+169,411,Hyperlipidemia,Cholesterol-lowering agents,06-Jun-25,32,Hyperlipidemia - Cholesterol-lowering agents,Jun 2025
+171,80,Hypertension,Lifestyle changes with medication,07-Jul-24,18,Hypertension - Lifestyle changes with medication,Jul 2024
+179,447,Acute Bronchitis,7-day antibiotic course,28-Jan-25,39,Acute Bronchitis - 7-day antibiotic course,Jan 2025
+181,454,Asthma,Use of inhalers,19-Jun-24,31,Asthma - Use of inhalers,Jun 2024
+187,13,COPD,Bronchodilators,01-Nov-24,31,COPD - Bronchodilators,Nov 2024
+188,177,COPD,Bronchodilators,22-Feb-25,15,COPD - Bronchodilators,Feb 2025
+191,273,Otitis Media,Antibiotic ear drops,07-Sep-24,41,Otitis Media - Antibiotic ear drops,Sep 2024
+192,282,Epilepsy,Anti-epileptic drugs,17-Mar-25,19,Epilepsy - Anti-epileptic drugs,Mar 2025
+194,414,Hyperlipidemia,Cholesterol-lowering agents,30-Apr-24,42,Hyperlipidemia - Cholesterol-lowering agents,Apr 2024
+195,430,Hypertension,Lifestyle changes with medication,26-Jul-24,29,Hypertension - Lifestyle changes with medication,Jul 2024
+196,239,Epilepsy,Anti-epileptic drugs,05-Apr-24,13,Epilepsy - Anti-epileptic drugs,Apr 2024
+197,29,Coronary Artery Disease,Statins and lifestyle change,28-Oct-24,41,Coronary Artery Disease - Statins and lifestyle change,Oct 2024
+198,60,COPD,Bronchodilators,22-Mar-25,32,COPD - Bronchodilators,Mar 2025
+202,180,Hyperlipidemia,Cholesterol-lowering agents,27-Jan-25,32,Hyperlipidemia - Cholesterol-lowering agents,Jan 2025
+204,479,Epilepsy,Anti-epileptic drugs,23-Oct-24,1,Epilepsy - Anti-epileptic drugs,Oct 2024
+206,372,Epilepsy,Anti-epileptic drugs,08-Jul-24,39,Epilepsy - Anti-epileptic drugs,Jul 2024
+208,313,Hypertension,Lifestyle changes with medication,19-Feb-25,29,Hypertension - Lifestyle changes with medication,Feb 2025
+212,306,Coronary Artery Disease,Statins and lifestyle change,11-Feb-25,33,Coronary Artery Disease - Statins and lifestyle change,Feb 2025
+217,132,Hyperlipidemia,Cholesterol-lowering agents,04-Apr-24,33,Hyperlipidemia - Cholesterol-lowering agents,Apr 2024
+222,380,Stroke,Blood thinners and rehab,23-Jan-25,35,Stroke - Blood thinners and rehab,Jan 2025
+225,385,Coronary Artery Disease,Statins and lifestyle change,24-Aug-24,26,Coronary Artery Disease - Statins and lifestyle change,Aug 2024
+226,421,Otitis Media,Antibiotic ear drops,14-Apr-25,39,Otitis Media - Antibiotic ear drops,Apr 2025
+227,481,Sinusitis,Decongestants,12-Oct-24,33,Sinusitis - Decongestants,Oct 2024
+229,288,Hyperlipidemia,Cholesterol-lowering agents,12-May-24,26,Hyperlipidemia - Cholesterol-lowering agents,May 2024
+230,480,Epilepsy,Anti-epileptic drugs,18-Jul-25,32,Epilepsy - Anti-epileptic drugs,Jul 2025
+231,7,Stroke,Blood thinners and rehab,25-May-25,33,Stroke - Blood thinners and rehab,May 2025
+232,127,Pneumonia,Antibiotics and rest,02-Dec-24,29,Pneumonia - Antibiotics and rest,Dec 2024
+233,126,Type 2 Diabetes,Daily insulin therapy,18-May-24,31,Type 2 Diabetes - Daily insulin therapy,May 2024
+234,34,Coronary Artery Disease,Statins and lifestyle change,23-Nov-24,47,Coronary Artery Disease - Statins and lifestyle change,Nov 2024
+235,134,Pneumonia,Antibiotics and rest,04-Apr-25,29,Pneumonia - Antibiotics and rest,Apr 2025
+239,24,Asthma,Use of inhalers,24-Mar-25,35,Asthma - Use of inhalers,Mar 2025
+243,489,Asthma,Use of inhalers,10-Oct-24,3,Asthma - Use of inhalers,Oct 2024
+247,185,Epilepsy,Anti-epileptic drugs,10-May-25,32,Epilepsy - Anti-epileptic drugs,May 2025
+249,25,Acute Bronchitis,7-day antibiotic course,20-May-24,46,Acute Bronchitis - 7-day antibiotic course,May 2024
+250,102,COPD,Bronchodilators,06-Nov-24,2,COPD - Bronchodilators,Nov 2024
+254,379,Type 2 Diabetes,Daily insulin therapy,27-Sep-24,35,Type 2 Diabetes - Daily insulin therapy,Sep 2024
+257,238,Type 2 Diabetes,Daily insulin therapy,28-Mar-25,2,Type 2 Diabetes - Daily insulin therapy,Mar 2025
+258,128,Asthma,Use of inhalers,14-Jul-24,39,Asthma - Use of inhalers,Jul 2024
+261,479,Type 2 Diabetes,Daily insulin therapy,15-Jan-25,19,Type 2 Diabetes - Daily insulin therapy,Jan 2025
+264,181,Epilepsy,Anti-epileptic drugs,26-Apr-24,10,Epilepsy - Anti-epileptic drugs,Apr 2024
+265,46,Type 2 Diabetes,Daily insulin therapy,22-Jun-24,50,Type 2 Diabetes - Daily insulin therapy,Jun 2024
+268,369,COPD,Bronchodilators,23-Jun-24,32,COPD - Bronchodilators,Jun 2024
+270,387,Hyperlipidemia,Cholesterol-lowering agents,11-Nov-24,7,Hyperlipidemia - Cholesterol-lowering agents,Nov 2024
+272,422,GERD,Antacids and dietary changes,11-Aug-24,31,GERD - Antacids and dietary changes,Aug 2024
+273,434,Stroke,Blood thinners and rehab,27-May-24,19,Stroke - Blood thinners and rehab,May 2024
+277,274,Depression,CBT and SSRIs,03-Apr-25,33,Depression - CBT and SSRIs,Apr 2025
+280,495,Depression,CBT and SSRIs,30-May-24,3,Depression - CBT and SSRIs,May 2024
+281,442,Depression,CBT and SSRIs,22-Jun-24,50,Depression - CBT and SSRIs,Jun 2024
+282,329,Sinusitis,Decongestants,24-Aug-24,15,Sinusitis - Decongestants,Aug 2024
+285,331,Coronary Artery Disease,Statins and lifestyle change,01-Oct-24,19,Coronary Artery Disease - Statins and lifestyle change,Oct 2024
+286,487,Acute Bronchitis,7-day antibiotic course,27-Dec-24,13,Acute Bronchitis - 7-day antibiotic course,Dec 2024
+287,320,Coronary Artery Disease,Statins and lifestyle change,22-Nov-24,47,Coronary Artery Disease - Statins and lifestyle change,Nov 2024
+289,488,Stroke,Blood thinners and rehab,11-May-24,46,Stroke - Blood thinners and rehab,May 2024
+290,133,GERD,Antacids and dietary changes,14-Nov-24,35,GERD - Antacids and dietary changes,Nov 2024
+291,392,Depression,CBT and SSRIs,20-Jul-24,13,Depression - CBT and SSRIs,Jul 2024
+293,233,Sinusitis,Decongestants,31-Oct-24,39,Sinusitis - Decongestants,Oct 2024
+294,397,Stroke,Blood thinners and rehab,04-Oct-24,42,Stroke - Blood thinners and rehab,Oct 2024
+298,242,Asthma,Use of inhalers,02-Aug-24,33,Asthma - Use of inhalers,Aug 2024
+299,148,Otitis Media,Antibiotic ear drops,13-Oct-24,46,Otitis Media - Antibiotic ear drops,Oct 2024
+300,307,Epilepsy,Anti-epileptic drugs,06-Mar-25,31,Epilepsy - Anti-epileptic drugs,Mar 2025
+302,346,Depression,CBT and SSRIs,15-Feb-25,2,Depression - CBT and SSRIs,Feb 2025
+303,41,Stroke,Blood thinners and rehab,08-Sep-24,41,Stroke - Blood thinners and rehab,Sep 2024
+308,158,Epilepsy,Anti-epileptic drugs,31-Jul-24,36,Epilepsy - Anti-epileptic drugs,Jul 2024
+309,281,Depression,CBT and SSRIs,23-Apr-24,50,Depression - CBT and SSRIs,Apr 2024
+310,470,Coronary Artery Disease,Statins and lifestyle change,19-Oct-24,33,Coronary Artery Disease - Statins and lifestyle change,Oct 2024
+311,173,Hypertension,Lifestyle changes with medication,21-Dec-24,19,Hypertension - Lifestyle changes with medication,Dec 2024
+313,201,GERD,Antacids and dietary changes,16-Jan-25,13,GERD - Antacids and dietary changes,Jan 2025
+315,403,Sinusitis,Decongestants,12-Oct-24,2,Sinusitis - Decongestants,Oct 2024
+319,32,Otitis Media,Antibiotic ear drops,21-Jun-24,46,Otitis Media - Antibiotic ear drops,Jun 2024
+320,429,Depression,CBT and SSRIs,10-Dec-24,3,Depression - CBT and SSRIs,Dec 2024
+321,135,Epilepsy,Anti-epileptic drugs,31-Jan-25,1,Epilepsy - Anti-epileptic drugs,Jan 2025
+324,484,Coronary Artery Disease,Statins and lifestyle change,02-Nov-24,47,Coronary Artery Disease - Statins and lifestyle change,Nov 2024
+326,453,Coronary Artery Disease,Statins and lifestyle change,27-Oct-24,7,Coronary Artery Disease - Statins and lifestyle change,Oct 2024
+327,223,Acute Bronchitis,7-day antibiotic course,31-May-24,50,Acute Bronchitis - 7-day antibiotic course,May 2024
+331,406,Pneumonia,Antibiotics and rest,19-Jan-25,42,Pneumonia - Antibiotics and rest,Jan 2025
+333,49,Pneumonia,Antibiotics and rest,24-Jun-24,13,Pneumonia - Antibiotics and rest,Jun 2024
+335,155,Sinusitis,Decongestants,12-Sep-24,29,Sinusitis - Decongestants,Sep 2024
+337,378,GERD,Antacids and dietary changes,18-Sep-24,15,GERD - Antacids and dietary changes,Sep 2024
+343,444,Type 2 Diabetes,Daily insulin therapy,21-Jun-24,42,Type 2 Diabetes - Daily insulin therapy,Jun 2024
+345,291,Otitis Media,Antibiotic ear drops,08-Dec-24,33,Otitis Media - Antibiotic ear drops,Dec 2024
+350,96,Coronary Artery Disease,Statins and lifestyle change,04-Jan-25,29,Coronary Artery Disease - Statins and lifestyle change,Jan 2025
+351,351,GERD,Antacids and dietary changes,01-Sep-24,42,GERD - Antacids and dietary changes,Sep 2024
+353,50,Pneumonia,Antibiotics and rest,02-Jun-24,15,Pneumonia - Antibiotics and rest,Jun 2024
+355,158,Pneumonia,Antibiotics and rest,28-Aug-24,42,Pneumonia - Antibiotics and rest,Aug 2024
+359,117,Epilepsy,Anti-epileptic drugs,26-Dec-24,1,Epilepsy - Anti-epileptic drugs,Dec 2024
+367,12,Otitis Media,Antibiotic ear drops,13-Jun-25,42,Otitis Media - Antibiotic ear drops,Jun 2025
+369,95,Sinusitis,Decongestants,11-Jun-25,46,Sinusitis - Decongestants,Jun 2025
+370,342,Hypertension,Lifestyle changes with medication,13-Nov-24,29,Hypertension - Lifestyle changes with medication,Nov 2024
+371,488,Coronary Artery Disease,Statins and lifestyle change,08-Aug-24,39,Coronary Artery Disease - Statins and lifestyle change,Aug 2024
+372,437,Asthma,Use of inhalers,08-Aug-24,42,Asthma - Use of inhalers,Aug 2024
+374,21,Acute Bronchitis,7-day antibiotic course,27-Apr-24,46,Acute Bronchitis - 7-day antibiotic course,Apr 2024
+376,158,Epilepsy,Anti-epileptic drugs,31-Oct-24,1,Epilepsy - Anti-epileptic drugs,Oct 2024
+380,382,Hypertension,Lifestyle changes with medication,09-Jun-24,26,Hypertension - Lifestyle changes with medication,Jun 2024
+381,80,Epilepsy,Anti-epileptic drugs,17-Aug-24,24,Epilepsy - Anti-epileptic drugs,Aug 2024
+384,262,Hypertension,Lifestyle changes with medication,18-Apr-24,15,Hypertension - Lifestyle changes with medication,Apr 2024
+387,135,Type 2 Diabetes,Daily insulin therapy,09-Mar-25,31,Type 2 Diabetes - Daily insulin therapy,Mar 2025
+388,404,Stroke,Blood thinners and rehab,08-May-24,42,Stroke - Blood thinners and rehab,May 2024
+390,17,Hypertension,Lifestyle changes with medication,15-Apr-25,39,Hypertension - Lifestyle changes with medication,Apr 2025
+394,117,Hyperlipidemia,Cholesterol-lowering agents,04-Feb-25,18,Hyperlipidemia - Cholesterol-lowering agents,Feb 2025
+396,77,Acute Bronchitis,7-day antibiotic course,08-Aug-24,46,Acute Bronchitis - 7-day antibiotic course,Aug 2024
+397,148,Acute Bronchitis,7-day antibiotic course,14-Nov-24,3,Acute Bronchitis - 7-day antibiotic course,Nov 2024
+400,164,Stroke,Blood thinners and rehab,01-Nov-24,41,Stroke - Blood thinners and rehab,Nov 2024
+402,290,Depression,CBT and SSRIs,07-Mar-25,46,Depression - CBT and SSRIs,Mar 2025
+404,349,COPD,Bronchodilators,01-Jun-25,31,COPD - Bronchodilators,Jun 2025
+405,45,Hypertension,Lifestyle changes with medication,25-Nov-24,42,Hypertension - Lifestyle changes with medication,Nov 2024
+409,318,Otitis Media,Antibiotic ear drops,16-Sep-24,33,Otitis Media - Antibiotic ear drops,Sep 2024
+411,238,Coronary Artery Disease,Statins and lifestyle change,07-Jun-25,7,Coronary Artery Disease - Statins and lifestyle change,Jun 2025
+415,356,Otitis Media,Antibiotic ear drops,29-Apr-25,29,Otitis Media - Antibiotic ear drops,Apr 2025
+417,6,Asthma,Use of inhalers,24-Jun-24,32,Asthma - Use of inhalers,Jun 2024
+419,355,Epilepsy,Anti-epileptic drugs,02-Dec-24,24,Epilepsy - Anti-epileptic drugs,Dec 2024
+426,244,Asthma,Use of inhalers,07-Jun-25,18,Asthma - Use of inhalers,Jun 2025
+428,41,Hypertension,Lifestyle changes with medication,14-Oct-24,18,Hypertension - Lifestyle changes with medication,Oct 2024
+430,23,Hypertension,Lifestyle changes with medication,09-Feb-25,26,Hypertension - Lifestyle changes with medication,Feb 2025
+435,103,Epilepsy,Anti-epileptic drugs,01-Jun-24,41,Epilepsy - Anti-epileptic drugs,Jun 2024
+437,54,Sinusitis,Decongestants,25-Sep-24,32,Sinusitis - Decongestants,Sep 2024
+439,392,Epilepsy,Anti-epileptic drugs,19-Feb-25,10,Epilepsy - Anti-epileptic drugs,Feb 2025
+441,350,Epilepsy,Anti-epileptic drugs,21-Jul-24,19,Epilepsy - Anti-epileptic drugs,Jul 2024
+442,150,Type 2 Diabetes,Daily insulin therapy,29-Aug-24,13,Type 2 Diabetes - Daily insulin therapy,Aug 2024
+446,371,GERD,Antacids and dietary changes,27-Jun-24,36,GERD - Antacids and dietary changes,Jun 2024
+448,306,Hypertension,Lifestyle changes with medication,05-Apr-25,47,Hypertension - Lifestyle changes with medication,Apr 2025
+454,438,Sinusitis,Decongestants,26-Jan-25,29,Sinusitis - Decongestants,Jan 2025
+456,292,Hypertension,Lifestyle changes with medication,18-Feb-25,35,Hypertension - Lifestyle changes with medication,Feb 2025
+457,381,Depression,CBT and SSRIs,11-Dec-24,39,Depression - CBT and SSRIs,Dec 2024
+461,123,Hyperlipidemia,Cholesterol-lowering agents,22-May-24,29,Hyperlipidemia - Cholesterol-lowering agents,May 2024
+463,258,COPD,Bronchodilators,21-Jan-25,31,COPD - Bronchodilators,Jan 2025
+469,344,Depression,CBT and SSRIs,26-Aug-24,36,Depression - CBT and SSRIs,Aug 2024
+470,299,Epilepsy,Anti-epileptic drugs,01-May-25,3,Epilepsy - Anti-epileptic drugs,May 2025
+474,32,Pneumonia,Antibiotics and rest,21-Jul-24,3,Pneumonia - Antibiotics and rest,Jul 2024
+475,98,Epilepsy,Anti-epileptic drugs,15-Aug-24,36,Epilepsy - Anti-epileptic drugs,Aug 2024
+477,60,Epilepsy,Anti-epileptic drugs,30-Jul-25,10,Epilepsy - Anti-epileptic drugs,Jul 2025
+479,234,Otitis Media,Antibiotic ear drops,18-Apr-25,2,Otitis Media - Antibiotic ear drops,Apr 2025
+480,303,Otitis Media,Antibiotic ear drops,16-Feb-25,46,Otitis Media - Antibiotic ear drops,Feb 2025
+482,29,Stroke,Blood thinners and rehab,17-Jan-25,15,Stroke - Blood thinners and rehab,Jan 2025
+484,7,Sinusitis,Decongestants,29-Jun-25,35,Sinusitis - Decongestants,Jun 2025
+485,297,Coronary Artery Disease,Statins and lifestyle change,01-Jun-24,26,Coronary Artery Disease - Statins and lifestyle change,Jun 2024
+486,500,Pneumonia,Antibiotics and rest,29-Jan-25,42,Pneumonia - Antibiotics and rest,Jan 2025
+491,91,Asthma,Use of inhalers,19-Oct-24,13,Asthma - Use of inhalers,Oct 2024
+492,466,Type 2 Diabetes,Daily insulin therapy,01-Apr-25,2,Type 2 Diabetes - Daily insulin therapy,Apr 2025
+494,202,Hyperlipidemia,Cholesterol-lowering agents,24-May-24,26,Hyperlipidemia - Cholesterol-lowering agents,May 2024
+498,180,Otitis Media,Antibiotic ear drops,09-Mar-25,39,Otitis Media - Antibiotic ear drops,Mar 2025
+499,453,Epilepsy,Anti-epileptic drugs,23-Feb-25,10,Epilepsy - Anti-epileptic drugs,Feb 2025
+500,2,Type 2 Diabetes,Daily insulin therapy,07-May-25,29,Type 2 Diabetes - Daily insulin therapy,May 2025
+502,26,Hyperlipidemia,Cholesterol-lowering agents,25-Sep-24,13,Hyperlipidemia - Cholesterol-lowering agents,Sep 2024
+503,315,Stroke,Blood thinners and rehab,20-Sep-24,35,Stroke - Blood thinners and rehab,Sep 2024
+504,420,Hyperlipidemia,Cholesterol-lowering agents,19-Feb-25,41,Hyperlipidemia - Cholesterol-lowering agents,Feb 2025
+506,133,Epilepsy,Anti-epileptic drugs,07-Jan-25,1,Epilepsy - Anti-epileptic drugs,Jan 2025
+508,261,Depression,CBT and SSRIs,29-May-25,15,Depression - CBT and SSRIs,May 2025
+509,177,Otitis Media,Antibiotic ear drops,20-Mar-25,29,Otitis Media - Antibiotic ear drops,Mar 2025
+510,236,Epilepsy,Anti-epileptic drugs,23-Oct-24,15,Epilepsy - Anti-epileptic drugs,Oct 2024
+511,226,Asthma,Use of inhalers,14-Feb-25,19,Asthma - Use of inhalers,Feb 2025
+514,219,Coronary Artery Disease,Statins and lifestyle change,21-Dec-24,7,Coronary Artery Disease - Statins and lifestyle change,Dec 2024
+519,145,Stroke,Blood thinners and rehab,06-Jun-24,42,Stroke - Blood thinners and rehab,Jun 2024
+522,5,Otitis Media,Antibiotic ear drops,28-Oct-24,50,Otitis Media - Antibiotic ear drops,Oct 2024
+523,117,Hypertension,Lifestyle changes with medication,23-Feb-25,47,Hypertension - Lifestyle changes with medication,Feb 2025
+524,432,Asthma,Use of inhalers,27-Jun-24,32,Asthma - Use of inhalers,Jun 2024
+526,92,COPD,Bronchodilators,14-Mar-25,31,COPD - Bronchodilators,Mar 2025
+532,415,Epilepsy,Anti-epileptic drugs,19-May-24,1,Epilepsy - Anti-epileptic drugs,May 2024
+533,272,Epilepsy,Anti-epileptic drugs,21-Nov-24,36,Epilepsy - Anti-epileptic drugs,Nov 2024
+534,333,Hypertension,Lifestyle changes with medication,12-Oct-24,36,Hypertension - Lifestyle changes with medication,Oct 2024
+535,111,Epilepsy,Anti-epileptic drugs,08-May-25,32,Epilepsy - Anti-epileptic drugs,May 2025
+538,102,COPD,Bronchodilators,28-Feb-25,32,COPD - Bronchodilators,Feb 2025
+541,244,Coronary Artery Disease,Statins and lifestyle change,01-Aug-25,33,Coronary Artery Disease - Statins and lifestyle change,Aug 2025
+542,241,Coronary Artery Disease,Statins and lifestyle change,03-Jan-25,13,Coronary Artery Disease - Statins and lifestyle change,Jan 2025
+543,269,Hypertension,Lifestyle changes with medication,12-Dec-24,47,Hypertension - Lifestyle changes with medication,Dec 2024
+544,159,GERD,Antacids and dietary changes,01-Jan-25,46,GERD - Antacids and dietary changes,Jan 2025
+545,269,Stroke,Blood thinners and rehab,13-Jan-25,32,Stroke - Blood thinners and rehab,Jan 2025
+548,362,Acute Bronchitis,7-day antibiotic course,26-Mar-25,35,Acute Bronchitis - 7-day antibiotic course,Mar 2025
+550,327,Hypertension,Lifestyle changes with medication,11-Nov-24,47,Hypertension - Lifestyle changes with medication,Nov 2024
+553,452,Otitis Media,Antibiotic ear drops,28-Jul-24,35,Otitis Media - Antibiotic ear drops,Jul 2024
+554,183,COPD,Bronchodilators,26-Mar-25,41,COPD - Bronchodilators,Mar 2025
+555,210,Pneumonia,Antibiotics and rest,29-Apr-25,42,Pneumonia - Antibiotics and rest,Apr 2025
+558,203,Hyperlipidemia,Cholesterol-lowering agents,03-Jan-25,3,Hyperlipidemia - Cholesterol-lowering agents,Jan 2025
+560,462,Hypertension,Lifestyle changes with medication,22-Apr-25,35,Hypertension - Lifestyle changes with medication,Apr 2025
+561,208,Hyperlipidemia,Cholesterol-lowering agents,24-Aug-24,42,Hyperlipidemia - Cholesterol-lowering agents,Aug 2024
+562,80,Epilepsy,Anti-epileptic drugs,21-Sep-24,15,Epilepsy - Anti-epileptic drugs,Sep 2024
+563,365,Epilepsy,Anti-epileptic drugs,15-Feb-25,10,Epilepsy - Anti-epileptic drugs,Feb 2025
+564,373,COPD,Bronchodilators,14-May-24,19,COPD - Bronchodilators,May 2024
+567,198,Depression,CBT and SSRIs,28-Sep-24,2,Depression - CBT and SSRIs,Sep 2024
+569,207,Asthma,Use of inhalers,02-Aug-25,41,Asthma - Use of inhalers,Aug 2025
+571,419,Pneumonia,Antibiotics and rest,15-Dec-24,15,Pneumonia - Antibiotics and rest,Dec 2024
+572,485,Type 2 Diabetes,Daily insulin therapy,30-Oct-24,19,Type 2 Diabetes - Daily insulin therapy,Oct 2024
+573,450,Coronary Artery Disease,Statins and lifestyle change,27-Sep-24,36,Coronary Artery Disease - Statins and lifestyle change,Sep 2024
+575,45,COPD,Bronchodilators,26-Dec-24,36,COPD - Bronchodilators,Dec 2024
+577,466,Coronary Artery Disease,Statins and lifestyle change,26-May-25,26,Coronary Artery Disease - Statins and lifestyle change,May 2025
+578,183,Pneumonia,Antibiotics and rest,18-Jun-25,29,Pneumonia - Antibiotics and rest,Jun 2025
+581,349,Acute Bronchitis,7-day antibiotic course,19-Jun-25,15,Acute Bronchitis - 7-day antibiotic course,Jun 2025
+582,374,GERD,Antacids and dietary changes,20-Nov-24,33,GERD - Antacids and dietary changes,Nov 2024
+584,356,Type 2 Diabetes,Daily insulin therapy,01-Jun-25,13,Type 2 Diabetes - Daily insulin therapy,Jun 2025
+586,389,COPD,Bronchodilators,28-Apr-24,18,COPD - Bronchodilators,Apr 2024
+587,27,Sinusitis,Decongestants,12-Sep-24,32,Sinusitis - Decongestants,Sep 2024
+588,237,Stroke,Blood thinners and rehab,06-Nov-24,46,Stroke - Blood thinners and rehab,Nov 2024
+591,231,Otitis Media,Antibiotic ear drops,25-Oct-24,18,Otitis Media - Antibiotic ear drops,Oct 2024
+592,220,Stroke,Blood thinners and rehab,12-Dec-24,32,Stroke - Blood thinners and rehab,Dec 2024
+594,304,Type 2 Diabetes,Daily insulin therapy,23-Nov-24,15,Type 2 Diabetes - Daily insulin therapy,Nov 2024
+595,490,Epilepsy,Anti-epileptic drugs,03-Jul-24,24,Epilepsy - Anti-epileptic drugs,Jul 2024
+597,327,Hypertension,Lifestyle changes with medication,08-Jan-25,2,Hypertension - Lifestyle changes with medication,Jan 2025
+598,16,Otitis Media,Antibiotic ear drops,28-May-24,36,Otitis Media - Antibiotic ear drops,May 2024
+599,318,Asthma,Use of inhalers,09-Jan-25,3,Asthma - Use of inhalers,Jan 2025
+600,141,Epilepsy,Anti-epileptic drugs,12-Jul-24,33,Epilepsy - Anti-epileptic drugs,Jul 2024
+601,180,Asthma,Use of inhalers,18-Jun-25,50,Asthma - Use of inhalers,Jun 2025
+602,216,GERD,Antacids and dietary changes,17-Mar-25,31,GERD - Antacids and dietary changes,Mar 2025
+603,59,Pneumonia,Antibiotics and rest,17-Jul-24,35,Pneumonia - Antibiotics and rest,Jul 2024
+608,145,Hyperlipidemia,Cholesterol-lowering agents,23-Sep-24,26,Hyperlipidemia - Cholesterol-lowering agents,Sep 2024
+611,495,Acute Bronchitis,7-day antibiotic course,23-Aug-24,50,Acute Bronchitis - 7-day antibiotic course,Aug 2024
+615,392,Stroke,Blood thinners and rehab,15-Apr-25,3,Stroke - Blood thinners and rehab,Apr 2025
+617,286,Stroke,Blood thinners and rehab,17-Aug-24,19,Stroke - Blood thinners and rehab,Aug 2024
+623,190,Type 2 Diabetes,Daily insulin therapy,05-Jan-25,15,Type 2 Diabetes - Daily insulin therapy,Jan 2025
+624,245,Hypertension,Lifestyle changes with medication,09-Nov-24,26,Hypertension - Lifestyle changes with medication,Nov 2024
+628,131,Asthma,Use of inhalers,31-Dec-24,42,Asthma - Use of inhalers,Dec 2024
+632,137,Hyperlipidemia,Cholesterol-lowering agents,20-Jan-25,32,Hyperlipidemia - Cholesterol-lowering agents,Jan 2025
+635,52,GERD,Antacids and dietary changes,28-Dec-24,31,GERD - Antacids and dietary changes,Dec 2024
+641,81,Hypertension,Lifestyle changes with medication,28-Feb-25,18,Hypertension - Lifestyle changes with medication,Feb 2025
+643,246,Hyperlipidemia,Cholesterol-lowering agents,11-Mar-25,47,Hyperlipidemia - Cholesterol-lowering agents,Mar 2025
+645,205,Hypertension,Lifestyle changes with medication,08-Nov-24,7,Hypertension - Lifestyle changes with medication,Nov 2024
+646,35,GERD,Antacids and dietary changes,23-Nov-24,32,GERD - Antacids and dietary changes,Nov 2024
+649,276,Hyperlipidemia,Cholesterol-lowering agents,16-Jul-24,26,Hyperlipidemia - Cholesterol-lowering agents,Jul 2024
+652,330,Otitis Media,Antibiotic ear drops,18-Aug-24,13,Otitis Media - Antibiotic ear drops,Aug 2024
+655,134,Coronary Artery Disease,Statins and lifestyle change,23-May-25,47,Coronary Artery Disease - Statins and lifestyle change,May 2025
+656,25,Acute Bronchitis,7-day antibiotic course,02-Aug-24,42,Acute Bronchitis - 7-day antibiotic course,Aug 2024
+657,384,Type 2 Diabetes,Daily insulin therapy,02-Feb-25,32,Type 2 Diabetes - Daily insulin therapy,Feb 2025
+660,472,Coronary Artery Disease,Statins and lifestyle change,22-Mar-25,36,Coronary Artery Disease - Statins and lifestyle change,Mar 2025
+666,463,Type 2 Diabetes,Daily insulin therapy,10-Dec-24,50,Type 2 Diabetes - Daily insulin therapy,Dec 2024
+667,302,Epilepsy,Anti-epileptic drugs,02-Jul-24,29,Epilepsy - Anti-epileptic drugs,Jul 2024
+669,58,Depression,CBT and SSRIs,20-Sep-24,36,Depression - CBT and SSRIs,Sep 2024
+670,208,Epilepsy,Anti-epileptic drugs,23-Oct-24,15,Epilepsy - Anti-epileptic drugs,Oct 2024
+672,126,Type 2 Diabetes,Daily insulin therapy,22-Jul-24,39,Type 2 Diabetes - Daily insulin therapy,Jul 2024
+679,19,Pneumonia,Antibiotics and rest,03-Apr-25,46,Pneumonia - Antibiotics and rest,Apr 2025
+680,74,Hypertension,Lifestyle changes with medication,02-Mar-25,46,Hypertension - Lifestyle changes with medication,Mar 2025
+683,184,Hyperlipidemia,Cholesterol-lowering agents,16-Dec-24,18,Hyperlipidemia - Cholesterol-lowering agents,Dec 2024
+685,116,Depression,CBT and SSRIs,02-Jan-25,46,Depression - CBT and SSRIs,Jan 2025
+686,151,Coronary Artery Disease,Statins and lifestyle change,19-Jun-24,50,Coronary Artery Disease - Statins and lifestyle change,Jun 2024
+687,343,Stroke,Blood thinners and rehab,28-Aug-24,31,Stroke - Blood thinners and rehab,Aug 2024
+688,32,Type 2 Diabetes,Daily insulin therapy,11-Aug-24,31,Type 2 Diabetes - Daily insulin therapy,Aug 2024
+693,69,Coronary Artery Disease,Statins and lifestyle change,25-Jul-25,35,Coronary Artery Disease - Statins and lifestyle change,Jul 2025
+696,131,Stroke,Blood thinners and rehab,29-Mar-25,3,Stroke - Blood thinners and rehab,Mar 2025
+697,132,Acute Bronchitis,7-day antibiotic course,01-Jul-24,42,Acute Bronchitis - 7-day antibiotic course,Jul 2024
+699,464,Hypertension,Lifestyle changes with medication,11-Mar-25,42,Hypertension - Lifestyle changes with medication,Mar 2025
+700,278,Epilepsy,Anti-epileptic drugs,11-Oct-24,10,Epilepsy - Anti-epileptic drugs,Oct 2024
+702,356,Otitis Media,Antibiotic ear drops,11-Aug-25,33,Otitis Media - Antibiotic ear drops,Aug 2025
+703,395,Hyperlipidemia,Cholesterol-lowering agents,28-Jul-24,2,Hyperlipidemia - Cholesterol-lowering agents,Jul 2024
+707,311,Hyperlipidemia,Cholesterol-lowering agents,20-Dec-24,2,Hyperlipidemia - Cholesterol-lowering agents,Dec 2024
+709,497,Acute Bronchitis,7-day antibiotic course,14-Jul-24,42,Acute Bronchitis - 7-day antibiotic course,Jul 2024
+711,220,GERD,Antacids and dietary changes,10-Mar-25,18,GERD - Antacids and dietary changes,Mar 2025
+712,19,Coronary Artery Disease,Statins and lifestyle change,25-May-25,2,Coronary Artery Disease - Statins and lifestyle change,May 2025
+713,204,Coronary Artery Disease,Statins and lifestyle change,16-Feb-25,36,Coronary Artery Disease - Statins and lifestyle change,Feb 2025
+714,262,GERD,Antacids and dietary changes,23-Jul-24,13,GERD - Antacids and dietary changes,Jul 2024
+715,432,Depression,CBT and SSRIs,25-Aug-24,41,Depression - CBT and SSRIs,Aug 2024
+718,74,Hyperlipidemia,Cholesterol-lowering agents,01-May-25,32,Hyperlipidemia - Cholesterol-lowering agents,May 2025
+720,60,Hypertension,Lifestyle changes with medication,18-Aug-25,31,Hypertension - Lifestyle changes with medication,Aug 2025
+724,224,Acute Bronchitis,7-day antibiotic course,18-Jul-24,32,Acute Bronchitis - 7-day antibiotic course,Jul 2024
+727,395,Epilepsy,Anti-epileptic drugs,19-Oct-24,41,Epilepsy - Anti-epileptic drugs,Oct 2024
+728,102,Coronary Artery Disease,Statins and lifestyle change,27-Aug-25,7,Coronary Artery Disease - Statins and lifestyle change,Aug 2025
+731,36,Epilepsy,Anti-epileptic drugs,26-Jun-25,24,Epilepsy - Anti-epileptic drugs,Jun 2025
+732,125,Type 2 Diabetes,Daily insulin therapy,10-Nov-24,13,Type 2 Diabetes - Daily insulin therapy,Nov 2024
+735,229,Hyperlipidemia,Cholesterol-lowering agents,03-Aug-24,47,Hyperlipidemia - Cholesterol-lowering agents,Aug 2024
+738,327,Hypertension,Lifestyle changes with medication,12-Mar-25,18,Hypertension - Lifestyle changes with medication,Mar 2025
+740,361,Epilepsy,Anti-epileptic drugs,10-Jul-24,1,Epilepsy - Anti-epileptic drugs,Jul 2024
+741,343,Stroke,Blood thinners and rehab,19-Oct-24,36,Stroke - Blood thinners and rehab,Oct 2024
+742,119,Sinusitis,Decongestants,05-Jun-24,15,Sinusitis - Decongestants,Jun 2024
+743,54,Hypertension,Lifestyle changes with medication,04-Dec-24,7,Hypertension - Lifestyle changes with medication,Dec 2024
+744,18,Acute Bronchitis,7-day antibiotic course,21-Feb-25,35,Acute Bronchitis - 7-day antibiotic course,Feb 2025
+747,438,Asthma,Use of inhalers,11-Mar-25,50,Asthma - Use of inhalers,Mar 2025
+749,41,Asthma,Use of inhalers,10-Dec-24,18,Asthma - Use of inhalers,Dec 2024
+751,412,Sinusitis,Decongestants,04-Aug-24,18,Sinusitis - Decongestants,Aug 2024
+756,285,Coronary Artery Disease,Statins and lifestyle change,25-Dec-24,39,Coronary Artery Disease - Statins and lifestyle change,Dec 2024
+757,260,Otitis Media,Antibiotic ear drops,28-Mar-25,3,Otitis Media - Antibiotic ear drops,Mar 2025
+758,265,Depression,CBT and SSRIs,13-Dec-24,31,Depression - CBT and SSRIs,Dec 2024
+759,400,COPD,Bronchodilators,06-Jul-24,39,COPD - Bronchodilators,Jul 2024
+760,452,Hypertension,Lifestyle changes with medication,29-Sep-24,47,Hypertension - Lifestyle changes with medication,Sep 2024
+763,146,Hypertension,Lifestyle changes with medication,19-Apr-25,39,Hypertension - Lifestyle changes with medication,Apr 2025
+764,412,COPD,Bronchodilators,28-Aug-24,18,COPD - Bronchodilators,Aug 2024
+767,149,Hyperlipidemia,Cholesterol-lowering agents,19-Aug-24,41,Hyperlipidemia - Cholesterol-lowering agents,Aug 2024
+772,99,Hyperlipidemia,Cholesterol-lowering agents,05-Jun-24,46,Hyperlipidemia - Cholesterol-lowering agents,Jun 2024
+776,78,Asthma,Use of inhalers,08-Jul-24,13,Asthma - Use of inhalers,Jul 2024
+777,396,Asthma,Use of inhalers,16-Mar-25,29,Asthma - Use of inhalers,Mar 2025
+778,457,Coronary Artery Disease,Statins and lifestyle change,10-Nov-24,42,Coronary Artery Disease - Statins and lifestyle change,Nov 2024
+779,338,Stroke,Blood thinners and rehab,08-Oct-24,3,Stroke - Blood thinners and rehab,Oct 2024
+781,216,Epilepsy,Anti-epileptic drugs,20-Apr-25,36,Epilepsy - Anti-epileptic drugs,Apr 2025
+784,159,Hyperlipidemia,Cholesterol-lowering agents,28-Feb-25,15,Hyperlipidemia - Cholesterol-lowering agents,Feb 2025
+786,8,Epilepsy,Anti-epileptic drugs,19-Apr-25,10,Epilepsy - Anti-epileptic drugs,Apr 2025
+788,391,Hyperlipidemia,Cholesterol-lowering agents,03-Jan-25,7,Hyperlipidemia - Cholesterol-lowering agents,Jan 2025
+789,416,COPD,Bronchodilators,17-Nov-24,2,COPD - Bronchodilators,Nov 2024
+790,136,Epilepsy,Anti-epileptic drugs,16-Nov-24,24,Epilepsy - Anti-epileptic drugs,Nov 2024
+791,474,Sinusitis,Decongestants,01-Mar-25,35,Sinusitis - Decongestants,Mar 2025
+792,110,Depression,CBT and SSRIs,16-May-24,31,Depression - CBT and SSRIs,May 2024
+793,1,Pneumonia,Antibiotics and rest,14-Mar-25,35,Pneumonia - Antibiotics and rest,Mar 2025
+794,295,Stroke,Blood thinners and rehab,27-Dec-24,35,Stroke - Blood thinners and rehab,Dec 2024
+795,252,Hypertension,Lifestyle changes with medication,16-Sep-24,42,Hypertension - Lifestyle changes with medication,Sep 2024
+800,354,Otitis Media,Antibiotic ear drops,26-Feb-25,19,Otitis Media - Antibiotic ear drops,Feb 2025
+804,394,Coronary Artery Disease,Statins and lifestyle change,18-Aug-24,47,Coronary Artery Disease - Statins and lifestyle change,Aug 2024
+806,13,Hyperlipidemia,Cholesterol-lowering agents,22-May-25,13,Hyperlipidemia - Cholesterol-lowering agents,May 2025
+807,453,Depression,CBT and SSRIs,22-May-25,13,Depression - CBT and SSRIs,May 2025
+808,331,GERD,Antacids and dietary changes,29-Oct-24,31,GERD - Antacids and dietary changes,Oct 2024
+810,346,Coronary Artery Disease,Statins and lifestyle change,30-Jun-25,7,Coronary Artery Disease - Statins and lifestyle change,Jun 2025
+811,459,Hypertension,Lifestyle changes with medication,30-May-25,33,Hypertension - Lifestyle changes with medication,May 2025
+813,339,Sinusitis,Decongestants,02-Jan-25,29,Sinusitis - Decongestants,Jan 2025
+814,283,Epilepsy,Anti-epileptic drugs,12-Apr-25,10,Epilepsy - Anti-epileptic drugs,Apr 2025
+815,288,Pneumonia,Antibiotics and rest,04-Dec-24,36,Pneumonia - Antibiotics and rest,Dec 2024
+816,360,Coronary Artery Disease,Statins and lifestyle change,13-Nov-24,47,Coronary Artery Disease - Statins and lifestyle change,Nov 2024
+817,482,Acute Bronchitis,7-day antibiotic course,21-Dec-24,19,Acute Bronchitis - 7-day antibiotic course,Dec 2024
+819,480,Coronary Artery Disease,Statins and lifestyle change,18-Oct-25,7,Coronary Artery Disease - Statins and lifestyle change,Oct 2025
+820,84,Asthma,Use of inhalers,03-Apr-25,35,Asthma - Use of inhalers,Apr 2025
+822,461,Hypertension,Lifestyle changes with medication,21-Dec-24,7,Hypertension - Lifestyle changes with medication,Dec 2024
+823,29,Depression,CBT and SSRIs,20-Feb-25,33,Depression - CBT and SSRIs,Feb 2025
+829,376,Pneumonia,Antibiotics and rest,28-Oct-24,42,Pneumonia - Antibiotics and rest,Oct 2024
+830,477,Pneumonia,Antibiotics and rest,06-May-24,13,Pneumonia - Antibiotics and rest,May 2024
+834,327,Asthma,Use of inhalers,08-May-25,13,Asthma - Use of inhalers,May 2025
+835,161,Pneumonia,Antibiotics and rest,09-Jun-24,46,Pneumonia - Antibiotics and rest,Jun 2024
+836,272,Hyperlipidemia,Cholesterol-lowering agents,21-Jan-25,35,Hyperlipidemia - Cholesterol-lowering agents,Jan 2025
+838,105,COPD,Bronchodilators,22-Mar-25,29,COPD - Bronchodilators,Mar 2025
+839,376,Epilepsy,Anti-epileptic drugs,02-Jan-25,50,Epilepsy - Anti-epileptic drugs,Jan 2025
+840,89,COPD,Bronchodilators,14-Dec-24,3,COPD - Bronchodilators,Dec 2024
+841,116,Type 2 Diabetes,Daily insulin therapy,20-Mar-25,3,Type 2 Diabetes - Daily insulin therapy,Mar 2025
+844,58,Hyperlipidemia,Cholesterol-lowering agents,02-Dec-24,47,Hyperlipidemia - Cholesterol-lowering agents,Dec 2024
+845,472,Coronary Artery Disease,Statins and lifestyle change,10-May-25,41,Coronary Artery Disease - Statins and lifestyle change,May 2025
+847,365,Hypertension,Lifestyle changes with medication,27-May-25,26,Hypertension - Lifestyle changes with medication,May 2025
+848,182,Stroke,Blood thinners and rehab,11-Sep-24,35,Stroke - Blood thinners and rehab,Sep 2024
+849,479,Hyperlipidemia,Cholesterol-lowering agents,03-Feb-25,18,Hyperlipidemia - Cholesterol-lowering agents,Feb 2025
+850,482,Depression,CBT and SSRIs,27-Jan-25,42,Depression - CBT and SSRIs,Jan 2025
+851,418,Sinusitis,Decongestants,24-Jun-25,41,Sinusitis - Decongestants,Jun 2025
+852,106,Epilepsy,Anti-epileptic drugs,12-Jul-24,10,Epilepsy - Anti-epileptic drugs,Jul 2024
+853,36,Depression,CBT and SSRIs,07-Sep-25,50,Depression - CBT and SSRIs,Sep 2025
+855,493,Hypertension,Lifestyle changes with medication,10-Feb-25,26,Hypertension - Lifestyle changes with medication,Feb 2025
+856,433,Depression,CBT and SSRIs,14-Jul-25,50,Depression - CBT and SSRIs,Jul 2025
+857,160,Pneumonia,Antibiotics and rest,17-Dec-24,41,Pneumonia - Antibiotics and rest,Dec 2024
+858,205,Sinusitis,Decongestants,25-Dec-24,31,Sinusitis - Decongestants,Dec 2024
+860,137,Hypertension,Lifestyle changes with medication,17-May-25,32,Hypertension - Lifestyle changes with medication,May 2025
+863,99,Otitis Media,Antibiotic ear drops,04-Nov-24,33,Otitis Media - Antibiotic ear drops,Nov 2024
+865,389,GERD,Antacids and dietary changes,12-Jul-24,39,GERD - Antacids and dietary changes,Jul 2024
+867,93,Epilepsy,Anti-epileptic drugs,09-May-24,24,Epilepsy - Anti-epileptic drugs,May 2024
+870,296,Stroke,Blood thinners and rehab,30-Mar-25,39,Stroke - Blood thinners and rehab,Mar 2025
+872,78,Epilepsy,Anti-epileptic drugs,28-Jul-24,24,Epilepsy - Anti-epileptic drugs,Jul 2024
+874,484,Hypertension,Lifestyle changes with medication,27-Nov-24,46,Hypertension - Lifestyle changes with medication,Nov 2024
+876,301,Sinusitis,Decongestants,20-Aug-24,42,Sinusitis - Decongestants,Aug 2024
+884,255,Asthma,Use of inhalers,16-Sep-24,50,Asthma - Use of inhalers,Sep 2024
+885,243,Epilepsy,Anti-epileptic drugs,21-Aug-24,1,Epilepsy - Anti-epileptic drugs,Aug 2024
+886,404,Epilepsy,Anti-epileptic drugs,30-Jun-24,1,Epilepsy - Anti-epileptic drugs,Jun 2024
+888,87,Epilepsy,Anti-epileptic drugs,02-Jan-25,10,Epilepsy - Anti-epileptic drugs,Jan 2025
+889,12,Hypertension,Lifestyle changes with medication,18-Jul-25,26,Hypertension - Lifestyle changes with medication,Jul 2025
+891,165,Coronary Artery Disease,Statins and lifestyle change,26-Mar-25,36,Coronary Artery Disease - Statins and lifestyle change,Mar 2025
+900,254,Depression,CBT and SSRIs,09-Aug-24,3,Depression - CBT and SSRIs,Aug 2024
+901,404,Hypertension,Lifestyle changes with medication,19-Sep-24,50,Hypertension - Lifestyle changes with medication,Sep 2024

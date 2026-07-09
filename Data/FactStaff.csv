@@ -1,0 +1,101 @@
+StaffID,FirstName,Role,DepartmentID,LastName,PhoneNumber,Email,ShiftHours
+1,Tracy,Technician,15,Day,19415719327,jessicatran@harrison.com,07:00 - 15:00
+2,Jennifer,Lab Technician,14,Hanna,12021968007,dgomez@gonzalez-hernandez.com,09:00 - 17:00
+3,Cheryl,Billing Clerk,10,Atkinson,14103203762,mcclurejocelyn@hotmail.com,09:00 - 17:00
+4,Denise,Administrative Assistant,1,Le,18689689515,cassidylopez@blake.biz,08:00 - 16:00
+5,Amy,Data Entry Clerk,1,Carter,19937383267,pcollins@hotmail.com,11:00 - 19:00
+6,Malik,Security,6,Gill,19109018818,obrown@miller.com,09:00 - 17:00
+7,Christy,Administrative Assistant,9,Ford,16637171978,james74@hotmail.com,12:00 - 20:00
+8,Angela,Technician,1,Thornton,17248311168,hcolon@gmail.com,08:00 - 16:00
+9,Jennifer,Maintenance,7,Andrade,13919612443,porterhannah@brown-velasquez.org,12:00 - 20:00
+10,Anthony,Pharmacist,8,Jones,16151794157,arthurevans@gmail.com,12:00 - 20:00
+11,Nicole,Lab Technician,11,Wilson,13540349286,smontoya@hotmail.com,10:00 - 18:00
+12,Samantha,Technician,14,Daniel,11366272110,taylorperez@yahoo.com,10:00 - 18:00
+13,Holly,Lab Technician,4,Peterson,18197885971,courtneyrodgers@freeman.com,12:00 - 20:00
+14,Barbara,Nurse,4,Gregory,17702628592,prestondavid@yahoo.com,06:00 - 14:00
+15,Chad,Cleaner,5,George,13591739826,leonardsloan@sanchez.com,11:00 - 19:00
+16,Victoria,Pharmacist,8,Smith,14015893222,mcclaindavid@gmail.com,10:00 - 18:00
+17,Deborah,Cleaner,4,Perez,14800037880,smithlori@hotmail.com,11:00 - 19:00
+18,Linda,Lab Technician,3,Pearson,15428483875,kingandrew@hotmail.com,11:00 - 19:00
+19,Kathryn,Technician,8,Marks,19509810879,urobbins@gmail.com,08:00 - 16:00
+20,Tammy,Administrative Assistant,14,Clark,18078891348,anthony30@gmail.com,11:00 - 19:00
+21,Katie,Technician,14,Smith,16628707175,joshua21@gmail.com,10:00 - 18:00
+22,Robin,Receptionist,1,Logan,12311580732,bhunt@rush-ali.com,07:00 - 15:00
+23,James,Maintenance,15,Wade,15395821521,walkertracie@kelly-garrison.com,09:00 - 17:00
+24,Kristin,Janitor,11,Murphy,16813612249,chad17@castro.net,12:00 - 20:00
+25,Tracy,Billing Clerk,6,Jones,18028577402,john41@montgomery-turner.net,06:00 - 14:00
+26,Vincent,Pharmacist,4,Wright,13482194863,ashley00@hall-webb.info,06:00 - 14:00
+27,John,Janitor,2,Fox,12632350792,montgomerylinda@colon-frey.com,08:00 - 16:00
+28,Hector,Security,4,Jackson,18202170910,peterstevens@chapman.com,07:00 - 15:00
+29,Mark,Data Entry Clerk,1,Newman,14708980284,wanda32@welch.com,06:00 - 14:00
+30,Jenna,Technician,2,Valenzuela,16107822734,gregg06@reed.com,12:00 - 20:00
+31,Gabriel,Security,15,Williams,14843940882,melanie62@hotmail.com,11:00 - 19:00
+32,Andrew,Administrative Assistant,11,Sanchez,12492819183,lcruz@hotmail.com,10:00 - 18:00
+33,Andrew,Receptionist,3,Young,19445954073,joshua40@smith.com,11:00 - 19:00
+34,Kaitlyn,Data Entry Clerk,13,Dodson,10785085048,derrick26@hotmail.com,11:00 - 19:00
+35,Cody,Lab Technician,3,Rivera,14770120886,paulflynn@johnson.com,10:00 - 18:00
+36,Patrick,Maintenance,3,Ruiz,19570904927,shawnduncan@montes.biz,06:00 - 14:00
+37,Stephanie,Lab Technician,2,Williams,15086917833,brittany99@yahoo.com,08:00 - 16:00
+38,Ashley,Nurse,15,Lewis,11663579904,tracy23@salazar.com,10:00 - 18:00
+39,Kimberly,Cleaner,13,Valencia,10068316572,tiffanytran@figueroa.com,07:00 - 15:00
+40,Jennifer,Technician,14,Oliver,14127768801,jamiepope@hotmail.com,08:00 - 16:00
+41,Angela,Pharmacist,5,Palmer,14854922683,cdelgado@johnson.org,11:00 - 19:00
+42,Glenn,Receptionist,10,Morgan,18955429082,suemartinez@leach-davis.net,09:00 - 17:00
+43,Brandon,Cleaner,7,Hurst,15020733733,kristenmiller@morris.com,09:00 - 17:00
+44,Anthony,Receptionist,5,Lowe,18901401612,jonesdavid@gmail.com,09:00 - 17:00
+45,Gregory,Pharmacist,13,Collins,12550486261,jonesmary@morales.com,08:00 - 16:00
+46,Jennifer,Maintenance,2,Henderson,16474798889,marymiles@carney-moore.com,06:00 - 14:00
+47,Sarah,Billing Clerk,5,Benitez,14630211805,bakerbarbara@peterson.com,06:00 - 14:00
+48,Marcus,Billing Clerk,15,Howard,16024584288,adrian69@gmail.com,07:00 - 15:00
+49,Abigail,Data Entry Clerk,9,Brown,15720678552,kevinmurphy@hotmail.com,12:00 - 20:00
+50,George,Maintenance,2,Baker,13933188379,dustinglass@gmail.com,09:00 - 17:00
+51,Alexandria,Technician,13,Norris,15446222860,gkennedy@gmail.com,06:00 - 14:00
+52,Guy,Janitor,2,Jones,15062327937,davidmiller@mendoza.com,07:00 - 15:00
+53,Courtney,IT Support,2,Evans,17870816120,sierraray@rogers-harris.com,08:00 - 16:00
+54,Jeremy,Cleaner,2,Castillo,19595353293,shanejames@hotmail.com,06:00 - 14:00
+55,Angela,Receptionist,14,Bryan,12096398729,zwatson@chavez.org,07:00 - 15:00
+56,Brian,Maintenance,13,Frost,11964547527,frederickmiller@dunn.com,10:00 - 18:00
+57,Emma,Maintenance,4,Davis,14696574221,gobrien@yahoo.com,09:00 - 17:00
+58,Michael,Pharmacist,14,Phelps,18732442958,kimberlyjoseph@thomas.info,07:00 - 15:00
+59,Valerie,Pharmacist,8,Wade,11422766317,ryan60@clark-schneider.net,09:00 - 17:00
+60,Derek,Administrative Assistant,1,Patel,17487370327,jenniferking@arnold.org,08:00 - 16:00
+61,Rachel,IT Support,2,Mann,19446861818,james11@thomas.com,12:00 - 20:00
+62,Kim,Receptionist,15,Bishop,16115984618,benjamin94@gmail.com,12:00 - 20:00
+63,John,Nurse,5,Schaefer,12100966144,catherine09@jones.com,12:00 - 20:00
+64,Kenneth,Billing Clerk,11,Jackson,14048866534,charlesdavenport@hotmail.com,09:00 - 17:00
+65,Karen,Maintenance,4,Farmer,11373031975,johnsontimothy@yahoo.com,10:00 - 18:00
+66,Matthew,Pharmacist,3,Dickson,12154508424,christopherhudson@gonzalez-gonzales.com,08:00 - 16:00
+67,Joseph,Billing Clerk,14,Shelton,12447952014,perezscott@peck-chapman.com,06:00 - 14:00
+68,Elizabeth,Cleaner,12,Boyd,16748654206,david50@hardy.com,08:00 - 16:00
+69,Anthony,Billing Clerk,10,Thomas,12177631342,phart@gmail.com,11:00 - 19:00
+70,Alison,Cleaner,3,Pitts,18135353155,spencermichael@hotmail.com,11:00 - 19:00
+71,Victoria,Maintenance,2,Vang,14241503822,shawbrian@yahoo.com,10:00 - 18:00
+72,Brian,Lab Technician,13,Martinez,18388287589,karaduarte@king-vasquez.info,11:00 - 19:00
+73,Dillon,Receptionist,13,Porter,16514392685,nmcclure@gmail.com,08:00 - 16:00
+74,Eric,IT Support,5,Sanchez,14234222900,anthonyrobinson@yahoo.com,10:00 - 18:00
+75,Matthew,Pharmacist,4,Vasquez,14960500421,stephaniejordan@newton.com,06:00 - 14:00
+76,Logan,Lab Technician,9,Moore,13829254646,tanner47@gmail.com,09:00 - 17:00
+77,Lauren,Maintenance,9,Bridges,16417985925,cody68@dawson-gibbs.com,12:00 - 20:00
+78,Donna,Administrative Assistant,15,Strong,14656529876,johnfranklin@yahoo.com,12:00 - 20:00
+79,Tammy,Receptionist,4,Torres,17991218068,jonathan45@johnson.com,08:00 - 16:00
+80,Julie,Janitor,8,Mendoza,11137666188,james34@carter.com,07:00 - 15:00
+81,Jonathan,Data Entry Clerk,13,Sharp,11622109389,ryan89@gmail.com,06:00 - 14:00
+82,Anna,Data Entry Clerk,1,Stewart,18818022040,dixonsherry@robertson.info,11:00 - 19:00
+83,Brent,Security,13,Pineda,16030292964,anthony08@rogers.com,09:00 - 17:00
+84,Tina,Receptionist,9,Williams,12025151315,margaretmcguire@huff.com,12:00 - 20:00
+85,Hunter,Receptionist,7,Holland,19569409933,burnsmisty@douglas-melendez.com,06:00 - 14:00
+86,Antonio,Janitor,12,Frey,19483807216,mfields@yahoo.com,12:00 - 20:00
+87,William,Administrative Assistant,9,Lewis,16702965188,matthewsdiana@yahoo.com,10:00 - 18:00
+88,William,Cleaner,15,Taylor,18893647207,nathan32@yahoo.com,10:00 - 18:00
+89,Nathan,Maintenance,5,Steele,16975950490,mnguyen@yahoo.com,10:00 - 18:00
+90,Jasmine,Janitor,3,Chambers,11365588098,lisabrown@yahoo.com,08:00 - 16:00
+91,Nathan,Janitor,8,Hayes,11986295898,aaronlewis@gutierrez-washington.net,06:00 - 14:00
+92,Angela,Security,11,Scott,14727523718,victoria31@yahoo.com,08:00 - 16:00
+93,Tina,Maintenance,8,Moore,13615159788,xvazquez@gmail.com,10:00 - 18:00
+94,Justin,Nurse,7,Brooks,17178733026,connielee@gardner-best.net,08:00 - 16:00
+95,Joseph,Maintenance,7,Gonzalez,15214847262,johnnymiller@yahoo.com,08:00 - 16:00
+96,Gabriel,Security,14,Gray,11242497563,johnlong@barnett-sanders.net,07:00 - 15:00
+97,Jamie,IT Support,14,Garner,16914396671,darrell43@allen.org,06:00 - 14:00
+98,Eric,Lab Technician,3,White,10386516444,jason58@hotmail.com,11:00 - 19:00
+99,Eric,Maintenance,12,Fuller,14736870781,richardmiller@boyle-kim.org,12:00 - 20:00
+100,Eric,Receptionist,13,Hampton,10695890670,rking@spencer.com,08:00 - 16:00

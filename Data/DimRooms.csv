@@ -1,0 +1,51 @@
+RoomID,RoomNumber,RoomType,DepartmentID,AvailabilityStatus
+1,A-420,Private,5,Available
+2,A-214,ICU,12,Occupied
+3,B-212,Private,14,Occupied
+4,C-305,ICU,14,Occupied
+5,B-403,Emergency,13,Under Maintenance
+6,A-411,General,8,Under Maintenance
+7,B-211,Private,8,Occupied
+8,C-305,Consultation,12,Under Maintenance
+9,B-201,Private,7,Available
+10,B-405,General,14,Available
+11,C-313,Emergency,2,Under Maintenance
+12,C-306,General,5,Occupied
+13,C-305,Emergency,13,Occupied
+14,A-213,Private,11,Occupied
+15,A-405,Private,1,Under Maintenance
+16,B-320,Private,1,Occupied
+17,A-306,Emergency,4,Occupied
+18,A-419,Consultation,3,Available
+19,C-305,Emergency,9,Under Maintenance
+20,A-419,Consultation,10,Under Maintenance
+21,B-402,Private,12,Available
+22,C-301,Emergency,12,Under Maintenance
+23,C-216,Private,8,Occupied
+24,A-307,Private,15,Available
+25,B-308,ICU,4,Available
+26,C-310,ICU,13,Occupied
+27,C-409,ICU,7,Available
+28,C-403,Emergency,6,Available
+29,A-205,ICU,13,Occupied
+30,C-414,Consultation,10,Under Maintenance
+31,A-416,General,10,Under Maintenance
+32,C-305,Consultation,9,Available
+33,B-213,Private,6,Occupied
+34,C-307,Emergency,10,Under Maintenance
+35,B-317,General,2,Available
+36,B-204,Emergency,3,Under Maintenance
+37,A-316,ICU,3,Under Maintenance
+38,B-412,Consultation,13,Under Maintenance
+39,A-205,Private,4,Under Maintenance
+40,B-311,Private,8,Under Maintenance
+41,A-214,General,13,Occupied
+42,A-311,Private,12,Occupied
+43,A-319,ICU,11,Under Maintenance
+44,B-404,Emergency,12,Under Maintenance
+45,A-214,Emergency,3,Occupied
+46,C-303,Emergency,2,Under Maintenance
+47,C-214,General,14,Available
+48,A-319,Emergency,8,Occupied
+49,A-317,Consultation,8,Available
+50,B-409,Emergency,14,Available

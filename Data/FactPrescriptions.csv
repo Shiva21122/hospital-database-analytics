@@ -1,0 +1,1781 @@
+PrescriptionID,RecordID,MedicineID,Dosage,Frequency,Duration
+1782,1,23,500 mg,Twice daily,10 days
+1789,3,49,500 mg,Once daily,10 days
+1823,20,43,500 mg,Three times daily,10 days
+1834,25,12,500 mg,Every 6 hours,10 days
+1859,37,24,500 mg,Twice daily,10 days
+1866,40,14,500 mg,Every 6 hours,10 days
+1880,47,47,500 mg,Every 6 hours,10 days
+1890,53,26,500 mg,Once daily,10 days
+1927,75,5,500 mg,Three times daily,10 days
+1931,78,5,500 mg,Twice daily,10 days
+1944,85,19,500 mg,Every 6 hours,10 days
+1949,87,11,500 mg,Every 6 hours,10 days
+1951,89,1,500 mg,Three times daily,10 days
+1975,101,48,500 mg,Every 6 hours,10 days
+1983,104,47,500 mg,Every 6 hours,10 days
+1984,105,16,500 mg,Once daily,10 days
+1996,111,22,500 mg,Every 6 hours,10 days
+2009,117,39,500 mg,Twice daily,10 days
+2017,121,29,500 mg,Every 6 hours,10 days
+2021,123,26,500 mg,Once daily,10 days
+2027,125,19,500 mg,Every 6 hours,10 days
+2059,143,31,500 mg,Every 6 hours,10 days
+2076,150,8,500 mg,Every 6 hours,10 days
+2096,163,43,500 mg,Every 6 hours,10 days
+2100,165,23,500 mg,Once daily,10 days
+2102,165,49,500 mg,Three times daily,10 days
+2117,175,47,500 mg,Every 6 hours,10 days
+2124,178,21,500 mg,Three times daily,10 days
+2131,181,8,500 mg,Once daily,10 days
+2135,183,15,500 mg,Once daily,10 days
+2154,191,3,500 mg,Twice daily,10 days
+2162,195,15,500 mg,Once daily,10 days
+2170,198,48,500 mg,Twice daily,10 days
+2174,200,3,500 mg,Every 6 hours,10 days
+2222,224,8,500 mg,Once daily,10 days
+2224,225,30,500 mg,Once daily,10 days
+2236,231,27,500 mg,Every 6 hours,10 days
+2239,233,13,500 mg,Once daily,10 days
+2245,235,36,500 mg,Twice daily,10 days
+2249,238,1,500 mg,Every 6 hours,10 days
+2297,262,36,500 mg,Every 6 hours,10 days
+2328,277,36,500 mg,Every 6 hours,10 days
+2341,283,41,500 mg,Twice daily,10 days
+2347,287,41,500 mg,Twice daily,10 days
+2366,297,47,500 mg,Three times daily,10 days
+2368,298,26,500 mg,Twice daily,10 days
+2371,299,10,500 mg,Three times daily,10 days
+2372,300,21,500 mg,Twice daily,10 days
+2374,302,26,500 mg,Twice daily,10 days
+2384,306,40,500 mg,Twice daily,10 days
+2402,316,23,500 mg,Twice daily,10 days
+2406,319,11,500 mg,Twice daily,10 days
+2426,329,26,500 mg,Twice daily,10 days
+2429,332,3,500 mg,Once daily,10 days
+2448,343,23,500 mg,Every 6 hours,10 days
+2450,344,6,500 mg,Once daily,10 days
+2460,351,47,500 mg,Twice daily,10 days
+2463,352,33,500 mg,Once daily,10 days
+2480,358,17,500 mg,Once daily,10 days
+2494,367,33,500 mg,Twice daily,10 days
+2518,381,39,500 mg,Once daily,10 days
+2529,388,41,500 mg,Once daily,10 days
+2534,390,41,500 mg,Every 6 hours,10 days
+2544,394,7,500 mg,Every 6 hours,10 days
+2581,413,43,500 mg,Every 6 hours,10 days
+2589,416,33,500 mg,Three times daily,10 days
+2599,420,19,500 mg,Twice daily,10 days
+2603,422,43,500 mg,Once daily,10 days
+2605,424,43,500 mg,Once daily,10 days
+2610,427,19,500 mg,Once daily,10 days
+2626,434,25,500 mg,Three times daily,10 days
+2646,445,17,500 mg,Every 6 hours,10 days
+2664,453,13,500 mg,Every 6 hours,10 days
+2665,453,8,500 mg,Twice daily,10 days
+2677,458,1,500 mg,Once daily,10 days
+2690,464,22,500 mg,Every 6 hours,10 days
+2718,476,27,500 mg,Twice daily,10 days
+2744,490,18,500 mg,Three times daily,10 days
+2745,491,14,500 mg,Every 6 hours,10 days
+2754,496,46,500 mg,Twice daily,10 days
+2757,497,39,500 mg,Three times daily,10 days
+2777,508,5,500 mg,Twice daily,10 days
+2784,511,29,500 mg,Three times daily,10 days
+2791,513,12,500 mg,Once daily,10 days
+2796,516,42,500 mg,Three times daily,10 days
+2801,518,27,500 mg,Once daily,10 days
+2805,522,30,500 mg,Every 6 hours,10 days
+2843,540,11,500 mg,Three times daily,10 days
+2847,541,4,500 mg,Every 6 hours,10 days
+2857,546,8,500 mg,Every 6 hours,10 days
+2859,547,10,500 mg,Once daily,10 days
+2865,551,30,500 mg,Once daily,10 days
+2869,553,15,500 mg,Once daily,10 days
+2893,565,25,500 mg,Twice daily,10 days
+2903,569,42,500 mg,Twice daily,10 days
+2907,571,34,500 mg,Three times daily,10 days
+2910,572,45,500 mg,Every 6 hours,10 days
+2911,573,27,500 mg,Every 6 hours,10 days
+2930,582,11,500 mg,Every 6 hours,10 days
+2933,584,24,500 mg,Twice daily,10 days
+2968,603,42,500 mg,Once daily,10 days
+2972,604,26,500 mg,Every 6 hours,10 days
+2979,609,49,500 mg,Twice daily,10 days
+2987,615,1,500 mg,Once daily,10 days
+2998,620,34,500 mg,Every 6 hours,10 days
+3010,626,22,500 mg,Every 6 hours,10 days
+3023,633,37,500 mg,Every 6 hours,10 days
+3046,644,34,500 mg,Twice daily,10 days
+3059,652,8,500 mg,Twice daily,10 days
+3060,652,42,500 mg,Twice daily,10 days
+3102,675,37,500 mg,Once daily,10 days
+3117,682,9,500 mg,Twice daily,10 days
+3156,700,12,500 mg,Once daily,10 days
+3165,704,17,500 mg,Once daily,10 days
+3200,721,43,500 mg,Twice daily,10 days
+3209,727,40,500 mg,Once daily,10 days
+3212,729,14,500 mg,Three times daily,10 days
+3231,739,38,500 mg,Every 6 hours,10 days
+3283,764,47,500 mg,Twice daily,10 days
+3286,765,24,500 mg,Once daily,10 days
+3301,772,13,500 mg,Three times daily,10 days
+3303,773,45,500 mg,Every 6 hours,10 days
+3304,773,19,500 mg,Twice daily,10 days
+3312,777,46,500 mg,Every 6 hours,10 days
+3355,801,2,500 mg,Once daily,10 days
+3357,801,45,500 mg,Once daily,10 days
+3367,807,6,500 mg,Twice daily,10 days
+3375,811,31,500 mg,Twice daily,10 days
+3377,812,45,500 mg,Every 6 hours,10 days
+3398,822,16,500 mg,Once daily,10 days
+3461,850,43,500 mg,Three times daily,10 days
+3464,852,47,500 mg,Three times daily,10 days
+3517,879,23,500 mg,Every 6 hours,10 days
+3526,883,17,500 mg,Twice daily,10 days
+3537,889,48,500 mg,Twice daily,10 days
+3543,893,34,500 mg,Three times daily,10 days
+1791,4,4,500 mg,Three times daily,1 month
+1806,11,27,500 mg,Every 6 hours,1 month
+1847,31,3,500 mg,Three times daily,1 month
+1863,39,1,500 mg,Three times daily,1 month
+1875,45,14,500 mg,Every 6 hours,1 month
+1892,54,27,500 mg,Twice daily,1 month
+1900,58,49,500 mg,Every 6 hours,1 month
+1904,62,44,500 mg,Twice daily,1 month
+1955,91,50,500 mg,Every 6 hours,1 month
+1960,94,35,500 mg,Three times daily,1 month
+1977,102,26,500 mg,Once daily,1 month
+1979,103,3,500 mg,Once daily,1 month
+1990,108,31,500 mg,Once daily,1 month
+1997,111,3,500 mg,Three times daily,1 month
+2004,115,16,500 mg,Twice daily,1 month
+2015,120,8,500 mg,Every 6 hours,1 month
+2032,128,37,500 mg,Three times daily,1 month
+2039,133,41,500 mg,Three times daily,1 month
+2040,134,7,500 mg,Every 6 hours,1 month
+2070,148,34,500 mg,Three times daily,1 month
+2071,148,3,500 mg,Twice daily,1 month
+2129,180,46,500 mg,Once daily,1 month
+2144,186,45,500 mg,Every 6 hours,1 month
+2153,191,23,500 mg,Every 6 hours,1 month
+2185,205,45,500 mg,Three times daily,1 month
+2189,207,13,500 mg,Twice daily,1 month
+2191,208,26,500 mg,Every 6 hours,1 month
+2212,220,21,500 mg,Twice daily,1 month
+2234,230,2,500 mg,Once daily,1 month
+2235,230,28,500 mg,Every 6 hours,1 month
+2248,238,11,500 mg,Every 6 hours,1 month
+2255,241,35,500 mg,Three times daily,1 month
+2284,256,10,500 mg,Twice daily,1 month
+2289,258,45,500 mg,Once daily,1 month
+2293,260,24,500 mg,Once daily,1 month
+2306,266,31,500 mg,Every 6 hours,1 month
+2315,270,10,500 mg,Once daily,1 month
+2338,282,28,500 mg,Once daily,1 month
+2343,285,20,500 mg,Once daily,1 month
+2354,291,4,500 mg,Twice daily,1 month
+2358,293,27,500 mg,Three times daily,1 month
+2363,296,16,500 mg,Once daily,1 month
+2370,299,6,500 mg,Twice daily,1 month
+2376,303,23,500 mg,Once daily,1 month
+2386,308,5,500 mg,Twice daily,1 month
+2391,311,27,500 mg,Three times daily,1 month
+2416,324,36,500 mg,Twice daily,1 month
+2465,352,10,500 mg,Once daily,1 month
+2470,355,27,500 mg,Once daily,1 month
+2489,365,23,500 mg,Once daily,1 month
+2509,374,4,500 mg,Every 6 hours,1 month
+2515,378,29,500 mg,Twice daily,1 month
+2527,387,14,500 mg,Every 6 hours,1 month
+2551,397,21,500 mg,Three times daily,1 month
+2591,417,47,500 mg,Three times daily,1 month
+2609,426,34,500 mg,Once daily,1 month
+2632,437,43,500 mg,Once daily,1 month
+2643,444,45,500 mg,Three times daily,1 month
+2645,444,27,500 mg,Every 6 hours,1 month
+2682,460,47,500 mg,Three times daily,1 month
+2684,461,7,500 mg,Every 6 hours,1 month
+2695,465,36,500 mg,Once daily,1 month
+2702,468,6,500 mg,Every 6 hours,1 month
+2720,478,8,500 mg,Once daily,1 month
+2726,481,1,500 mg,Twice daily,1 month
+2739,488,21,500 mg,Every 6 hours,1 month
+2751,494,37,500 mg,Twice daily,1 month
+2763,501,29,500 mg,Three times daily,1 month
+2778,508,20,500 mg,Once daily,1 month
+2785,511,26,500 mg,Three times daily,1 month
+2792,514,22,500 mg,Every 6 hours,1 month
+2819,529,8,500 mg,Three times daily,1 month
+2821,530,6,500 mg,Every 6 hours,1 month
+2822,530,26,500 mg,Every 6 hours,1 month
+2830,535,11,500 mg,Three times daily,1 month
+2833,536,32,500 mg,Three times daily,1 month
+2837,537,16,500 mg,Three times daily,1 month
+2864,550,31,500 mg,Three times daily,1 month
+2925,580,25,500 mg,Once daily,1 month
+2932,583,37,500 mg,Every 6 hours,1 month
+2941,587,7,500 mg,Every 6 hours,1 month
+2991,617,29,500 mg,Once daily,1 month
+2996,619,36,500 mg,Once daily,1 month
+3006,623,3,500 mg,Three times daily,1 month
+3018,630,47,500 mg,Twice daily,1 month
+3032,638,21,500 mg,Three times daily,1 month
+3033,638,44,500 mg,Twice daily,1 month
+3044,643,33,500 mg,Three times daily,1 month
+3049,647,15,500 mg,Once daily,1 month
+3051,648,2,500 mg,Once daily,1 month
+3064,654,14,500 mg,Once daily,1 month
+3080,663,6,500 mg,Every 6 hours,1 month
+3084,665,13,500 mg,Three times daily,1 month
+3133,688,7,500 mg,Once daily,1 month
+3146,694,37,500 mg,Three times daily,1 month
+3204,724,25,500 mg,Twice daily,1 month
+3218,732,32,500 mg,Twice daily,1 month
+3225,736,45,500 mg,Every 6 hours,1 month
+3228,737,31,500 mg,Once daily,1 month
+3244,748,9,500 mg,Twice daily,1 month
+3246,748,22,500 mg,Three times daily,1 month
+3251,750,39,500 mg,Once daily,1 month
+3255,752,40,500 mg,Once daily,1 month
+3257,753,41,500 mg,Twice daily,1 month
+3258,753,15,500 mg,Twice daily,1 month
+3261,755,26,500 mg,Once daily,1 month
+3265,756,26,500 mg,Twice daily,1 month
+3276,760,19,500 mg,Every 6 hours,1 month
+3296,770,25,500 mg,Once daily,1 month
+3300,772,31,500 mg,Every 6 hours,1 month
+3316,780,38,500 mg,Three times daily,1 month
+3317,781,11,500 mg,Once daily,1 month
+3318,781,42,500 mg,Twice daily,1 month
+3320,782,44,500 mg,Every 6 hours,1 month
+3337,792,48,500 mg,Once daily,1 month
+3338,792,9,500 mg,Twice daily,1 month
+3360,803,32,500 mg,Every 6 hours,1 month
+3368,807,31,500 mg,Once daily,1 month
+3371,809,29,500 mg,Twice daily,1 month
+3394,818,9,500 mg,Twice daily,1 month
+3402,824,43,500 mg,Three times daily,1 month
+3403,824,30,500 mg,Twice daily,1 month
+3426,835,9,500 mg,Three times daily,1 month
+3428,836,23,500 mg,Three times daily,1 month
+3446,844,37,500 mg,Every 6 hours,1 month
+3552,898,10,500 mg,Twice daily,1 month
+3555,899,25,500 mg,Once daily,1 month
+1810,13,12,500 mg,Once daily,7 days
+1816,16,50,500 mg,Once daily,7 days
+1826,22,10,500 mg,Every 6 hours,7 days
+1839,27,49,500 mg,Every 6 hours,7 days
+1899,58,8,500 mg,Twice daily,7 days
+1901,59,7,500 mg,Twice daily,7 days
+1912,66,41,500 mg,Every 6 hours,7 days
+1936,81,26,500 mg,Twice daily,7 days
+1948,87,39,500 mg,Every 6 hours,7 days
+1950,88,25,500 mg,Once daily,7 days
+1963,96,41,500 mg,Twice daily,7 days
+1981,104,43,500 mg,Once daily,7 days
+1991,109,40,500 mg,Every 6 hours,7 days
+2011,118,43,500 mg,Every 6 hours,7 days
+2043,136,50,500 mg,Three times daily,7 days
+2058,142,34,500 mg,Three times daily,7 days
+2066,146,48,500 mg,Every 6 hours,7 days
+2075,150,15,500 mg,Every 6 hours,7 days
+2081,154,5,500 mg,Every 6 hours,7 days
+2095,162,10,500 mg,Three times daily,7 days
+2111,170,25,500 mg,Twice daily,7 days
+2130,181,18,500 mg,Three times daily,7 days
+2148,188,49,500 mg,Twice daily,7 days
+2160,195,24,500 mg,Three times daily,7 days
+2171,199,4,500 mg,Three times daily,7 days
+2183,204,48,500 mg,Once daily,7 days
+2214,220,39,500 mg,Three times daily,7 days
+2219,223,27,500 mg,Twice daily,7 days
+2225,225,7,500 mg,Every 6 hours,7 days
+2244,235,2,500 mg,Every 6 hours,7 days
+2256,242,34,500 mg,Once daily,7 days
+2260,243,1,500 mg,Every 6 hours,7 days
+2262,245,24,500 mg,Twice daily,7 days
+2269,248,16,500 mg,Every 6 hours,7 days
+2277,252,19,500 mg,Twice daily,7 days
+2283,255,2,500 mg,Twice daily,7 days
+2303,264,47,500 mg,Three times daily,7 days
+2351,289,39,500 mg,Twice daily,7 days
+2364,296,3,500 mg,Every 6 hours,7 days
+2377,303,20,500 mg,Twice daily,7 days
+2379,304,39,500 mg,Every 6 hours,7 days
+2396,313,49,500 mg,Every 6 hours,7 days
+2398,315,40,500 mg,Once daily,7 days
+2407,320,4,500 mg,Every 6 hours,7 days
+2440,337,37,500 mg,Three times daily,7 days
+2455,348,40,500 mg,Twice daily,7 days
+2462,351,19,500 mg,Twice daily,7 days
+2468,353,14,500 mg,Three times daily,7 days
+2505,372,25,500 mg,Twice daily,7 days
+2506,373,21,500 mg,Three times daily,7 days
+2507,373,48,500 mg,Three times daily,7 days
+2510,375,49,500 mg,Every 6 hours,7 days
+2532,389,14,500 mg,Twice daily,7 days
+2559,400,26,500 mg,Once daily,7 days
+2562,402,13,500 mg,Every 6 hours,7 days
+2567,405,41,500 mg,Every 6 hours,7 days
+2588,415,2,500 mg,Every 6 hours,7 days
+2595,418,29,500 mg,Twice daily,7 days
+2613,429,13,500 mg,Three times daily,7 days
+2617,431,6,500 mg,Once daily,7 days
+2639,441,25,500 mg,Three times daily,7 days
+2648,445,38,500 mg,Three times daily,7 days
+2669,455,5,500 mg,Every 6 hours,7 days
+2672,457,1,500 mg,Twice daily,7 days
+2688,463,38,500 mg,Every 6 hours,7 days
+2721,479,20,500 mg,Once daily,7 days
+2764,501,3,500 mg,Twice daily,7 days
+2765,502,8,500 mg,Three times daily,7 days
+2773,506,35,500 mg,Three times daily,7 days
+2790,513,31,500 mg,Three times daily,7 days
+2798,517,10,500 mg,Once daily,7 days
+2823,531,48,500 mg,Once daily,7 days
+2855,545,5,500 mg,Three times daily,7 days
+2880,559,2,500 mg,Three times daily,7 days
+2884,561,45,500 mg,Three times daily,7 days
+2898,567,16,500 mg,Every 6 hours,7 days
+2909,571,5,500 mg,Three times daily,7 days
+2919,576,36,500 mg,Twice daily,7 days
+2965,601,19,500 mg,Twice daily,7 days
+2983,611,31,500 mg,Three times daily,7 days
+3024,633,28,500 mg,Twice daily,7 days
+3048,646,39,500 mg,Once daily,7 days
+3055,650,2,500 mg,Three times daily,7 days
+3067,657,37,500 mg,Every 6 hours,7 days
+3069,658,15,500 mg,Once daily,7 days
+3082,664,8,500 mg,Every 6 hours,7 days
+3085,666,13,500 mg,Once daily,7 days
+3087,667,1,500 mg,Every 6 hours,7 days
+3111,679,50,500 mg,Once daily,7 days
+3114,681,17,500 mg,Twice daily,7 days
+3136,690,32,500 mg,Twice daily,7 days
+3144,694,9,500 mg,Twice daily,7 days
+3154,699,12,500 mg,Once daily,7 days
+3159,701,39,500 mg,Three times daily,7 days
+3166,704,20,500 mg,Twice daily,7 days
+3172,707,47,500 mg,Every 6 hours,7 days
+3174,707,10,500 mg,Twice daily,7 days
+3198,719,28,500 mg,Three times daily,7 days
+3216,730,45,500 mg,Every 6 hours,7 days
+3234,741,34,500 mg,Every 6 hours,7 days
+3243,747,31,500 mg,Once daily,7 days
+3247,749,43,500 mg,Once daily,7 days
+3266,756,41,500 mg,Once daily,7 days
+3313,777,22,500 mg,Once daily,7 days
+3319,782,48,500 mg,Once daily,7 days
+3326,785,48,500 mg,Every 6 hours,7 days
+3334,790,38,500 mg,Once daily,7 days
+3345,796,42,500 mg,Twice daily,7 days
+3347,798,47,500 mg,Twice daily,7 days
+3361,803,12,500 mg,Once daily,7 days
+3362,804,33,500 mg,Every 6 hours,7 days
+3363,805,8,500 mg,Three times daily,7 days
+3381,814,8,500 mg,Every 6 hours,7 days
+3384,815,33,500 mg,Every 6 hours,7 days
+3386,816,39,500 mg,Once daily,7 days
+3404,824,47,500 mg,Every 6 hours,7 days
+3433,838,5,500 mg,Three times daily,7 days
+3491,867,18,500 mg,Three times daily,7 days
+3493,869,47,500 mg,Three times daily,7 days
+3500,872,33,500 mg,Once daily,7 days
+3505,874,46,500 mg,Twice daily,7 days
+3518,880,15,500 mg,Three times daily,7 days
+3549,897,41,500 mg,Twice daily,7 days
+3556,899,23,500 mg,Every 6 hours,7 days
+1815,16,35,500 mg,Every 6 hours,5 days
+1827,22,9,500 mg,Every 6 hours,5 days
+1828,23,12,500 mg,Three times daily,5 days
+1838,26,8,500 mg,Every 6 hours,5 days
+1842,29,11,500 mg,Three times daily,5 days
+1879,46,19,500 mg,Three times daily,5 days
+1910,65,48,500 mg,Every 6 hours,5 days
+1914,66,26,500 mg,Twice daily,5 days
+1921,71,40,500 mg,Twice daily,5 days
+1945,85,33,500 mg,Twice daily,5 days
+1953,90,32,500 mg,Every 6 hours,5 days
+1964,96,1,500 mg,Every 6 hours,5 days
+1970,99,16,500 mg,Three times daily,5 days
+2010,118,17,500 mg,Every 6 hours,5 days
+2012,118,30,500 mg,Three times daily,5 days
+2026,125,40,500 mg,Every 6 hours,5 days
+2052,139,13,500 mg,Once daily,5 days
+2062,144,7,500 mg,Every 6 hours,5 days
+2063,145,2,500 mg,Once daily,5 days
+2080,154,35,500 mg,Twice daily,5 days
+2091,160,42,500 mg,Twice daily,5 days
+2106,167,29,500 mg,Three times daily,5 days
+2123,178,25,500 mg,Once daily,5 days
+2125,179,37,500 mg,Twice daily,5 days
+2136,183,30,500 mg,Every 6 hours,5 days
+2151,190,49,500 mg,Every 6 hours,5 days
+2163,196,28,500 mg,Three times daily,5 days
+2179,202,42,500 mg,Once daily,5 days
+2181,203,37,500 mg,Once daily,5 days
+2217,222,15,500 mg,Once daily,5 days
+2221,223,21,500 mg,Once daily,5 days
+2238,233,16,500 mg,Three times daily,5 days
+2268,248,15,500 mg,Once daily,5 days
+2279,253,36,500 mg,Three times daily,5 days
+2304,265,40,500 mg,Once daily,5 days
+2305,265,43,500 mg,Every 6 hours,5 days
+2317,272,44,500 mg,Once daily,5 days
+2318,273,11,500 mg,Every 6 hours,5 days
+2323,275,35,500 mg,Twice daily,5 days
+2326,276,50,500 mg,Once daily,5 days
+2355,291,50,500 mg,Three times daily,5 days
+2389,310,14,500 mg,Once daily,5 days
+2401,316,14,500 mg,Once daily,5 days
+2413,323,19,500 mg,Every 6 hours,5 days
+2414,323,9,500 mg,Every 6 hours,5 days
+2427,330,13,500 mg,Twice daily,5 days
+2467,353,43,500 mg,Three times daily,5 days
+2472,355,25,500 mg,Once daily,5 days
+2476,357,15,500 mg,Three times daily,5 days
+2516,379,44,500 mg,Twice daily,5 days
+2526,386,14,500 mg,Once daily,5 days
+2572,407,36,500 mg,Twice daily,5 days
+2578,410,16,500 mg,Every 6 hours,5 days
+2585,414,8,500 mg,Twice daily,5 days
+2587,415,4,500 mg,Twice daily,5 days
+2611,427,32,500 mg,Once daily,5 days
+2618,431,41,500 mg,Twice daily,5 days
+2627,435,48,500 mg,Twice daily,5 days
+2635,438,49,500 mg,Three times daily,5 days
+2644,444,9,500 mg,Twice daily,5 days
+2651,447,34,500 mg,Every 6 hours,5 days
+2697,466,38,500 mg,Twice daily,5 days
+2699,467,48,500 mg,Once daily,5 days
+2715,475,11,500 mg,Once daily,5 days
+2742,489,40,500 mg,Every 6 hours,5 days
+2759,498,19,500 mg,Three times daily,5 days
+2760,499,4,500 mg,Three times daily,5 days
+2771,504,1,500 mg,Once daily,5 days
+2774,506,9,500 mg,Three times daily,5 days
+2779,508,26,500 mg,Every 6 hours,5 days
+2797,517,9,500 mg,Every 6 hours,5 days
+2863,549,19,500 mg,Every 6 hours,5 days
+2902,569,38,500 mg,Every 6 hours,5 days
+2906,570,32,500 mg,Once daily,5 days
+2921,577,48,500 mg,Twice daily,5 days
+2962,599,18,500 mg,Three times daily,5 days
+2964,600,13,500 mg,Three times daily,5 days
+2973,605,25,500 mg,Three times daily,5 days
+2977,607,22,500 mg,Every 6 hours,5 days
+2986,614,6,500 mg,Twice daily,5 days
+3000,621,8,500 mg,Every 6 hours,5 days
+3022,633,12,500 mg,Twice daily,5 days
+3028,635,49,500 mg,Once daily,5 days
+3031,638,3,500 mg,Every 6 hours,5 days
+3043,642,38,500 mg,Twice daily,5 days
+3061,653,31,500 mg,Every 6 hours,5 days
+3079,662,49,500 mg,Twice daily,5 days
+3088,668,47,500 mg,Every 6 hours,5 days
+3119,682,21,500 mg,Once daily,5 days
+3122,683,21,500 mg,Three times daily,5 days
+3124,685,31,500 mg,Twice daily,5 days
+3128,686,50,500 mg,Every 6 hours,5 days
+3134,689,19,500 mg,Once daily,5 days
+3163,703,43,500 mg,Every 6 hours,5 days
+3260,754,37,500 mg,Twice daily,5 days
+3268,757,12,500 mg,Twice daily,5 days
+3271,759,32,500 mg,Twice daily,5 days
+3273,759,27,500 mg,Once daily,5 days
+3285,764,16,500 mg,Three times daily,5 days
+3288,766,41,500 mg,Twice daily,5 days
+3289,766,11,500 mg,Once daily,5 days
+3297,770,13,500 mg,Once daily,5 days
+3302,772,33,500 mg,Three times daily,5 days
+3315,779,5,500 mg,Three times daily,5 days
+3333,790,48,500 mg,Every 6 hours,5 days
+3342,794,2,500 mg,Twice daily,5 days
+3349,798,32,500 mg,Every 6 hours,5 days
+3388,816,3,500 mg,Three times daily,5 days
+3400,822,14,500 mg,Once daily,5 days
+3418,830,47,500 mg,Twice daily,5 days
+3436,840,28,500 mg,Once daily,5 days
+3447,845,26,500 mg,Twice daily,5 days
+3455,847,8,500 mg,Twice daily,5 days
+3473,857,19,500 mg,Three times daily,5 days
+3540,891,8,500 mg,Once daily,5 days
+3551,898,15,500 mg,Twice daily,5 days
+3553,898,44,500 mg,Twice daily,5 days
+1793,6,18,500 mg,Twice daily,2 weeks
+1800,8,50,500 mg,Every 6 hours,2 weeks
+1802,10,4,500 mg,Twice daily,2 weeks
+1805,11,36,500 mg,Twice daily,2 weeks
+1817,16,14,500 mg,Every 6 hours,2 weeks
+1821,19,6,500 mg,Three times daily,2 weeks
+1832,24,19,500 mg,Every 6 hours,2 weeks
+1851,33,44,500 mg,Twice daily,2 weeks
+1853,34,7,500 mg,Every 6 hours,2 weeks
+1868,41,46,500 mg,Once daily,2 weeks
+1869,41,24,500 mg,Once daily,2 weeks
+1889,52,48,500 mg,Once daily,2 weeks
+1894,56,45,500 mg,Three times daily,2 weeks
+1913,66,39,500 mg,Three times daily,2 weeks
+1929,77,21,500 mg,Once daily,2 weeks
+1946,86,32,500 mg,Once daily,2 weeks
+1992,109,8,500 mg,Twice daily,2 weeks
+1994,110,11,500 mg,Every 6 hours,2 weeks
+2024,124,30,500 mg,Once daily,2 weeks
+2064,145,19,500 mg,Twice daily,2 weeks
+2068,147,42,500 mg,Three times daily,2 weeks
+2093,161,28,500 mg,Once daily,2 weeks
+2103,166,8,500 mg,Three times daily,2 weeks
+2104,167,6,500 mg,Every 6 hours,2 weeks
+2116,174,49,500 mg,Every 6 hours,2 weeks
+2139,184,33,500 mg,Three times daily,2 weeks
+2143,185,47,500 mg,Twice daily,2 weeks
+2166,197,6,500 mg,Once daily,2 weeks
+2177,202,5,500 mg,Three times daily,2 weeks
+2215,221,38,500 mg,Twice daily,2 weeks
+2220,223,31,500 mg,Three times daily,2 weeks
+2226,226,2,500 mg,Three times daily,2 weeks
+2286,257,33,500 mg,Twice daily,2 weeks
+2324,275,10,500 mg,Every 6 hours,2 weeks
+2334,280,2,500 mg,Once daily,2 weeks
+2348,288,22,500 mg,Three times daily,2 weeks
+2356,292,40,500 mg,Three times daily,2 weeks
+2365,296,4,500 mg,Three times daily,2 weeks
+2373,301,39,500 mg,Three times daily,2 weeks
+2380,304,27,500 mg,Once daily,2 weeks
+2385,307,38,500 mg,Every 6 hours,2 weeks
+2387,309,15,500 mg,Once daily,2 weeks
+2392,311,39,500 mg,Twice daily,2 weeks
+2436,336,28,500 mg,Once daily,2 weeks
+2441,338,23,500 mg,Every 6 hours,2 weeks
+2446,341,17,500 mg,Three times daily,2 weeks
+2501,370,23,500 mg,Every 6 hours,2 weeks
+2540,393,35,500 mg,Twice daily,2 weeks
+2586,415,17,500 mg,Three times daily,2 weeks
+2602,422,34,500 mg,Every 6 hours,2 weeks
+2633,438,3,500 mg,Twice daily,2 weeks
+2668,454,8,500 mg,Three times daily,2 weeks
+2674,457,50,500 mg,Twice daily,2 weeks
+2676,458,41,500 mg,Once daily,2 weeks
+2681,460,28,500 mg,Twice daily,2 weeks
+2705,470,27,500 mg,Every 6 hours,2 weeks
+2706,471,25,500 mg,Three times daily,2 weeks
+2736,487,10,500 mg,Once daily,2 weeks
+2756,497,27,500 mg,Once daily,2 weeks
+2767,503,6,500 mg,Twice daily,2 weeks
+2772,505,12,500 mg,Three times daily,2 weeks
+2829,534,43,500 mg,Once daily,2 weeks
+2838,538,10,500 mg,Once daily,2 weeks
+2858,546,6,500 mg,Once daily,2 weeks
+2867,551,36,500 mg,Three times daily,2 weeks
+2872,554,33,500 mg,Three times daily,2 weeks
+2905,570,26,500 mg,Twice daily,2 weeks
+2917,576,11,500 mg,Twice daily,2 weeks
+2937,585,37,500 mg,Three times daily,2 weeks
+2949,591,20,500 mg,Once daily,2 weeks
+2967,602,9,500 mg,Every 6 hours,2 weeks
+2992,617,40,500 mg,Every 6 hours,2 weeks
+2993,618,25,500 mg,Once daily,2 weeks
+2999,620,42,500 mg,Once daily,2 weeks
+3021,632,7,500 mg,Every 6 hours,2 weeks
+3026,635,29,500 mg,Every 6 hours,2 weeks
+3054,649,34,500 mg,Once daily,2 weeks
+3065,655,50,500 mg,Twice daily,2 weeks
+3076,661,2,500 mg,Once daily,2 weeks
+3081,663,8,500 mg,Three times daily,2 weeks
+3096,672,2,500 mg,Every 6 hours,2 weeks
+3100,674,45,500 mg,Three times daily,2 weeks
+3118,682,30,500 mg,Three times daily,2 weeks
+3130,687,3,500 mg,Once daily,2 weeks
+3132,688,38,500 mg,Three times daily,2 weeks
+3145,694,29,500 mg,Twice daily,2 weeks
+3194,716,6,500 mg,Three times daily,2 weeks
+3201,722,23,500 mg,Once daily,2 weeks
+3239,744,33,500 mg,Three times daily,2 weeks
+3245,748,42,500 mg,Twice daily,2 weeks
+3262,755,24,500 mg,Every 6 hours,2 weeks
+3278,762,33,500 mg,Twice daily,2 weeks
+3279,762,32,500 mg,Twice daily,2 weeks
+3341,794,12,500 mg,Twice daily,2 weeks
+3346,797,25,500 mg,Every 6 hours,2 weeks
+3359,802,23,500 mg,Twice daily,2 weeks
+3410,827,48,500 mg,Once daily,2 weeks
+3413,828,46,500 mg,Three times daily,2 weeks
+3483,862,32,500 mg,Every 6 hours,2 weeks
+3488,865,39,500 mg,Three times daily,2 weeks
+3511,877,45,500 mg,Every 6 hours,2 weeks
+3515,879,1,500 mg,Three times daily,2 weeks
+3532,886,40,500 mg,Twice daily,2 weeks
+3536,888,35,500 mg,Twice daily,2 weeks
+1792,5,11,1000 mg,Every 6 hours,1 month
+1807,12,33,1000 mg,Every 6 hours,1 month
+1856,35,18,1000 mg,Once daily,1 month
+1858,36,8,1000 mg,Every 6 hours,1 month
+1865,40,45,1000 mg,Every 6 hours,1 month
+1871,42,11,1000 mg,Once daily,1 month
+1884,50,21,1000 mg,Three times daily,1 month
+1933,79,38,1000 mg,Once daily,1 month
+1954,90,1,1000 mg,Twice daily,1 month
+1961,94,6,1000 mg,Three times daily,1 month
+1969,98,35,1000 mg,Twice daily,1 month
+1973,100,33,1000 mg,Every 6 hours,1 month
+2002,114,17,1000 mg,Every 6 hours,1 month
+2005,116,35,1000 mg,Once daily,1 month
+2014,119,1,1000 mg,Twice daily,1 month
+2033,128,6,1000 mg,Twice daily,1 month
+2044,136,11,1000 mg,Three times daily,1 month
+2046,137,49,1000 mg,Once daily,1 month
+2050,138,21,1000 mg,Every 6 hours,1 month
+2069,147,5,1000 mg,Twice daily,1 month
+2092,160,38,1000 mg,Three times daily,1 month
+2101,165,18,1000 mg,Every 6 hours,1 month
+2107,168,9,1000 mg,Three times daily,1 month
+2126,179,25,1000 mg,Once daily,1 month
+2133,182,13,1000 mg,Once daily,1 month
+2137,183,6,1000 mg,Three times daily,1 month
+2146,187,28,1000 mg,Every 6 hours,1 month
+2195,210,38,1000 mg,Every 6 hours,1 month
+2200,213,46,1000 mg,Twice daily,1 month
+2213,220,10,1000 mg,Twice daily,1 month
+2231,228,8,1000 mg,Twice daily,1 month
+2247,237,31,1000 mg,Once daily,1 month
+2271,250,49,1000 mg,Three times daily,1 month
+2287,257,15,1000 mg,Every 6 hours,1 month
+2288,257,13,1000 mg,Once daily,1 month
+2299,262,14,1000 mg,Every 6 hours,1 month
+2332,279,14,1000 mg,Twice daily,1 month
+2335,280,9,1000 mg,Every 6 hours,1 month
+2378,304,48,1000 mg,Twice daily,1 month
+2400,315,42,1000 mg,Once daily,1 month
+2405,318,24,1000 mg,Once daily,1 month
+2409,321,7,1000 mg,Once daily,1 month
+2417,325,12,1000 mg,Twice daily,1 month
+2424,328,8,1000 mg,Three times daily,1 month
+2473,356,27,1000 mg,Three times daily,1 month
+2479,358,20,1000 mg,Three times daily,1 month
+2488,364,30,1000 mg,Three times daily,1 month
+2522,383,24,1000 mg,Three times daily,1 month
+2536,391,43,1000 mg,Three times daily,1 month
+2545,395,48,1000 mg,Twice daily,1 month
+2548,396,13,1000 mg,Once daily,1 month
+2552,398,44,1000 mg,Three times daily,1 month
+2561,402,39,1000 mg,Once daily,1 month
+2600,420,7,1000 mg,Once daily,1 month
+2624,434,38,1000 mg,Once daily,1 month
+2636,439,45,1000 mg,Every 6 hours,1 month
+2642,443,23,1000 mg,Twice daily,1 month
+2650,446,27,1000 mg,Every 6 hours,1 month
+2656,449,6,1000 mg,Twice daily,1 month
+2659,450,45,1000 mg,Three times daily,1 month
+2692,464,8,1000 mg,Once daily,1 month
+2700,468,24,1000 mg,Every 6 hours,1 month
+2713,474,23,1000 mg,Every 6 hours,1 month
+2714,474,37,1000 mg,Every 6 hours,1 month
+2724,481,20,1000 mg,Once daily,1 month
+2746,492,12,1000 mg,Three times daily,1 month
+2807,523,15,1000 mg,Once daily,1 month
+2810,525,30,1000 mg,Every 6 hours,1 month
+2879,558,34,1000 mg,Every 6 hours,1 month
+2955,596,50,1000 mg,Three times daily,1 month
+2956,597,12,1000 mg,Once daily,1 month
+2980,609,9,1000 mg,Twice daily,1 month
+2981,610,24,1000 mg,Twice daily,1 month
+3003,622,8,1000 mg,Once daily,1 month
+3015,629,45,1000 mg,Three times daily,1 month
+3016,629,14,1000 mg,Once daily,1 month
+3040,641,35,1000 mg,Every 6 hours,1 month
+3071,658,41,1000 mg,Twice daily,1 month
+3090,669,29,1000 mg,Every 6 hours,1 month
+3094,671,48,1000 mg,Twice daily,1 month
+3108,678,33,1000 mg,Once daily,1 month
+3115,681,37,1000 mg,Three times daily,1 month
+3137,691,13,1000 mg,Once daily,1 month
+3153,699,17,1000 mg,Three times daily,1 month
+3161,702,17,1000 mg,Three times daily,1 month
+3199,720,23,1000 mg,Three times daily,1 month
+3213,729,25,1000 mg,Every 6 hours,1 month
+3236,743,3,1000 mg,Three times daily,1 month
+3250,750,5,1000 mg,Once daily,1 month
+3259,754,50,1000 mg,Twice daily,1 month
+3329,786,50,1000 mg,Once daily,1 month
+3330,787,17,1000 mg,Twice daily,1 month
+3439,842,42,1000 mg,Every 6 hours,1 month
+3454,847,41,1000 mg,Every 6 hours,1 month
+3458,848,1,1000 mg,Once daily,1 month
+3462,851,39,1000 mg,Three times daily,1 month
+3470,855,48,1000 mg,Three times daily,1 month
+3474,857,22,1000 mg,Twice daily,1 month
+3482,862,1,1000 mg,Once daily,1 month
+1813,15,38,1000 mg,Once daily,10 days
+1818,17,35,1000 mg,Three times daily,10 days
+1819,18,36,1000 mg,Every 6 hours,10 days
+1843,29,36,1000 mg,Twice daily,10 days
+1844,30,13,1000 mg,Three times daily,10 days
+1887,52,11,1000 mg,Twice daily,10 days
+1891,54,40,1000 mg,Once daily,10 days
+1893,55,46,1000 mg,Three times daily,10 days
+1922,72,47,1000 mg,Twice daily,10 days
+1923,73,23,1000 mg,Once daily,10 days
+1926,75,49,1000 mg,Every 6 hours,10 days
+1937,82,9,1000 mg,Three times daily,10 days
+1942,84,18,1000 mg,Once daily,10 days
+1965,97,43,1000 mg,Three times daily,10 days
+1982,104,24,1000 mg,Twice daily,10 days
+1993,110,33,1000 mg,Twice daily,10 days
+1998,112,49,1000 mg,Every 6 hours,10 days
+2034,128,50,1000 mg,Three times daily,10 days
+2048,137,16,1000 mg,Every 6 hours,10 days
+2067,147,11,1000 mg,Once daily,10 days
+2090,159,3,1000 mg,Once daily,10 days
+2099,164,30,1000 mg,Twice daily,10 days
+2120,177,45,1000 mg,Twice daily,10 days
+2121,177,23,1000 mg,Every 6 hours,10 days
+2161,195,37,1000 mg,Once daily,10 days
+2187,206,26,1000 mg,Three times daily,10 days
+2211,219,27,1000 mg,Three times daily,10 days
+2218,222,8,1000 mg,Three times daily,10 days
+2251,239,44,1000 mg,Three times daily,10 days
+2253,240,24,1000 mg,Three times daily,10 days
+2265,247,38,1000 mg,Once daily,10 days
+2270,249,47,1000 mg,Three times daily,10 days
+2282,255,45,1000 mg,Three times daily,10 days
+2292,259,24,1000 mg,Every 6 hours,10 days
+2301,264,24,1000 mg,Every 6 hours,10 days
+2313,270,45,1000 mg,Twice daily,10 days
+2314,270,17,1000 mg,Once daily,10 days
+2333,279,38,1000 mg,Every 6 hours,10 days
+2337,282,8,1000 mg,Three times daily,10 days
+2345,285,46,1000 mg,Twice daily,10 days
+2352,290,39,1000 mg,Twice daily,10 days
+2357,292,11,1000 mg,Every 6 hours,10 days
+2388,310,18,1000 mg,Three times daily,10 days
+2399,315,33,1000 mg,Once daily,10 days
+2403,316,29,1000 mg,Twice daily,10 days
+2439,337,8,1000 mg,Once daily,10 days
+2444,340,29,1000 mg,Twice daily,10 days
+2452,345,7,1000 mg,Every 6 hours,10 days
+2471,355,24,1000 mg,Once daily,10 days
+2478,358,12,1000 mg,Once daily,10 days
+2484,362,30,1000 mg,Twice daily,10 days
+2519,381,2,1000 mg,Once daily,10 days
+2525,386,38,1000 mg,Every 6 hours,10 days
+2556,399,2,1000 mg,Once daily,10 days
+2560,401,26,1000 mg,Once daily,10 days
+2631,437,11,1000 mg,Three times daily,10 days
+2634,438,39,1000 mg,Three times daily,10 days
+2654,448,28,1000 mg,Once daily,10 days
+2661,451,5,1000 mg,Three times daily,10 days
+2694,465,43,1000 mg,Twice daily,10 days
+2727,482,9,1000 mg,Once daily,10 days
+2735,487,50,1000 mg,Twice daily,10 days
+2749,494,29,1000 mg,Once daily,10 days
+2755,497,24,1000 mg,Once daily,10 days
+2787,512,31,1000 mg,Twice daily,10 days
+2800,518,41,1000 mg,Every 6 hours,10 days
+2815,527,30,1000 mg,Once daily,10 days
+2828,534,36,1000 mg,Every 6 hours,10 days
+2846,541,40,1000 mg,Once daily,10 days
+2876,556,4,1000 mg,Every 6 hours,10 days
+2886,562,20,1000 mg,Three times daily,10 days
+2899,568,22,1000 mg,Every 6 hours,10 days
+2915,575,48,1000 mg,Three times daily,10 days
+2942,588,31,1000 mg,Three times daily,10 days
+2953,595,1,1000 mg,Once daily,10 days
+2966,602,12,1000 mg,Every 6 hours,10 days
+2976,606,17,1000 mg,Three times daily,10 days
+2995,618,32,1000 mg,Twice daily,10 days
+3001,621,19,1000 mg,Once daily,10 days
+3013,627,28,1000 mg,Three times daily,10 days
+3017,629,39,1000 mg,Three times daily,10 days
+3063,653,44,1000 mg,Once daily,10 days
+3078,662,24,1000 mg,Once daily,10 days
+3116,681,2,1000 mg,Every 6 hours,10 days
+3131,687,29,1000 mg,Every 6 hours,10 days
+3135,689,4,1000 mg,Once daily,10 days
+3184,712,6,1000 mg,Twice daily,10 days
+3193,716,10,1000 mg,Once daily,10 days
+3196,718,19,1000 mg,Every 6 hours,10 days
+3263,755,33,1000 mg,Three times daily,10 days
+3336,791,4,1000 mg,Every 6 hours,10 days
+3353,800,3,1000 mg,Three times daily,10 days
+3378,812,31,1000 mg,Once daily,10 days
+3389,817,35,1000 mg,Twice daily,10 days
+3421,832,7,1000 mg,Once daily,10 days
+3429,836,17,1000 mg,Once daily,10 days
+3430,836,43,1000 mg,Every 6 hours,10 days
+3442,843,5,1000 mg,Three times daily,10 days
+3444,843,29,1000 mg,Twice daily,10 days
+3466,853,49,1000 mg,Three times daily,10 days
+3467,853,14,1000 mg,Three times daily,10 days
+3471,856,47,1000 mg,Once daily,10 days
+3490,866,27,1000 mg,Twice daily,10 days
+3497,870,23,1000 mg,Every 6 hours,10 days
+3503,874,43,1000 mg,Twice daily,10 days
+3523,882,40,1000 mg,Twice daily,10 days
+1783,1,34,1000 mg,Twice daily,2 weeks
+1786,2,26,1000 mg,Every 6 hours,2 weeks
+1801,9,6,1000 mg,Three times daily,2 weeks
+1808,12,4,1000 mg,Twice daily,2 weeks
+1811,14,2,1000 mg,Every 6 hours,2 weeks
+1837,26,14,1000 mg,Three times daily,2 weeks
+1841,29,14,1000 mg,Every 6 hours,2 weeks
+1850,33,47,1000 mg,Three times daily,2 weeks
+1854,34,13,1000 mg,Twice daily,2 weeks
+1861,38,45,1000 mg,Once daily,2 weeks
+1873,44,4,1000 mg,Once daily,2 weeks
+1895,56,6,1000 mg,Three times daily,2 weeks
+1920,71,6,1000 mg,Once daily,2 weeks
+1930,77,17,1000 mg,Three times daily,2 weeks
+1935,81,39,1000 mg,Every 6 hours,2 weeks
+1980,103,4,1000 mg,Three times daily,2 weeks
+1985,105,3,1000 mg,Twice daily,2 weeks
+2001,113,40,1000 mg,Twice daily,2 weeks
+2023,124,16,1000 mg,Three times daily,2 weeks
+2057,141,17,1000 mg,Twice daily,2 weeks
+2061,144,1,1000 mg,Twice daily,2 weeks
+2088,159,49,1000 mg,Twice daily,2 weeks
+2098,164,17,1000 mg,Three times daily,2 weeks
+2108,169,41,1000 mg,Every 6 hours,2 weeks
+2109,170,44,1000 mg,Every 6 hours,2 weeks
+2138,184,12,1000 mg,Every 6 hours,2 weeks
+2173,200,11,1000 mg,Once daily,2 weeks
+2194,210,29,1000 mg,Twice daily,2 weeks
+2209,219,48,1000 mg,Twice daily,2 weeks
+2230,228,33,1000 mg,Every 6 hours,2 weeks
+2274,251,6,1000 mg,Twice daily,2 weeks
+2291,259,27,1000 mg,Twice daily,2 weeks
+2319,274,50,1000 mg,Three times daily,2 weeks
+2367,297,12,1000 mg,Every 6 hours,2 weeks
+2369,298,32,1000 mg,Once daily,2 weeks
+2418,326,41,1000 mg,Three times daily,2 weeks
+2434,335,24,1000 mg,Once daily,2 weeks
+2451,344,43,1000 mg,Twice daily,2 weeks
+2474,356,31,1000 mg,Every 6 hours,2 weeks
+2475,357,40,1000 mg,Once daily,2 weeks
+2477,357,30,1000 mg,Every 6 hours,2 weeks
+2481,359,21,1000 mg,Every 6 hours,2 weeks
+2504,372,5,1000 mg,Three times daily,2 weeks
+2528,387,38,1000 mg,Every 6 hours,2 weeks
+2537,392,50,1000 mg,Once daily,2 weeks
+2541,393,7,1000 mg,Three times daily,2 weeks
+2542,393,21,1000 mg,Once daily,2 weeks
+2563,402,16,1000 mg,Once daily,2 weeks
+2570,406,15,1000 mg,Once daily,2 weeks
+2571,406,25,1000 mg,Three times daily,2 weeks
+2575,408,35,1000 mg,Three times daily,2 weeks
+2576,409,33,1000 mg,Twice daily,2 weeks
+2593,417,1,1000 mg,Twice daily,2 weeks
+2596,418,26,1000 mg,Every 6 hours,2 weeks
+2601,421,28,1000 mg,Three times daily,2 weeks
+2629,436,15,1000 mg,Twice daily,2 weeks
+2637,440,25,1000 mg,Three times daily,2 weeks
+2640,442,42,1000 mg,Twice daily,2 weeks
+2655,449,11,1000 mg,Twice daily,2 weeks
+2686,461,46,1000 mg,Once daily,2 weeks
+2691,464,27,1000 mg,Once daily,2 weeks
+2701,468,15,1000 mg,Twice daily,2 weeks
+2730,484,3,1000 mg,Once daily,2 weeks
+2733,486,42,1000 mg,Twice daily,2 weeks
+2750,494,17,1000 mg,Twice daily,2 weeks
+2788,512,21,1000 mg,Once daily,2 weeks
+2802,519,40,1000 mg,Three times daily,2 weeks
+2803,520,5,1000 mg,Every 6 hours,2 weeks
+2812,526,46,1000 mg,Twice daily,2 weeks
+2813,526,48,1000 mg,Three times daily,2 weeks
+2826,532,44,1000 mg,Every 6 hours,2 weeks
+2832,535,35,1000 mg,Twice daily,2 weeks
+2860,548,39,1000 mg,Twice daily,2 weeks
+2895,566,32,1000 mg,Three times daily,2 weeks
+2896,567,24,1000 mg,Twice daily,2 weeks
+2929,582,40,1000 mg,Every 6 hours,2 weeks
+2945,590,24,1000 mg,Once daily,2 weeks
+2985,613,45,1000 mg,Every 6 hours,2 weeks
+2994,618,28,1000 mg,Every 6 hours,2 weeks
+3025,634,41,1000 mg,Three times daily,2 weeks
+3029,636,2,1000 mg,Every 6 hours,2 weeks
+3041,642,15,1000 mg,Twice daily,2 weeks
+3053,649,4,1000 mg,Three times daily,2 weeks
+3068,657,35,1000 mg,Twice daily,2 weeks
+3073,659,8,1000 mg,Three times daily,2 weeks
+3093,671,2,1000 mg,Every 6 hours,2 weeks
+3139,692,45,1000 mg,Twice daily,2 weeks
+3147,695,2,1000 mg,Once daily,2 weeks
+3152,698,36,1000 mg,Once daily,2 weeks
+3160,701,9,1000 mg,Three times daily,2 weeks
+3168,705,16,1000 mg,Every 6 hours,2 weeks
+3179,710,23,1000 mg,Every 6 hours,2 weeks
+3187,713,20,1000 mg,Twice daily,2 weeks
+3190,714,18,1000 mg,Every 6 hours,2 weeks
+3219,733,44,1000 mg,Every 6 hours,2 weeks
+3220,734,43,1000 mg,Once daily,2 weeks
+3227,737,21,1000 mg,Once daily,2 weeks
+3235,742,42,1000 mg,Every 6 hours,2 weeks
+3253,751,49,1000 mg,Every 6 hours,2 weeks
+3256,752,44,1000 mg,Twice daily,2 weeks
+3290,766,47,1000 mg,Once daily,2 weeks
+3294,769,1,1000 mg,Twice daily,2 weeks
+3308,775,6,1000 mg,Once daily,2 weeks
+3310,776,41,1000 mg,Three times daily,2 weeks
+3327,786,27,1000 mg,Twice daily,2 weeks
+3340,793,3,1000 mg,Twice daily,2 weeks
+3370,809,2,1000 mg,Once daily,2 weeks
+3390,817,1,1000 mg,Once daily,2 weeks
+3407,825,44,1000 mg,Twice daily,2 weeks
+3414,828,30,1000 mg,Once daily,2 weeks
+3427,835,31,1000 mg,Once daily,2 weeks
+3443,843,17,1000 mg,Every 6 hours,2 weeks
+3445,844,8,1000 mg,Three times daily,2 weeks
+3449,845,3,1000 mg,Every 6 hours,2 weeks
+3452,846,27,1000 mg,Three times daily,2 weeks
+3468,854,16,1000 mg,Twice daily,2 weeks
+3484,863,46,1000 mg,Once daily,2 weeks
+3486,864,17,1000 mg,Every 6 hours,2 weeks
+3487,865,8,1000 mg,Every 6 hours,2 weeks
+3522,881,22,1000 mg,Twice daily,2 weeks
+3531,885,27,1000 mg,Once daily,2 weeks
+3558,900,1,1000 mg,Once daily,2 weeks
+3560,901,24,1000 mg,Every 6 hours,2 weeks
+1781,1,3,1000 mg,Once daily,7 days
+1822,19,42,1000 mg,Every 6 hours,7 days
+1836,25,5,1000 mg,Twice daily,7 days
+1845,31,13,1000 mg,Twice daily,7 days
+1872,43,13,1000 mg,Every 6 hours,7 days
+1888,52,50,1000 mg,Every 6 hours,7 days
+1903,61,31,1000 mg,Every 6 hours,7 days
+1907,63,13,1000 mg,Once daily,7 days
+1915,67,19,1000 mg,Twice daily,7 days
+1928,76,23,1000 mg,Twice daily,7 days
+1939,83,30,1000 mg,Once daily,7 days
+1943,85,5,1000 mg,Once daily,7 days
+1958,93,9,1000 mg,Once daily,7 days
+1972,100,19,1000 mg,Once daily,7 days
+1986,105,36,1000 mg,Three times daily,7 days
+1999,112,40,1000 mg,Three times daily,7 days
+2029,126,43,1000 mg,Twice daily,7 days
+2041,134,8,1000 mg,Every 6 hours,7 days
+2053,140,13,1000 mg,Twice daily,7 days
+2083,155,27,1000 mg,Three times daily,7 days
+2105,167,34,1000 mg,Every 6 hours,7 days
+2112,171,19,1000 mg,Twice daily,7 days
+2113,172,22,1000 mg,Every 6 hours,7 days
+2114,172,10,1000 mg,Once daily,7 days
+2115,173,44,1000 mg,Every 6 hours,7 days
+2132,182,2,1000 mg,Every 6 hours,7 days
+2164,196,38,1000 mg,Once daily,7 days
+2167,197,37,1000 mg,Every 6 hours,7 days
+2180,203,38,1000 mg,Once daily,7 days
+2196,211,35,1000 mg,Three times daily,7 days
+2208,218,7,1000 mg,Once daily,7 days
+2210,219,41,1000 mg,Three times daily,7 days
+2216,222,35,1000 mg,Once daily,7 days
+2227,226,23,1000 mg,Three times daily,7 days
+2233,230,1,1000 mg,Every 6 hours,7 days
+2266,247,6,1000 mg,Twice daily,7 days
+2273,250,24,1000 mg,Three times daily,7 days
+2275,251,32,1000 mg,Three times daily,7 days
+2280,254,40,1000 mg,Twice daily,7 days
+2281,255,5,1000 mg,Once daily,7 days
+2285,256,45,1000 mg,Twice daily,7 days
+2309,268,25,1000 mg,Twice daily,7 days
+2339,282,23,1000 mg,Twice daily,7 days
+2340,283,37,1000 mg,Three times daily,7 days
+2353,290,48,1000 mg,Three times daily,7 days
+2359,293,46,1000 mg,Twice daily,7 days
+2390,310,15,1000 mg,Three times daily,7 days
+2393,311,44,1000 mg,Twice daily,7 days
+2395,313,30,1000 mg,Twice daily,7 days
+2438,337,28,1000 mg,Twice daily,7 days
+2453,346,39,1000 mg,Three times daily,7 days
+2457,349,23,1000 mg,Three times daily,7 days
+2493,367,12,1000 mg,Three times daily,7 days
+2499,369,16,1000 mg,Once daily,7 days
+2514,377,18,1000 mg,Three times daily,7 days
+2520,381,8,1000 mg,Three times daily,7 days
+2553,398,11,1000 mg,Twice daily,7 days
+2555,399,17,1000 mg,Three times daily,7 days
+2569,406,5,1000 mg,Once daily,7 days
+2594,418,46,1000 mg,Twice daily,7 days
+2597,419,1,1000 mg,Once daily,7 days
+2630,436,48,1000 mg,Three times daily,7 days
+2666,453,12,1000 mg,Every 6 hours,7 days
+2678,459,46,1000 mg,Twice daily,7 days
+2679,459,40,1000 mg,Three times daily,7 days
+2683,460,15,1000 mg,Once daily,7 days
+2689,463,35,1000 mg,Once daily,7 days
+2703,469,37,1000 mg,Twice daily,7 days
+2707,471,17,1000 mg,Once daily,7 days
+2711,473,34,1000 mg,Three times daily,7 days
+2761,499,31,1000 mg,Every 6 hours,7 days
+2766,502,39,1000 mg,Three times daily,7 days
+2768,503,45,1000 mg,Twice daily,7 days
+2780,509,7,1000 mg,Every 6 hours,7 days
+2794,515,28,1000 mg,Three times daily,7 days
+2824,531,26,1000 mg,Every 6 hours,7 days
+2851,543,7,1000 mg,Twice daily,7 days
+2856,545,46,1000 mg,Twice daily,7 days
+2904,570,45,1000 mg,Once daily,7 days
+2916,575,27,1000 mg,Once daily,7 days
+2936,585,29,1000 mg,Once daily,7 days
+2950,592,21,1000 mg,Every 6 hours,7 days
+2954,596,40,1000 mg,Every 6 hours,7 days
+2959,598,36,1000 mg,Twice daily,7 days
+3005,623,31,1000 mg,Three times daily,7 days
+3009,625,16,1000 mg,Once daily,7 days
+3035,640,41,1000 mg,Twice daily,7 days
+3036,640,18,1000 mg,Once daily,7 days
+3056,650,20,1000 mg,Twice daily,7 days
+3058,651,20,1000 mg,Three times daily,7 days
+3066,656,24,1000 mg,Twice daily,7 days
+3095,672,47,1000 mg,Three times daily,7 days
+3105,676,24,1000 mg,Twice daily,7 days
+3112,680,45,1000 mg,Once daily,7 days
+3143,693,20,1000 mg,Twice daily,7 days
+3175,708,49,1000 mg,Three times daily,7 days
+3181,711,1,1000 mg,Twice daily,7 days
+3185,712,32,1000 mg,Every 6 hours,7 days
+3205,725,17,1000 mg,Three times daily,7 days
+3208,726,21,1000 mg,Three times daily,7 days
+3233,741,26,1000 mg,Once daily,7 days
+3240,745,21,1000 mg,Every 6 hours,7 days
+3242,746,33,1000 mg,Every 6 hours,7 days
+3267,757,17,1000 mg,Three times daily,7 days
+3269,757,43,1000 mg,Every 6 hours,7 days
+3293,768,26,1000 mg,Three times daily,7 days
+3306,775,2,1000 mg,Three times daily,7 days
+3321,783,4,1000 mg,Once daily,7 days
+3324,784,48,1000 mg,Once daily,7 days
+3348,798,4,1000 mg,Twice daily,7 days
+3365,805,6,1000 mg,Three times daily,7 days
+3374,810,1,1000 mg,Every 6 hours,7 days
+3379,812,5,1000 mg,Twice daily,7 days
+3395,819,37,1000 mg,Every 6 hours,7 days
+3396,820,11,1000 mg,Once daily,7 days
+3419,831,27,1000 mg,Once daily,7 days
+3432,838,1,1000 mg,Three times daily,7 days
+3440,842,20,1000 mg,Once daily,7 days
+3441,842,47,1000 mg,Every 6 hours,7 days
+3457,848,25,1000 mg,Every 6 hours,7 days
+3492,868,45,1000 mg,Three times daily,7 days
+3496,870,45,1000 mg,Every 6 hours,7 days
+3507,875,38,1000 mg,Twice daily,7 days
+3519,880,39,1000 mg,Every 6 hours,7 days
+3524,882,3,1000 mg,Once daily,7 days
+3530,885,48,1000 mg,Once daily,7 days
+3535,888,23,1000 mg,Every 6 hours,7 days
+3548,896,48,1000 mg,Three times daily,7 days
+3554,899,41,1000 mg,Once daily,7 days
+1784,2,21,1000 mg,Once daily,5 days
+1787,3,7,1000 mg,Twice daily,5 days
+1790,4,22,1000 mg,Twice daily,5 days
+1799,8,44,1000 mg,Once daily,5 days
+1809,12,38,1000 mg,Twice daily,5 days
+1812,15,10,1000 mg,Three times daily,5 days
+1829,23,40,1000 mg,Once daily,5 days
+1831,24,6,1000 mg,Once daily,5 days
+1846,31,36,1000 mg,Every 6 hours,5 days
+1849,32,36,1000 mg,Twice daily,5 days
+1852,33,8,1000 mg,Once daily,5 days
+1934,80,36,1000 mg,Once daily,5 days
+1947,87,13,1000 mg,Three times daily,5 days
+1952,89,26,1000 mg,Once daily,5 days
+1959,93,46,1000 mg,Once daily,5 days
+1962,95,38,1000 mg,Once daily,5 days
+1995,110,36,1000 mg,Once daily,5 days
+2038,132,20,1000 mg,Once daily,5 days
+2042,135,26,1000 mg,Three times daily,5 days
+2047,137,19,1000 mg,Every 6 hours,5 days
+2049,138,2,1000 mg,Three times daily,5 days
+2055,140,33,1000 mg,Three times daily,5 days
+2056,141,9,1000 mg,Three times daily,5 days
+2085,157,14,1000 mg,Three times daily,5 days
+2128,180,44,1000 mg,Twice daily,5 days
+2145,187,35,1000 mg,Three times daily,5 days
+2147,188,43,1000 mg,Three times daily,5 days
+2150,190,46,1000 mg,Three times daily,5 days
+2155,192,39,1000 mg,Three times daily,5 days
+2157,194,40,1000 mg,Three times daily,5 days
+2158,194,27,1000 mg,Twice daily,5 days
+2159,194,13,1000 mg,Three times daily,5 days
+2169,198,49,1000 mg,Twice daily,5 days
+2172,199,15,1000 mg,Three times daily,5 days
+2197,211,34,1000 mg,Once daily,5 days
+2207,217,35,1000 mg,Every 6 hours,5 days
+2246,236,47,1000 mg,Every 6 hours,5 days
+2254,241,45,1000 mg,Every 6 hours,5 days
+2263,245,17,1000 mg,Three times daily,5 days
+2272,250,32,1000 mg,Every 6 hours,5 days
+2296,261,5,1000 mg,Twice daily,5 days
+2300,263,16,1000 mg,Every 6 hours,5 days
+2310,268,49,1000 mg,Three times daily,5 days
+2311,269,16,1000 mg,Once daily,5 days
+2327,276,9,1000 mg,Three times daily,5 days
+2330,277,29,1000 mg,Twice daily,5 days
+2404,317,25,1000 mg,Three times daily,5 days
+2421,327,11,1000 mg,Twice daily,5 days
+2430,333,19,1000 mg,Twice daily,5 days
+2435,336,40,1000 mg,Once daily,5 days
+2449,344,3,1000 mg,Twice daily,5 days
+2459,350,40,1000 mg,Three times daily,5 days
+2485,362,40,1000 mg,Every 6 hours,5 days
+2517,380,26,1000 mg,Three times daily,5 days
+2521,382,31,1000 mg,Twice daily,5 days
+2531,389,19,1000 mg,Twice daily,5 days
+2543,394,1,1000 mg,Twice daily,5 days
+2554,399,10,1000 mg,Every 6 hours,5 days
+2564,403,22,1000 mg,Once daily,5 days
+2568,405,47,1000 mg,Twice daily,5 days
+2573,408,23,1000 mg,Every 6 hours,5 days
+2574,408,6,1000 mg,Three times daily,5 days
+2583,414,7,1000 mg,Once daily,5 days
+2614,430,39,1000 mg,Every 6 hours,5 days
+2616,431,30,1000 mg,Three times daily,5 days
+2652,447,25,1000 mg,Three times daily,5 days
+2657,450,17,1000 mg,Every 6 hours,5 days
+2704,469,5,1000 mg,Every 6 hours,5 days
+2709,472,1,1000 mg,Every 6 hours,5 days
+2741,489,46,1000 mg,Once daily,5 days
+2747,492,6,1000 mg,Once daily,5 days
+2762,500,34,1000 mg,Twice daily,5 days
+2769,503,23,1000 mg,Three times daily,5 days
+2786,512,20,1000 mg,Every 6 hours,5 days
+2793,515,18,1000 mg,Once daily,5 days
+2808,523,6,1000 mg,Twice daily,5 days
+2835,536,40,1000 mg,Once daily,5 days
+2841,539,38,1000 mg,Twice daily,5 days
+2866,551,35,1000 mg,Twice daily,5 days
+2878,557,49,1000 mg,Once daily,5 days
+2882,560,39,1000 mg,Once daily,5 days
+2894,566,1,1000 mg,Once daily,5 days
+2900,568,10,1000 mg,Once daily,5 days
+2901,568,16,1000 mg,Once daily,5 days
+2922,578,35,1000 mg,Once daily,5 days
+2923,578,33,1000 mg,Every 6 hours,5 days
+2939,587,17,1000 mg,Every 6 hours,5 days
+2943,589,2,1000 mg,Three times daily,5 days
+2951,593,33,1000 mg,Once daily,5 days
+2969,603,28,1000 mg,Twice daily,5 days
+3057,650,42,1000 mg,Three times daily,5 days
+3070,658,43,1000 mg,Three times daily,5 days
+3077,661,20,1000 mg,Once daily,5 days
+3083,665,22,1000 mg,Three times daily,5 days
+3113,680,16,1000 mg,Twice daily,5 days
+3120,683,10,1000 mg,Once daily,5 days
+3123,684,34,1000 mg,Three times daily,5 days
+3129,687,23,1000 mg,Twice daily,5 days
+3141,693,18,1000 mg,Once daily,5 days
+3164,703,34,1000 mg,Every 6 hours,5 days
+3169,705,24,1000 mg,Twice daily,5 days
+3173,707,34,1000 mg,Three times daily,5 days
+3177,709,20,1000 mg,Twice daily,5 days
+3188,713,24,1000 mg,Twice daily,5 days
+3195,717,41,1000 mg,Twice daily,5 days
+3203,723,35,1000 mg,Twice daily,5 days
+3206,725,16,1000 mg,Once daily,5 days
+3217,731,25,1000 mg,Once daily,5 days
+3264,756,20,1000 mg,Three times daily,5 days
+3282,763,30,1000 mg,Twice daily,5 days
+3305,774,2,1000 mg,Every 6 hours,5 days
+3309,776,18,1000 mg,Twice daily,5 days
+3323,783,20,1000 mg,Once daily,5 days
+3332,789,32,1000 mg,Once daily,5 days
+3335,791,41,1000 mg,Three times daily,5 days
+3354,800,27,1000 mg,Once daily,5 days
+3364,805,19,1000 mg,Three times daily,5 days
+3369,808,23,1000 mg,Once daily,5 days
+3380,813,18,1000 mg,Once daily,5 days
+3382,814,45,1000 mg,Three times daily,5 days
+3401,823,42,1000 mg,Three times daily,5 days
+3408,826,16,1000 mg,Twice daily,5 days
+3409,826,46,1000 mg,Twice daily,5 days
+3412,828,4,1000 mg,Twice daily,5 days
+3415,829,8,1000 mg,Once daily,5 days
+3416,829,30,1000 mg,Three times daily,5 days
+3423,833,27,1000 mg,Every 6 hours,5 days
+3425,834,22,1000 mg,Twice daily,5 days
+3437,840,37,1000 mg,Twice daily,5 days
+3438,841,44,1000 mg,Three times daily,5 days
+3448,845,28,1000 mg,Twice daily,5 days
+3450,846,13,1000 mg,Once daily,5 days
+3481,862,7,1000 mg,Three times daily,5 days
+3489,865,1,1000 mg,Every 6 hours,5 days
+3495,869,14,1000 mg,Twice daily,5 days
+3509,876,5,1000 mg,Every 6 hours,5 days
+3516,879,21,1000 mg,Every 6 hours,5 days
+3533,886,16,1000 mg,Twice daily,5 days
+3538,890,20,1000 mg,Twice daily,5 days
+3545,894,8,1000 mg,Three times daily,5 days
+3550,897,25,1000 mg,Every 6 hours,5 days
+1788,3,35,250 mg,Once daily,7 days
+1835,25,16,250 mg,Every 6 hours,7 days
+1860,38,20,250 mg,Twice daily,7 days
+1862,39,36,250 mg,Three times daily,7 days
+1870,42,42,250 mg,Twice daily,7 days
+1877,46,29,250 mg,Three times daily,7 days
+1886,51,34,250 mg,Three times daily,7 days
+1898,58,16,250 mg,Three times daily,7 days
+1909,65,43,250 mg,Once daily,7 days
+1919,71,25,250 mg,Three times daily,7 days
+1925,74,45,250 mg,Three times daily,7 days
+1938,82,25,250 mg,Once daily,7 days
+1967,97,48,250 mg,Twice daily,7 days
+1971,99,45,250 mg,Once daily,7 days
+1978,102,31,250 mg,Once daily,7 days
+1988,107,48,250 mg,Every 6 hours,7 days
+1989,108,43,250 mg,Three times daily,7 days
+2000,112,15,250 mg,Three times daily,7 days
+2007,116,7,250 mg,Once daily,7 days
+2008,117,7,250 mg,Every 6 hours,7 days
+2016,120,35,250 mg,Every 6 hours,7 days
+2025,124,48,250 mg,Three times daily,7 days
+2031,127,49,250 mg,Every 6 hours,7 days
+2045,136,37,250 mg,Once daily,7 days
+2054,140,50,250 mg,Twice daily,7 days
+2065,145,32,250 mg,Every 6 hours,7 days
+2072,148,8,250 mg,Every 6 hours,7 days
+2086,158,26,250 mg,Twice daily,7 days
+2119,177,9,250 mg,Three times daily,7 days
+2182,204,41,250 mg,Twice daily,7 days
+2199,212,34,250 mg,Every 6 hours,7 days
+2203,214,11,250 mg,Twice daily,7 days
+2204,215,31,250 mg,Every 6 hours,7 days
+2223,224,15,250 mg,Three times daily,7 days
+2237,232,6,250 mg,Once daily,7 days
+2241,234,44,250 mg,Once daily,7 days
+2250,239,39,250 mg,Every 6 hours,7 days
+2257,242,28,250 mg,Once daily,7 days
+2261,244,38,250 mg,Once daily,7 days
+2276,252,6,250 mg,Once daily,7 days
+2278,253,23,250 mg,Twice daily,7 days
+2320,274,17,250 mg,Once daily,7 days
+2346,286,17,250 mg,Twice daily,7 days
+2361,294,27,250 mg,Three times daily,7 days
+2375,302,11,250 mg,Every 6 hours,7 days
+2394,312,24,250 mg,Once daily,7 days
+2419,326,7,250 mg,Three times daily,7 days
+2422,327,20,250 mg,Three times daily,7 days
+2423,328,1,250 mg,Every 6 hours,7 days
+2447,342,49,250 mg,Twice daily,7 days
+2486,363,5,250 mg,Three times daily,7 days
+2497,368,4,250 mg,Once daily,7 days
+2530,388,43,250 mg,Twice daily,7 days
+2533,390,14,250 mg,Three times daily,7 days
+2549,396,43,250 mg,Three times daily,7 days
+2565,404,48,250 mg,Once daily,7 days
+2606,425,7,250 mg,Once daily,7 days
+2620,432,3,250 mg,Every 6 hours,7 days
+2621,433,35,250 mg,Twice daily,7 days
+2671,456,42,250 mg,Once daily,7 days
+2693,465,23,250 mg,Twice daily,7 days
+2710,472,15,250 mg,Every 6 hours,7 days
+2719,477,34,250 mg,Three times daily,7 days
+2728,483,5,250 mg,Every 6 hours,7 days
+2731,484,30,250 mg,Once daily,7 days
+2782,510,6,250 mg,Every 6 hours,7 days
+2783,511,23,250 mg,Every 6 hours,7 days
+2818,529,13,250 mg,Every 6 hours,7 days
+2825,532,16,250 mg,Three times daily,7 days
+2844,540,15,250 mg,Twice daily,7 days
+2849,542,7,250 mg,Once daily,7 days
+2852,544,38,250 mg,Twice daily,7 days
+2853,544,37,250 mg,Once daily,7 days
+2868,552,14,250 mg,Once daily,7 days
+2912,573,42,250 mg,Every 6 hours,7 days
+2913,574,48,250 mg,Every 6 hours,7 days
+2926,580,26,250 mg,Three times daily,7 days
+2935,585,12,250 mg,Once daily,7 days
+2944,589,4,250 mg,Once daily,7 days
+2946,590,29,250 mg,Every 6 hours,7 days
+2960,598,37,250 mg,Every 6 hours,7 days
+2961,598,34,250 mg,Once daily,7 days
+2970,604,35,250 mg,Three times daily,7 days
+2974,605,3,250 mg,Three times daily,7 days
+2982,611,14,250 mg,Every 6 hours,7 days
+3007,624,50,250 mg,Once daily,7 days
+3011,626,16,250 mg,Twice daily,7 days
+3014,628,6,250 mg,Every 6 hours,7 days
+3047,645,7,250 mg,Three times daily,7 days
+3074,659,10,250 mg,Every 6 hours,7 days
+3092,670,39,250 mg,Twice daily,7 days
+3098,673,25,250 mg,Once daily,7 days
+3101,675,9,250 mg,Twice daily,7 days
+3104,676,39,250 mg,Three times daily,7 days
+3138,691,43,250 mg,Every 6 hours,7 days
+3222,735,2,250 mg,Twice daily,7 days
+3232,740,16,250 mg,Once daily,7 days
+3248,749,17,250 mg,Three times daily,7 days
+3272,759,47,250 mg,Every 6 hours,7 days
+3274,760,18,250 mg,Every 6 hours,7 days
+3280,762,39,250 mg,Three times daily,7 days
+3298,771,47,250 mg,Every 6 hours,7 days
+3314,778,31,250 mg,Three times daily,7 days
+3344,795,36,250 mg,Three times daily,7 days
+3351,799,21,250 mg,Once daily,7 days
+3356,801,15,250 mg,Three times daily,7 days
+3383,815,22,250 mg,Three times daily,7 days
+3392,818,6,250 mg,Every 6 hours,7 days
+3417,830,22,250 mg,Once daily,7 days
+3435,840,4,250 mg,Three times daily,7 days
+3456,848,11,250 mg,Every 6 hours,7 days
+3469,855,39,250 mg,Once daily,7 days
+3472,857,45,250 mg,Twice daily,7 days
+3477,859,50,250 mg,Once daily,7 days
+3485,863,17,250 mg,Twice daily,7 days
+3499,872,14,250 mg,Every 6 hours,7 days
+3502,873,47,250 mg,Twice daily,7 days
+3506,875,1,250 mg,Three times daily,7 days
+3514,878,3,250 mg,Twice daily,7 days
+3521,881,50,250 mg,Every 6 hours,7 days
+1794,6,14,250 mg,Three times daily,10 days
+1795,6,43,250 mg,Twice daily,10 days
+1798,8,12,250 mg,Every 6 hours,10 days
+1814,15,18,250 mg,Twice daily,10 days
+1830,23,1,250 mg,Twice daily,10 days
+1857,36,3,250 mg,Once daily,10 days
+1864,40,17,250 mg,Twice daily,10 days
+1867,41,8,250 mg,Once daily,10 days
+1874,45,6,250 mg,Once daily,10 days
+1916,68,18,250 mg,Three times daily,10 days
+1940,83,14,250 mg,Every 6 hours,10 days
+1956,92,8,250 mg,Once daily,10 days
+1976,102,21,250 mg,Once daily,10 days
+1987,106,37,250 mg,Three times daily,10 days
+2003,115,43,250 mg,Every 6 hours,10 days
+2013,119,39,250 mg,Every 6 hours,10 days
+2020,123,46,250 mg,Once daily,10 days
+2022,123,23,250 mg,Twice daily,10 days
+2060,144,25,250 mg,Three times daily,10 days
+2110,170,3,250 mg,Once daily,10 days
+2122,178,26,250 mg,Once daily,10 days
+2134,182,24,250 mg,Three times daily,10 days
+2188,207,10,250 mg,Once daily,10 days
+2190,208,42,250 mg,Once daily,10 days
+2192,209,4,250 mg,Twice daily,10 days
+2228,227,46,250 mg,Once daily,10 days
+2252,239,28,250 mg,Three times daily,10 days
+2259,243,33,250 mg,Twice daily,10 days
+2308,267,14,250 mg,Once daily,10 days
+2312,269,45,250 mg,Every 6 hours,10 days
+2316,271,37,250 mg,Twice daily,10 days
+2336,281,7,250 mg,Every 6 hours,10 days
+2349,288,50,250 mg,Every 6 hours,10 days
+2408,321,12,250 mg,Once daily,10 days
+2433,335,11,250 mg,Every 6 hours,10 days
+2445,340,44,250 mg,Every 6 hours,10 days
+2458,350,39,250 mg,Three times daily,10 days
+2461,351,30,250 mg,Every 6 hours,10 days
+2469,354,45,250 mg,Twice daily,10 days
+2492,366,44,250 mg,Three times daily,10 days
+2495,367,30,250 mg,Every 6 hours,10 days
+2496,368,15,250 mg,Every 6 hours,10 days
+2502,370,9,250 mg,Three times daily,10 days
+2577,409,1,250 mg,Every 6 hours,10 days
+2582,413,48,250 mg,Three times daily,10 days
+2612,428,21,250 mg,Twice daily,10 days
+2658,450,16,250 mg,Once daily,10 days
+2662,451,9,250 mg,Every 6 hours,10 days
+2663,452,22,250 mg,Twice daily,10 days
+2680,459,17,250 mg,Three times daily,10 days
+2685,461,19,250 mg,Once daily,10 days
+2696,466,4,250 mg,Once daily,10 days
+2712,474,2,250 mg,Three times daily,10 days
+2716,476,11,250 mg,Three times daily,10 days
+2734,486,36,250 mg,Three times daily,10 days
+2737,487,20,250 mg,Twice daily,10 days
+2738,488,18,250 mg,Three times daily,10 days
+2740,489,7,250 mg,Once daily,10 days
+2753,495,6,250 mg,Every 6 hours,10 days
+2758,498,12,250 mg,Twice daily,10 days
+2789,513,32,250 mg,Every 6 hours,10 days
+2811,525,33,250 mg,Three times daily,10 days
+2816,527,36,250 mg,Three times daily,10 days
+2820,530,38,250 mg,Every 6 hours,10 days
+2839,538,25,250 mg,Twice daily,10 days
+2850,542,14,250 mg,Every 6 hours,10 days
+2871,554,39,250 mg,Once daily,10 days
+2885,562,13,250 mg,Three times daily,10 days
+2888,563,11,250 mg,Three times daily,10 days
+2890,564,18,250 mg,Every 6 hours,10 days
+2908,571,49,250 mg,Every 6 hours,10 days
+2924,579,22,250 mg,Three times daily,10 days
+2928,582,18,250 mg,Twice daily,10 days
+2934,584,12,250 mg,Twice daily,10 days
+2940,587,39,250 mg,Three times daily,10 days
+2948,591,14,250 mg,Once daily,10 days
+2978,608,22,250 mg,Once daily,10 days
+2984,612,43,250 mg,Twice daily,10 days
+2988,615,9,250 mg,Every 6 hours,10 days
+3012,626,25,250 mg,Twice daily,10 days
+3019,630,3,250 mg,Twice daily,10 days
+3027,635,6,250 mg,Twice daily,10 days
+3038,641,34,250 mg,Every 6 hours,10 days
+3062,653,21,250 mg,Twice daily,10 days
+3072,659,34,250 mg,Once daily,10 days
+3075,660,33,250 mg,Once daily,10 days
+3099,674,18,250 mg,Twice daily,10 days
+3109,679,31,250 mg,Once daily,10 days
+3110,679,34,250 mg,Three times daily,10 days
+3180,711,29,250 mg,Twice daily,10 days
+3192,716,47,250 mg,Twice daily,10 days
+3197,718,12,250 mg,Three times daily,10 days
+3214,730,33,250 mg,Every 6 hours,10 days
+3215,730,18,250 mg,Every 6 hours,10 days
+3241,746,38,250 mg,Twice daily,10 days
+3249,750,15,250 mg,Twice daily,10 days
+3277,761,19,250 mg,Twice daily,10 days
+3292,767,23,250 mg,Once daily,10 days
+3350,799,17,250 mg,Once daily,10 days
+3352,799,47,250 mg,Twice daily,10 days
+3391,817,43,250 mg,Once daily,10 days
+3397,821,15,250 mg,Twice daily,10 days
+3411,827,24,250 mg,Three times daily,10 days
+3431,837,46,250 mg,Every 6 hours,10 days
+3451,846,12,250 mg,Once daily,10 days
+3453,847,2,250 mg,Twice daily,10 days
+3459,849,8,250 mg,Three times daily,10 days
+3460,850,14,250 mg,Three times daily,10 days
+3465,852,17,250 mg,Three times daily,10 days
+3476,859,42,250 mg,Three times daily,10 days
+3478,860,24,250 mg,Once daily,10 days
+3510,876,7,250 mg,Every 6 hours,10 days
+3512,877,35,250 mg,Once daily,10 days
+3534,887,50,250 mg,Every 6 hours,10 days
+3544,893,3,250 mg,Three times daily,10 days
+3557,900,8,250 mg,Every 6 hours,10 days
+1797,7,34,250 mg,Every 6 hours,1 month
+1803,10,45,250 mg,Twice daily,1 month
+1820,19,20,250 mg,Once daily,1 month
+1824,21,41,250 mg,Once daily,1 month
+1833,24,46,250 mg,Every 6 hours,1 month
+1840,28,3,250 mg,Every 6 hours,1 month
+1848,32,9,250 mg,Twice daily,1 month
+1855,35,40,250 mg,Three times daily,1 month
+1882,48,45,250 mg,Every 6 hours,1 month
+1896,57,48,250 mg,Three times daily,1 month
+1902,60,17,250 mg,Every 6 hours,1 month
+1906,63,22,250 mg,Three times daily,1 month
+1911,65,4,250 mg,Once daily,1 month
+1918,70,43,250 mg,Every 6 hours,1 month
+1957,92,33,250 mg,Once daily,1 month
+2035,129,6,250 mg,Every 6 hours,1 month
+2036,130,15,250 mg,Three times daily,1 month
+2051,139,43,250 mg,Every 6 hours,1 month
+2073,149,31,250 mg,Every 6 hours,1 month
+2082,154,2,250 mg,Every 6 hours,1 month
+2118,176,20,250 mg,Twice daily,1 month
+2142,185,48,250 mg,Once daily,1 month
+2152,190,1,250 mg,Once daily,1 month
+2156,193,9,250 mg,Every 6 hours,1 month
+2178,202,1,250 mg,Once daily,1 month
+2202,213,24,250 mg,Once daily,1 month
+2205,216,31,250 mg,Every 6 hours,1 month
+2206,216,21,250 mg,Once daily,1 month
+2229,228,11,250 mg,Twice daily,1 month
+2232,229,25,250 mg,Three times daily,1 month
+2258,242,16,250 mg,Every 6 hours,1 month
+2294,260,4,250 mg,Every 6 hours,1 month
+2307,266,30,250 mg,Once daily,1 month
+2321,274,38,250 mg,Three times daily,1 month
+2331,278,8,250 mg,Every 6 hours,1 month
+2342,284,33,250 mg,Twice daily,1 month
+2344,285,13,250 mg,Every 6 hours,1 month
+2350,288,49,250 mg,Every 6 hours,1 month
+2382,306,38,250 mg,Three times daily,1 month
+2410,322,29,250 mg,Once daily,1 month
+2411,322,31,250 mg,Once daily,1 month
+2415,324,22,250 mg,Twice daily,1 month
+2456,349,35,250 mg,Three times daily,1 month
+2466,353,29,250 mg,Every 6 hours,1 month
+2482,360,29,250 mg,Every 6 hours,1 month
+2511,376,7,250 mg,Twice daily,1 month
+2523,384,11,250 mg,Twice daily,1 month
+2524,385,5,250 mg,Twice daily,1 month
+2538,392,44,250 mg,Once daily,1 month
+2550,397,12,250 mg,Three times daily,1 month
+2558,400,38,250 mg,Once daily,1 month
+2580,412,13,250 mg,Once daily,1 month
+2604,423,3,250 mg,Once daily,1 month
+2607,425,30,250 mg,Every 6 hours,1 month
+2619,432,20,250 mg,Twice daily,1 month
+2622,433,6,250 mg,Twice daily,1 month
+2625,434,32,250 mg,Every 6 hours,1 month
+2638,440,2,250 mg,Once daily,1 month
+2673,457,9,250 mg,Every 6 hours,1 month
+2717,476,31,250 mg,Once daily,1 month
+2725,481,36,250 mg,Once daily,1 month
+2729,484,9,250 mg,Three times daily,1 month
+2743,490,20,250 mg,Three times daily,1 month
+2775,507,44,250 mg,Twice daily,1 month
+2776,507,27,250 mg,Every 6 hours,1 month
+2781,509,17,250 mg,Twice daily,1 month
+2806,522,22,250 mg,Three times daily,1 month
+2840,538,33,250 mg,Every 6 hours,1 month
+2842,539,27,250 mg,Twice daily,1 month
+2854,545,3,250 mg,Once daily,1 month
+2881,559,49,250 mg,Every 6 hours,1 month
+2897,567,26,250 mg,Once daily,1 month
+2920,577,44,250 mg,Once daily,1 month
+2931,583,14,250 mg,Twice daily,1 month
+2938,586,48,250 mg,Once daily,1 month
+2952,594,37,250 mg,Twice daily,1 month
+2957,597,10,250 mg,Once daily,1 month
+2958,597,1,250 mg,Twice daily,1 month
+2971,604,40,250 mg,Three times daily,1 month
+2975,605,31,250 mg,Three times daily,1 month
+3008,625,43,250 mg,Every 6 hours,1 month
+3030,637,50,250 mg,Once daily,1 month
+3037,640,3,250 mg,Once daily,1 month
+3045,644,25,250 mg,Once daily,1 month
+3086,667,24,250 mg,Once daily,1 month
+3149,696,36,250 mg,Once daily,1 month
+3162,703,24,250 mg,Twice daily,1 month
+3170,706,46,250 mg,Three times daily,1 month
+3176,708,39,250 mg,Once daily,1 month
+3183,712,2,250 mg,Three times daily,1 month
+3189,714,19,250 mg,Every 6 hours,1 month
+3202,722,21,250 mg,Every 6 hours,1 month
+3210,728,27,250 mg,Twice daily,1 month
+3224,736,27,250 mg,Every 6 hours,1 month
+3237,744,16,250 mg,Every 6 hours,1 month
+3252,751,48,250 mg,Three times daily,1 month
+3275,760,29,250 mg,Three times daily,1 month
+3295,769,45,250 mg,Three times daily,1 month
+3307,775,34,250 mg,Twice daily,1 month
+3322,783,29,250 mg,Once daily,1 month
+3328,786,34,250 mg,Every 6 hours,1 month
+3343,794,50,250 mg,Every 6 hours,1 month
+3358,802,4,250 mg,Twice daily,1 month
+3366,806,23,250 mg,Twice daily,1 month
+3399,822,12,250 mg,Three times daily,1 month
+3420,831,48,250 mg,Once daily,1 month
+3479,860,46,250 mg,Every 6 hours,1 month
+3504,874,25,250 mg,Every 6 hours,1 month
+3508,876,12,250 mg,Every 6 hours,1 month
+3528,884,19,250 mg,Three times daily,1 month
+3529,885,24,250 mg,Once daily,1 month
+3541,892,22,250 mg,Once daily,1 month
+3542,893,22,250 mg,Twice daily,1 month
+3547,895,2,250 mg,Twice daily,1 month
+1785,2,12,250 mg,Once daily,2 weeks
+1804,11,29,250 mg,Once daily,2 weeks
+1881,48,4,250 mg,Three times daily,2 weeks
+1883,49,10,250 mg,Every 6 hours,2 weeks
+1885,50,40,250 mg,Twice daily,2 weeks
+1905,63,18,250 mg,Once daily,2 weeks
+1924,73,5,250 mg,Once daily,2 weeks
+1941,84,7,250 mg,Every 6 hours,2 weeks
+1966,97,13,250 mg,Every 6 hours,2 weeks
+1968,98,34,250 mg,Three times daily,2 weeks
+2019,122,47,250 mg,Once daily,2 weeks
+2037,131,16,250 mg,Every 6 hours,2 weeks
+2074,150,38,250 mg,Every 6 hours,2 weeks
+2077,151,49,250 mg,Twice daily,2 weeks
+2079,153,43,250 mg,Once daily,2 weeks
+2089,159,47,250 mg,Once daily,2 weeks
+2097,164,20,250 mg,Twice daily,2 weeks
+2141,185,38,250 mg,Every 6 hours,2 weeks
+2149,189,40,250 mg,Three times daily,2 weeks
+2165,196,10,250 mg,Once daily,2 weeks
+2175,201,42,250 mg,Twice daily,2 weeks
+2176,201,37,250 mg,Every 6 hours,2 weeks
+2184,204,14,250 mg,Three times daily,2 weeks
+2193,210,27,250 mg,Every 6 hours,2 weeks
+2198,211,47,250 mg,Once daily,2 weeks
+2240,234,39,250 mg,Every 6 hours,2 weeks
+2243,235,28,250 mg,Every 6 hours,2 weeks
+2290,258,43,250 mg,Three times daily,2 weeks
+2295,260,42,250 mg,Every 6 hours,2 weeks
+2302,264,11,250 mg,Three times daily,2 weeks
+2360,293,15,250 mg,Twice daily,2 weeks
+2362,295,11,250 mg,Twice daily,2 weeks
+2383,306,30,250 mg,Twice daily,2 weeks
+2428,331,17,250 mg,Twice daily,2 weeks
+2432,334,7,250 mg,Every 6 hours,2 weeks
+2442,338,8,250 mg,Three times daily,2 weeks
+2443,339,28,250 mg,Twice daily,2 weeks
+2454,347,43,250 mg,Twice daily,2 weeks
+2464,352,29,250 mg,Three times daily,2 weeks
+2503,371,41,250 mg,Twice daily,2 weeks
+2512,376,50,250 mg,Every 6 hours,2 weeks
+2513,376,40,250 mg,Once daily,2 weeks
+2535,391,5,250 mg,Once daily,2 weeks
+2539,392,25,250 mg,Three times daily,2 weeks
+2557,400,12,250 mg,Three times daily,2 weeks
+2566,404,19,250 mg,Once daily,2 weeks
+2579,411,21,250 mg,Twice daily,2 weeks
+2592,417,16,250 mg,Twice daily,2 weeks
+2615,430,34,250 mg,Every 6 hours,2 weeks
+2641,443,30,250 mg,Twice daily,2 weeks
+2647,445,20,250 mg,Twice daily,2 weeks
+2649,446,46,250 mg,Twice daily,2 weeks
+2653,448,18,250 mg,Three times daily,2 weeks
+2667,454,6,250 mg,Once daily,2 weeks
+2675,458,22,250 mg,Every 6 hours,2 weeks
+2708,472,41,250 mg,Twice daily,2 weeks
+2770,504,15,250 mg,Once daily,2 weeks
+2795,516,45,250 mg,Three times daily,2 weeks
+2799,518,19,250 mg,Twice daily,2 weeks
+2804,521,16,250 mg,Three times daily,2 weeks
+2814,527,8,250 mg,Twice daily,2 weeks
+2831,535,21,250 mg,Twice daily,2 weeks
+2836,537,6,250 mg,Once daily,2 weeks
+2845,540,47,250 mg,Once daily,2 weeks
+2848,541,48,250 mg,Once daily,2 weeks
+2861,548,9,250 mg,Once daily,2 weeks
+2862,549,4,250 mg,Every 6 hours,2 weeks
+2874,555,11,250 mg,Once daily,2 weeks
+2875,555,16,250 mg,Twice daily,2 weeks
+2883,561,25,250 mg,Once daily,2 weeks
+2889,563,9,250 mg,Every 6 hours,2 weeks
+2892,565,23,250 mg,Once daily,2 weeks
+2918,576,15,250 mg,Twice daily,2 weeks
+2963,599,17,250 mg,Once daily,2 weeks
+2990,616,41,250 mg,Once daily,2 weeks
+3004,623,14,250 mg,Once daily,2 weeks
+3020,631,1,250 mg,Three times daily,2 weeks
+3042,642,26,250 mg,Every 6 hours,2 weeks
+3089,669,8,250 mg,Once daily,2 weeks
+3091,670,41,250 mg,Every 6 hours,2 weeks
+3097,673,36,250 mg,Once daily,2 weeks
+3103,676,34,250 mg,Once daily,2 weeks
+3121,683,7,250 mg,Three times daily,2 weeks
+3126,686,27,250 mg,Every 6 hours,2 weeks
+3140,692,37,250 mg,Once daily,2 weeks
+3142,693,40,250 mg,Every 6 hours,2 weeks
+3150,696,25,250 mg,Three times daily,2 weeks
+3158,700,39,250 mg,Three times daily,2 weeks
+3178,709,36,250 mg,Once daily,2 weeks
+3186,713,16,250 mg,Once daily,2 weeks
+3191,715,19,250 mg,Three times daily,2 weeks
+3207,726,33,250 mg,Three times daily,2 weeks
+3211,728,3,250 mg,Every 6 hours,2 weeks
+3221,734,28,250 mg,Twice daily,2 weeks
+3223,735,32,250 mg,Three times daily,2 weeks
+3226,736,38,250 mg,Twice daily,2 weeks
+3230,738,46,250 mg,Twice daily,2 weeks
+3238,744,5,250 mg,Three times daily,2 weeks
+3287,765,29,250 mg,Three times daily,2 weeks
+3291,767,36,250 mg,Once daily,2 weeks
+3299,771,33,250 mg,Three times daily,2 weeks
+3325,784,10,250 mg,Every 6 hours,2 weeks
+3339,792,16,250 mg,Once daily,2 weeks
+3372,809,42,250 mg,Twice daily,2 weeks
+3385,815,43,250 mg,Once daily,2 weeks
+3405,825,7,250 mg,Twice daily,2 weeks
+3422,832,41,250 mg,Three times daily,2 weeks
+3463,852,27,250 mg,Twice daily,2 weeks
+3501,873,48,250 mg,Three times daily,2 weeks
+3525,883,30,250 mg,Twice daily,2 weeks
+3527,884,13,250 mg,Twice daily,2 weeks
+3546,895,41,250 mg,Once daily,2 weeks
+3559,901,13,250 mg,Three times daily,2 weeks
+1796,7,3,250 mg,Three times daily,5 days
+1825,22,19,250 mg,Every 6 hours,5 days
+1876,45,27,250 mg,Every 6 hours,5 days
+1878,46,39,250 mg,Three times daily,5 days
+1897,57,20,250 mg,Twice daily,5 days
+1908,64,41,250 mg,Three times daily,5 days
+1917,69,17,250 mg,Every 6 hours,5 days
+1932,79,23,250 mg,Three times daily,5 days
+1974,100,10,250 mg,Every 6 hours,5 days
+2006,116,28,250 mg,Three times daily,5 days
+2018,122,14,250 mg,Twice daily,5 days
+2028,126,19,250 mg,Twice daily,5 days
+2030,127,47,250 mg,Once daily,5 days
+2078,152,43,250 mg,Twice daily,5 days
+2084,156,17,250 mg,Twice daily,5 days
+2087,158,24,250 mg,Once daily,5 days
+2094,162,11,250 mg,Three times daily,5 days
+2127,179,31,250 mg,Three times daily,5 days
+2140,184,17,250 mg,Every 6 hours,5 days
+2168,197,48,250 mg,Every 6 hours,5 days
+2186,206,35,250 mg,Once daily,5 days
+2201,213,8,250 mg,Once daily,5 days
+2242,234,20,250 mg,Once daily,5 days
+2264,246,3,250 mg,Once daily,5 days
+2267,248,14,250 mg,Once daily,5 days
+2298,262,20,250 mg,Every 6 hours,5 days
+2322,275,13,250 mg,Three times daily,5 days
+2325,276,38,250 mg,Three times daily,5 days
+2329,277,30,250 mg,Every 6 hours,5 days
+2381,305,13,250 mg,Three times daily,5 days
+2397,314,21,250 mg,Three times daily,5 days
+2412,323,8,250 mg,Every 6 hours,5 days
+2420,327,35,250 mg,Three times daily,5 days
+2425,328,22,250 mg,Three times daily,5 days
+2431,334,40,250 mg,Three times daily,5 days
+2437,336,14,250 mg,Three times daily,5 days
+2483,361,50,250 mg,Three times daily,5 days
+2487,363,1,250 mg,Three times daily,5 days
+2490,365,7,250 mg,Three times daily,5 days
+2491,366,14,250 mg,Every 6 hours,5 days
+2498,369,1,250 mg,Every 6 hours,5 days
+2500,369,26,250 mg,Once daily,5 days
+2508,373,9,250 mg,Three times daily,5 days
+2546,395,24,250 mg,Every 6 hours,5 days
+2547,395,26,250 mg,Every 6 hours,5 days
+2584,414,25,250 mg,Once daily,5 days
+2590,416,13,250 mg,Twice daily,5 days
+2598,420,48,250 mg,Three times daily,5 days
+2608,425,6,250 mg,Every 6 hours,5 days
+2623,433,43,250 mg,Three times daily,5 days
+2628,436,36,250 mg,Three times daily,5 days
+2660,451,22,250 mg,Twice daily,5 days
+2670,455,9,250 mg,Twice daily,5 days
+2687,462,33,250 mg,Three times daily,5 days
+2698,467,10,250 mg,Every 6 hours,5 days
+2722,479,10,250 mg,Once daily,5 days
+2723,480,49,250 mg,Three times daily,5 days
+2732,485,19,250 mg,Three times daily,5 days
+2748,493,13,250 mg,Every 6 hours,5 days
+2752,495,49,250 mg,Twice daily,5 days
+2809,524,39,250 mg,Once daily,5 days
+2817,528,27,250 mg,Once daily,5 days
+2827,533,18,250 mg,Three times daily,5 days
+2834,536,38,250 mg,Every 6 hours,5 days
+2870,553,10,250 mg,Once daily,5 days
+2873,554,41,250 mg,Twice daily,5 days
+2877,556,8,250 mg,Every 6 hours,5 days
+2887,563,16,250 mg,Every 6 hours,5 days
+2891,565,15,250 mg,Twice daily,5 days
+2914,575,2,250 mg,Three times daily,5 days
+2927,581,17,250 mg,Every 6 hours,5 days
+2947,591,34,250 mg,Twice daily,5 days
+2989,616,31,250 mg,Three times daily,5 days
+2997,620,38,250 mg,Every 6 hours,5 days
+3002,622,21,250 mg,Once daily,5 days
+3034,639,28,250 mg,Twice daily,5 days
+3039,641,14,250 mg,Twice daily,5 days
+3050,648,39,250 mg,Every 6 hours,5 days
+3052,649,20,250 mg,Three times daily,5 days
+3106,677,2,250 mg,Three times daily,5 days
+3107,677,46,250 mg,Three times daily,5 days
+3125,685,26,250 mg,Once daily,5 days
+3127,686,17,250 mg,Three times daily,5 days
+3148,696,45,250 mg,Twice daily,5 days
+3151,697,42,250 mg,Once daily,5 days
+3155,699,20,250 mg,Once daily,5 days
+3157,700,33,250 mg,Three times daily,5 days
+3167,704,33,250 mg,Once daily,5 days
+3171,706,17,250 mg,Twice daily,5 days
+3182,711,38,250 mg,Every 6 hours,5 days
+3229,737,45,250 mg,Twice daily,5 days
+3254,751,9,250 mg,Twice daily,5 days
+3270,758,50,250 mg,Once daily,5 days
+3281,763,14,250 mg,Three times daily,5 days
+3284,764,12,250 mg,Three times daily,5 days
+3311,777,9,250 mg,Once daily,5 days
+3331,788,26,250 mg,Twice daily,5 days
+3373,810,5,250 mg,Every 6 hours,5 days
+3376,811,29,250 mg,Twice daily,5 days
+3387,816,22,250 mg,Twice daily,5 days
+3393,818,37,250 mg,Three times daily,5 days
+3406,825,20,250 mg,Twice daily,5 days
+3424,833,44,250 mg,Once daily,5 days
+3434,839,47,250 mg,Twice daily,5 days
+3475,858,39,250 mg,Every 6 hours,5 days
+3480,861,28,250 mg,Three times daily,5 days
+3494,869,20,250 mg,Twice daily,5 days
+3498,871,32,250 mg,Twice daily,5 days
+3513,878,7,250 mg,Once daily,5 days
+3520,880,36,250 mg,Every 6 hours,5 days
+3539,891,7,250 mg,Every 6 hours,5 days

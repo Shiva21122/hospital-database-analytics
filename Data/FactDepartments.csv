@@ -1,0 +1,16 @@
+DepartmentID,DepartmentName,Location,PhoneExtension
+1,Admin,A-203,2000
+2,Finance,B-259,2001
+3,HR,C-216,2002
+4,IT,A-353,2003
+5,Emergency,B-336,2004
+6,General,C-340,2005
+7,Cardiology,A-382,2006
+8,Pediatric,B-223,2007
+9,Orthopedic,C-263,2008
+10,Neurology,A-231,2009
+11,Obstetrics & Gynaecology,B-308,2010
+12,Hematology,C-238,2011
+13,Anesthesiology,A-330,2012
+14,Radiology,B-455,2013
+15,Pathology,C-215,2014
